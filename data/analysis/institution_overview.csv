@@ -1,0 +1,5 @@
+institution,listed_faculty,faculty_with_papers,publications,with_faculty_author,journal,conference,q1,q1_if_gt5,q1_if_gt10,authors_lt10,authors_ge10,authors_ge100,citations,international_share
+IIT Bhubaneswar,249,249,5629,4028,4451,1178,2346,1492,223,5345,284,142,87672,0.239
+IIT Indore,858,858,9721,8554,8271,1450,4760,3043,444,9125,596,167,185470,0.333
+IIT Mandi,405,405,6092,4827,4709,1383,2675,1732,281,5860,232,1,91145,0.271
+Group 6 (all three),1512,1512,21344,17317,17340,4004,9717,6214,934,20255,1089,310,362628,0.291

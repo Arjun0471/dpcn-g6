@@ -1,0 +1,1882 @@
+name,institution,department,degree_centrality,betweenness,community,openalex_author_id
+Shaikh Md. Mobin,IIT Indore,Chemistry,0.05058,0.069461,2,A5014287826
+Hem Chandra Jha,IIT Indore,Biosciences and Biomedical Engineering,0.05,0.12179,0,A5004791581
+Rajesh Kumar,IIT Indore,Physics,0.0407,0.040396,14,A5037035490
+Rahul Vaish,IIT Mandi,Mechanical and Materials Engineering,0.02965,0.03966,1,A5002274636
+Parasharam Maruti Shirage,IIT Indore,Metallurgy Engineering and Materials Science,0.02965,0.047588,12,A5004947962
+Biswarup Pathak,IIT Indore,Chemistry,0.02907,0.041071,15,A5018218171
+Venkata Krishnan,IIT Mandi,Mechanical and Materials Engineering,0.02907,0.0283,9,A5079283559
+Satinder Kumar Sharma,IIT Mandi,Computing and Electrical Engineering,0.02733,0.038072,5,A5054822912
+Viswanath Balakrishnan,IIT Mandi,Mechanical and Materials Engineering,0.02674,0.063966,1,A5074008393
+Shaibal Mukherjee,IIT Indore,Electrical Engineering,0.02558,0.033536,6,A5012314390
+Somaditya Sen,IIT Indore,Physics,0.02326,0.047115,16,A5040954691
+Suman Mukhopadhyay,IIT Indore,Chemistry,0.02326,0.013693,2,A5081301889
+I. A. Palani,IIT Indore,Mechanical Engineering,0.02267,0.04325,7,A5110968666
+Subrata Ghosh,IIT Mandi,Mechanical and Materials Engineering,0.02209,0.014109,5,A5062596336
+Apurba K. Das,IIT Indore,Chemistry,0.02151,0.02353,6,A5101471772
+Srimanta Pakhira,IIT Indore,Physics,0.02151,0.030543,6,A5062176232
+Raghunath Sahoo,IIT Indore,Physics,0.02093,0.024321,18,A5077943951
+Nidhi Varshney,IIT Indore,Biosciences and Biomedical Engineering,0.02093,0.011669,0,A5063842708
+Rupesh S. Devan,IIT Indore,Metallurgy Engineering and Materials Science,0.02035,0.012441,12,A5032252451
+Ram Bilas Pachori,IIT Indore,Electrical Engineering,0.02035,0.138713,3,A5030314469
+Parimal Kar,IIT Indore,Biosciences and Biomedical Engineering,0.01919,0.004976,0,A5090815521
+Tridib K. Sarma,IIT Indore,Chemistry,0.01919,0.031862,0,A5050990818
+Rajneesh Misra,IIT Indore,Chemistry,0.0186,0.012008,2,A5081181437
+Debasis Nayak,IIT Indore,Biosciences and Biomedical Engineering,0.0186,0.010793,0,A5041519944
+Budhadev Baral,IIT Indore,Biosciences and Biomedical Engineering,0.0186,0.01499,0,A5017855708
+Sunny Zafar,IIT Mandi,Mechanical and Materials Engineering,0.0186,0.048549,25,A5091674768
+Sunil Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.01802,0.009294,16,A5005263157
+Vishal Singh Chauhan,IIT Mandi,Mechanical and Materials Engineering,0.01802,0.006608,1,A5101875245
+Chayan Kanti Nandi,IIT Mandi,Mechanical and Materials Engineering,0.01744,0.052261,8,A5078684292
+Avinash Sonawane,IIT Indore,Biosciences and Biomedical Engineering,0.01744,0.020882,0,A5006894778
+Love Bansal,IIT Indore,Physics,0.01744,0.005956,14,A5076560758
+Deb Kumar Rath,IIT Indore,Physics,0.01686,0.008985,14,A5019950172
+I. A. Palani,IIT Indore,Mechanical Engineering,0.01628,0.008956,7,A5112011426
+Manushree Tanwar,IIT Indore,Physics,0.01628,0.006639,14,A5022739905
+Pankaj R. Sagdeo,IIT Indore,Physics,0.01628,0.018951,14,A5057157225
+Shweta Jakhmola,IIT Indore,Biosciences and Biomedical Engineering,0.0157,0.006026,0,A5065406794
+Vaishali Saini,IIT Indore,Biosciences and Biomedical Engineering,0.0157,0.000776,0,A5032307844
+Dharmendra Kashyap,IIT Indore,Biosciences and Biomedical Engineering,0.0157,0.005688,0,A5009566946
+Vimal Bhatia,IIT Indore,Electrical Engineering,0.0157,0.026093,22,A5050580025
+Kshitish Kumar Pradhan,IIT Indore,Physics,0.01512,3.8e-05,18,A5104521764
+Varun Dutt,IIT Mandi,Humanities and Social Sciences,0.01512,0.066321,4,A5010689942
+Suman Kalyan Pal,IIT Mandi,Mechanical and Materials Engineering,0.01512,0.008058,5,A5090079709
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.01453,0.01647,1,A5101582182
+Abhijeet Joshi,IIT Indore,Biosciences and Biomedical Engineering,0.01453,0.017041,0,A5052539291
+Jaspreet Kaur Randhawa,IIT Mandi,Mechanical and Materials Engineering,0.01453,0.011393,8,A5055366303
+Annu Rani,IIT Indore,Biosciences and Biomedical Engineering,0.01453,0.002179,0,A5078854329
+Omkar Indari,IIT Indore,Biosciences and Biomedical Engineering,0.01395,0.004471,0,A5078575843
+Rik Rani Koner,IIT Mandi,Chemical Sciences,0.01395,0.006955,9,A5033623782
+Devesh K. Pathak,IIT Indore,Physics,0.01395,0.006299,14,A5084140993
+Prem Felix Siril,IIT Mandi,Mechanical and Materials Engineering,0.01395,0.004009,8,A5056153595
+Amit Prasad,IIT Mandi,Biosciences and Bioengineering,0.01395,0.086921,25,A5011365505
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.01395,0.005465,1,A5026988895
+Satvasheel Powar,IIT Mandi,Mechanical and Materials Engineering,0.01395,0.009969,1,A5073443416
+Atul Dhar,IIT Mandi,Mechanical and Materials Engineering,0.01395,0.016524,1,A5044095495
+Santosh Kumar Vishvakarma,IIT Indore,Electrical Engineering,0.01395,0.029748,21,A5068792760
+Amit Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.01395,0.019124,0,A5100706992
+Chanchal Rani,IIT Indore,Physics,0.01395,0.001372,14,A5089133850
+Kangkan Goswami,IIT Indore,Physics,0.01337,0.009026,18,A5114376058
+Tanushree Ghosh,IIT Indore,Physics,0.01337,0.0021,14,A5022419876
+D. Behera,IIT Indore,Physics,0.01337,2.5e-05,18,A5045501939
+Sumanta Samal,IIT Indore,Metallurgy Engineering and Materials Science,0.01279,0.073855,23,A5084901255
+Tushar Kanti Mukherjee,IIT Indore,Chemistry,0.01279,0.041263,0,A5043782371
+U. C. Mohanty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.01279,0.031593,10,A5062373252
+Sanjay Kumar Singh,IIT Indore,Chemistry,0.01279,0.008039,15,A5085601592
+M.S.K. Manikandan,IIT Indore,Mechanical Engineering,0.01279,0.004176,7,A5101715342
+Chandrabhan Patel,IIT Indore,Electrical Engineering,0.01279,0.01134,6,A5038907352
+Neelkamal Mallick,IIT Indore,Physics,0.01221,1.5e-05,18,A5082403328
+Vipul Singh,IIT Indore,Electrical Engineering,0.01221,0.005116,7,A5052283774
+Manish Kumar Goyal,IIT Indore,Civil Engineering,0.01221,0.039452,17,A5087945021
+M. Tanveer,IIT Indore,Mathematics,0.01221,0.053478,3,A5004222223
+Pranit Hemant Bagde,IIT Indore,Biosciences and Biomedical Engineering,0.01221,0.001568,0,A5092150498
+Bhumika Sahu,IIT Indore,Physics,0.01221,0.00271,14,A5060617748
+Himanshu Pathak,IIT Mandi,Mechanical and Materials Engineering,0.01221,0.012761,25,A5090265376
+Sharad Gupta,IIT Indore,Biosciences and Biomedical Engineering,0.01221,0.005626,7,A5057718842
+Dhirendra Kumar Rai,IIT Indore,Metallurgy Engineering and Materials Science,0.01221,0.036749,23,A5053143046
+Bidyut Kumar Kundu,IIT Indore,Chemistry,0.01221,0.00173,2,A5078442972
+Ashish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.01163,0.001746,9,A5100739706
+Prosenjit Mondal,IIT Mandi,Chemical Sciences,0.01163,0.007531,5,A5018948305
+Rajarshi Roy,IIT Indore,Biosciences and Biomedical Engineering,0.01163,0.001849,0,A5000524140
+Meenakshi Kandpal,IIT Indore,Biosciences and Biomedical Engineering,0.01163,0.000318,0,A5055930261
+Santosh Bimli,IIT Indore,Metallurgy Engineering and Materials Science,0.01163,0.002173,12,A5075436835
+Abhinav Raghuvanshi,IIT Indore,Chemistry,0.01163,0.011733,6,A5039751503
+Dericks Praise Shukla,IIT Mandi,Civil and Environmental Engineering,0.01163,0.029058,4,A5089662315
+Bharat Singh Rajpurohit,IIT Mandi,Computing and Electrical Engineering,0.01163,0.010145,31,A5079764374
+Abhinav Kranti,IIT Indore,Electrical Engineering,0.01163,0.006746,6,A5083705105
+Rajanish Giri,IIT Mandi,Biosciences and Bioengineering,0.01163,0.015539,8,A5068982877
+Syed Abbas,IIT Mandi,Mathematical and Statistical Sciences,0.01163,0.023809,27,A5067198101
+Suraj Prasad,IIT Indore,Physics,0.01163,1.5e-05,18,A5076592941
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.01105,0.001266,0,A5101483155
+Chethana Rao,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.013365,8,A5030727293
+Ashutosh Kumar Singh,IIT Mandi,Chemical Sciences,0.01105,0.00453,8,A5020993226
+Amitesh Kumar,IIT Indore,Atomic Energy,0.01105,0.000743,6,A5078736597
+Ajay Kumar,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.001207,9,A5101581402
+Amrendra Kumar Singh,IIT Indore,Chemistry,0.01105,0.014733,37,A5001933666
+Shrish Nath Upadhyay,IIT Indore,Metallurgy Engineering and Materials Science,0.01105,0.002502,6,A5001626384
+Sunil Kumar,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.001278,5,A5100767861
+Neha Garg,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.00844,8,A5059911286
+Lalita Sharma,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.009516,8,A5031160346
+Amit Kumar Jaiswal,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.009925,26,A5083149720
+Moolchand Sharma,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.004927,1,A5063007154
+Mohammad Talha,IIT Mandi,Mechanical and Materials Engineering,0.01105,0.007014,25,A5107967130
+Aaryashree Aaryashree,IIT Indore,Chemistry,0.01047,0.000483,6,A5037391228
+Deepa Thakur,IIT Mandi,Mechanical and Materials Engineering,0.01047,0.001162,1,A5013607561
+Mangal Das,IIT Indore,Unknown,0.01047,0.001546,6,A5029973124
+Vishesh Manjunath,IIT Indore,Metallurgy Engineering and Materials Science,0.01047,0.000986,12,A5015730550
+Md Arif Khan,IIT Indore,Electrical Engineering,0.01047,9.2e-05,6,A5054897202
+Shagufi Naz Ansari,IIT Indore,Chemistry,0.01047,2.6e-05,2,A5076268398
+Ritesh Bhardwaj,IIT Indore,Electrical Engineering,0.01047,0.000452,6,A5101538712
+Neelesh Kumar Jain,IIT Indore,Mechanical Engineering,0.01047,0.013814,7,A5060528800
+Abhirup Datta,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.01047,0.02412,29,A5061919092
+Rajan Jha,IIT Bhubaneswar,Basic Sciences,0.01047,0.030492,11,A5047235044
+Mangili Venkateswarulu,IIT Mandi,Chemical Sciences,0.01047,0.000772,9,A5083903006
+Aruna Tiwari,IIT Indore,Computer Science and Engineering,0.01047,0.013809,3,A5015363446
+Suman Deb,IIT Indore,Physics,0.01047,1e-05,18,A5057629720
+Nikita Ahlawat,IIT Indore,Physics,0.01047,0.000203,14,A5111149138
+Anjali Chaudhary,IIT Indore,Physics,0.01047,0.006438,14,A5039840285
+S.S. Mani Prabu,IIT Indore,Mechanical Engineering,0.01047,0.002268,7,A5047856526
+Prashant Kumar Mishra,IIT Indore,Physics,0.01047,0.000732,16,A5021212472
+Kiran Bala,IIT Indore,Biosciences and Biomedical Engineering,0.00988,0.017726,20,A5054206190
+Satyanarayan Patel,IIT Indore,Mechanical Engineering,0.00988,0.056004,1,A5014754830
+Kisor Kumar Sahu,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00988,0.02406,13,A5032736494
+Mayank Dubey,IIT Indore,Electrical Engineering,0.00988,0.006131,6,A5102842327
+Ranbir Singh,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.001415,5,A5106764816
+Satyanarayan Patel,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.056004,1,A5014754830
+Anuruddh Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.002662,1,A5084720953
+Kamaljeet Singh,IIT Indore,Physics,0.00988,0.005763,18,A5032253427
+Sayantan Sarkar,IIT Indore,Chemistry,0.00988,0.000553,2,A5101771923
+Diksha Gambhir,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.000452,9,A5037111055
+Pradeep Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00988,0.023768,16,A5101907338
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00988,0.023768,16,A5101907338
+Suneel Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.000859,9,A5100661040
+Indrani Choudhuri,IIT Indore,Chemistry,0.00988,0.002087,15,A5030945157
+Prateek Kumar,IIT Mandi,Biosciences and Bioengineering,0.00988,0.003155,8,A5011017617
+Mayank Kumar Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00988,0.011703,23,A5024065509
+Himmat Singh Kushwaha,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.004739,1,A5004637829
+Md Fulbabu Sk,IIT Indore,Biosciences and Biomedical Engineering,0.00988,0.000921,0,A5076764398
+Diwakar Singh,IIT Mandi,Mechanical and Materials Engineering,0.00988,0.006839,1,A5075620882
+Priyanka Choudhary,IIT Mandi,Chemical Sciences,0.0093,0.001676,9,A5002882160
+Raj Kiran,IIT Mandi,Mechanical and Materials Engineering,0.0093,0.001163,1,A5074716015
+Sumit Kumar Choudhary,IIT Mandi,Computing and Electrical Engineering,0.0093,0.001199,5,A5102965985
+Santosh S. Hosmani,IIT Indore,Metallurgy Engineering and Materials Science,0.0093,0.007407,12,A5052769815
+Subin Kaladi Chondath,IIT Indore,Physics,0.0093,7.7e-05,14,A5133872656
+Tarun Verma,IIT Indore,Biosciences and Biomedical Engineering,0.0093,3.7e-05,0,A5037006548
+Biswajit Mandal,IIT Indore,Centre for Advanced Electronics,0.0093,0.000373,6,A5023233319
+Brajendra Singh Sengar,IIT Indore,Electrical Engineering,0.0093,0.000403,6,A5063210368
+Sandeep Pattnaik,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0093,0.045265,10,A5047947355
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.0093,0.010403,32,A5100749895
+Sayan Maiti,IIT Indore,Chemistry,0.0093,0.00459,6,A5003458178
+Suchita Kandpal,IIT Indore,Physics,0.0093,0.00047,14,A5085794415
+Pawan Kumar,IIT Indore,Electrical Engineering,0.0093,0.001411,6,A5102009323
+Rohit G. Jadhav,IIT Indore,Chemistry,0.00872,0.006323,6,A5038134047
+Pragti Pragti,IIT Indore,Chemistry,0.00872,0.001864,2,A5061693592
+Gaurav Siddharth,IIT Indore,Electrical Engineering,0.00872,9.7e-05,6,A5083150460
+Navneet Chandra Verma,IIT Mandi,Mechanical and Materials Engineering,0.00872,0.001596,8,A5055710337
+Sanjay Kumar,IIT Indore,Electrical Engineering,0.00872,0.003346,6,A5071523282
+Rohit Kumar Singh,IIT Indore,Electrical Engineering,0.00872,0.000516,6,A5079450240
+Pawan Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00872,0.006174,1,A5010355188
+Ashish Bahuguna,IIT Mandi,Chemical Sciences,0.00872,0.000335,9,A5008167283
+Gourab Dey,IIT Mandi,Chemical Sciences,0.00872,0.002094,9,A5043987581
+Subbian Jayachandran,IIT Indore,Mechanical Engineering,0.00872,0.000411,7,A5081415511
+Farhan Anjum,IIT Mandi,Mechanical and Materials Engineering,0.00872,0.001219,8,A5002363558
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00872,0.036858,23,A5044711126
+Niladri Bihari Puhan,IIT Bhubaneswar,Electrical and Computer Sciences,0.00872,0.073028,10,A5086045014
+Richa Rajak,IIT Indore,Chemistry,0.00872,1.6e-05,2,A5006994057
+Srikant Gollapudi,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00872,0.021698,13,A5068504732
+Mirza S. Baig,IIT Indore,Biosciences and Biomedical Engineering,0.00872,0.008213,36,A5028188988
+Sampak Samanta,IIT Indore,Chemistry,0.00872,0.003942,2,A5001546272
+Prabhat K. Upadhyay,IIT Indore,Electrical Engineering,0.00872,0.019853,24,A5047494900
+Surjendu Bikash Dutta,IIT Indore,Physics,0.00872,0.002437,7,A5045353443
+Sheetal Gupta,IIT Indore,Metallurgy Engineering and Materials Science,0.00872,0.003686,23,A5075272725
+Shailendra Kumar Saxena,IIT Indore,Physics,0.00872,0.000336,14,A5101706750
+Arnav V. Bhavsar,IIT Mandi,Computing and Electrical Engineering,0.00872,0.012469,4,A5018647189
+Sumeet K. Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00872,0.000906,1,A5076415494
+Y. Bailung,IIT Indore,Physics,0.00814,2e-06,18,A5040851175
+Priyanka Yogi,IIT Indore,Physics,0.00814,8.7e-05,14,A5038293210
+Bhagyarathi Sahoo,IIT Indore,Physics,0.00814,3e-06,18,A5108033212
+Sumanta Chowdhury,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.001898,8,A5017043559
+Bandhana Devi,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.002235,9,A5070612911
+Akshay Gaur,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.00041,1,A5046464351
+Ashutosh Kumar,IIT Indore,Electrical Engineering,0.00814,0.008241,32,A5103259394
+Anand Kumar Keshri,IIT Mandi,Biosciences and Bioengineering,0.00814,0.00685,25,A5069243541
+Manopriya Samtham,IIT Indore,Metallurgy Engineering and Materials Science,0.00814,0.000579,12,A5078559701
+Deepu Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.007023,16,A5032153009
+Alfa Sharma,IIT Indore,Metallurgy Engineering and Materials Science,0.00814,0.000711,12,A5058390326
+Vivek Garg,IIT Indore,Electrical Engineering,0.00814,2e-05,6,A5036516846
+Deepu Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00814,0.007023,16,A5032153009
+Bhaskar Mondal,IIT Mandi,Chemical Sciences,0.00814,0.010337,9,A5068735630
+Vishnu Awasthi,IIT Indore,Electrical Engineering,0.00814,0.003189,6,A5063538403
+Anshu Sahu,IIT Indore,Mechanical Engineering,0.00814,0.002416,7,A5021918507
+B Raju Naik,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.000651,1,A5080266607
+Arup Mahata,IIT Indore,Chemistry,0.00814,0.000501,15,A5071657416
+Vikash Kumar,IIT Indore,Physics,0.00814,0.000455,6,A5084957071
+Subhash Chand Yadav,IIT Indore,Metallurgy Engineering and Materials Science,0.00814,0.000597,12,A5020043133
+Indrasen Singh,IIT Indore,Mechanical Engineering,0.00814,0.01085,12,A5007576686
+Kush Kaushik,IIT Mandi,Chemical Sciences,0.00814,0.000309,8,A5055639062
+Manish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.001852,1,A5100660659
+Santosh Kumar Sahu,IIT Indore,Mechanical Engineering,0.00814,0.026753,24,A5057204554
+Kajal Sharma,IIT Mandi,Chemical Sciences,0.00814,0.000909,8,A5036011824
+M. Sabarimalai Manikandan,IIT Bhubaneswar,Electrical and Computer Sciences,0.00814,0.009727,19,A5062664549
+Ravinder Kaushik,IIT Mandi,Mechanical and Materials Engineering,0.00814,0.001889,8,A5008430185
+Vikash Mishra,IIT Indore,Physics,0.00814,0.00035,14,A5080535366
+Swati Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00756,0.009418,26,A5100719251
+Mohamad Ghulam Moinuddin,IIT Mandi,Computing and Electrical Engineering,0.00756,0.000518,5,A5055948188
+Aditya Yadav,IIT Mandi,Mechanical and Materials Engineering,0.00756,0.001473,8,A5064993780
+Suryakamal Sarma,IIT Indore,Chemistry,0.00756,0.007819,0,A5113363959
+Debadatta Swain,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00756,0.011378,10,A5064351058
+Manisha Sharma,IIT Mandi,Chemical Sciences,0.00756,2.2e-05,9,A5044753586
+V. P. Singh,IIT Mandi,Mechanical and Materials Engineering,0.00756,0.00142,1,A5073617576
+Sayan Poddar,IIT Indore,Biosciences and Biomedical Engineering,0.00756,0.000453,0,A5031168014
+Sushmita Dwivedi,IIT Indore,Metallurgy Engineering and Materials Science,0.00756,0.001719,16,A5038214743
+Abhishek Srivastava,IIT Indore,Metallurgy Engineering and Materials Science,0.00756,0.001714,12,A5030564643
+Kuber Singh Rawat,IIT Indore,Chemistry,0.00756,0.000239,15,A5065932644
+Sarathkumar Krishnan,IIT Indore,Metallurgy Engineering and Materials Science,0.00756,0.010239,23,A5044754413
+M. Kamal Warshi,IIT Indore,Physics,0.00756,0.004413,14,A5033914096
+Bodhidipra Mukherjee,IIT Mandi,Biosciences and Bioengineering,0.00756,0.002603,8,A5019806942
+Mohit Saraf,IIT Indore,Metallurgy Engineering and Materials Science,0.00756,9e-06,2,A5018441507
+Pankaj Gaur,IIT Mandi,Chemical Sciences,0.00756,0.000133,5,A5074237339
+Rakesh Deka,IIT Indore,Chemistry,0.00756,1.6e-05,2,A5012957832
+P. Vineeth Daniel,IIT Mandi,Chemical Sciences,0.00756,0.000174,5,A5051683973
+Bhumit Luhar,IIT Mandi,Physical Sciences,0.00756,0.000235,1,A5092445794
+Shubhajit Roy Chowdhury,IIT Mandi,Computing and Electrical Engineering,0.00756,0.012464,4,A5056024296
+Rituporn Gogoi,IIT Mandi,Chemical Sciences,0.00756,0.000556,8,A5059595163
+Ruchi Singh,IIT Indore,Electrical Engineering,0.00756,0.000279,6,A5064033061
+Kousik Samanta,IIT Bhubaneswar,Basic Sciences,0.00756,0.008297,13,A5051941433
+Soobhankar Pati,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00756,0.019304,13,A5101513046
+Saroj K. Nayak,IIT Bhubaneswar,Basic Sciences,0.00756,0.017719,13,A5008046108
+Animesh Mandal,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00698,0.010142,13,A5112771382
+Rama Krushna Sabat,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00698,0.058111,23,A5104219088
+Garima Agrawal,IIT Mandi,Chemical Sciences,0.00698,0.001887,26,A5065936580
+Mahendra Kumar Awasthi,IIT Indore,Chemistry,0.00698,0.00233,15,A5078340971
+Shyam Kumar Masakapalli,IIT Mandi,Mechanical and Materials Engineering,0.00698,0.009508,26,A5053262267
+Sarika Jalan,IIT Indore,Physics,0.00698,0.00936,38,A5040455235
+Kumbam Lingeshwar Reddy,IIT Mandi,Mechanical and Materials Engineering,0.00698,0.000383,9,A5012390932
+Parvez A. Shaikh,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.000457,12,A5002386843
+Harpreet Kaur,IIT Mandi,Chemical Sciences,0.00698,0.000339,9,A5100661466
+Shivendu Mishra,IIT Indore,Chemistry,0.00698,0.003887,6,A5101952301
+Nisha Amarnath Jonniya,IIT Indore,Biosciences and Biomedical Engineering,0.00698,0.000373,0,A5048179593
+Anoop K. Gupta,IIT Indore,Chemistry,0.00698,0.000713,2,A5088500094
+Santu Nandi,IIT Mandi,Mechanical and Materials Engineering,0.00698,0.0003,5,A5023199174
+Shailesh  Ishwarlal Kundalwal,IIT Indore,Mechanical Engineering,0.00698,0.010728,24,A5035311261
+Kala Venkata Uday,IIT Mandi,Civil and Environmental Engineering,0.00698,0.016181,4,A5000083691
+Yadu Chandran,IIT Mandi,Mechanical and Materials Engineering,0.00698,0.000235,1,A5005311924
+Kaushik Natarajan,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,6e-06,2,A5071545772
+K. Akash,IIT Indore,Mechanical Engineering,0.00698,3.6e-05,7,A5108111210
+Zahir Abbas,IIT Indore,Chemistry,0.00698,1e-05,2,A5005236030
+Taniya Bhardwaj,IIT Mandi,Biosciences and Bioengineering,0.00698,0.00022,8,A5052775267
+K. Mukherjee,IIT Mandi,Mechanical and Materials Engineering,0.00698,0.031034,34,A5065188156
+Akbar Mohammad,IIT Indore,Chemistry,0.00698,7e-06,2,A5024133192
+Ekta Choudhary,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.000393,12,A5006328325
+Arun Kumar Yadav,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.000587,16,A5068322928
+Ruhul Amin,IIT Indore,Physics,0.00698,8.8e-05,16,A5027195826
+Sonam Mandani,IIT Indore,Chemistry,0.00698,0.000451,0,A5001166150
+Pawan Kumar,IIT Indore,Electrical Engineering,0.00698,0.000463,2,A5062087635
+Novina Malviya,IIT Indore,Chemistry,0.00698,0.000629,2,A5029413590
+Sameena R. Mulani,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.000131,12,A5018937857
+Manoj D. Joshi,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.003052,12,A5075740003
+Manish Badole,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.00114,16,A5010401979
+Shyama Charan Mandal,IIT Indore,Chemistry,0.00698,0.00059,15,A5028104096
+Surbhi Dogra,IIT Mandi,Chemical Sciences,0.00698,0.000275,5,A5079314391
+Aditya Nigam,IIT Mandi,Computing and Electrical Engineering,0.00698,0.015599,4,A5103245984
+Pushpendra Mani Mishra,IIT Mandi,Biosciences and Bioengineering,0.00698,0.00085,8,A5016379075
+Sunanda Samanta,IIT Indore,Biosciences and Biomedical Engineering,0.00698,0.001395,0,A5039200161
+Dilip Pandey,IIT Indore,Chemistry,0.00698,0.003572,6,A5102987958
+Anil Daliprasad Pathak,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00698,0.002709,13,A5083952019
+Aditya Prasun,IIT Indore,Chemistry,0.00698,0.000243,0,A5115549627
+Archana Kanwade,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.000427,12,A5066022056
+Sumit Chaudhary,IIT Indore,Electrical Engineering,0.00698,0.000618,6,A5044049577
+Murugesan Jayaprakash,IIT Indore,Metallurgy Engineering and Materials Science,0.00698,0.006183,7,A5111587840
+E.G. Rini,IIT Indore,Physics,0.00698,0.00026,16,A5008724342
+Prateep Singh Sagara,IIT Mandi,Chemical Sciences,0.0064,0.000259,9,A5007456444
+Sourabh Kumar,IIT Indore,Chemistry,0.0064,0.001742,15,A5021166265
+P. C. Sinha,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0064,0.002921,10,A5066147378
+Prativa Majee,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.000377,0,A5011476953
+Chirag Porwal,IIT Mandi,Mechanical and Materials Engineering,0.0064,0.000236,1,A5062229372
+Pranav Tiwari,IIT Indore,Metallurgy Engineering and Materials Science,0.0064,0.000382,2,A5076794940
+Suman Bishnoi,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.001341,0,A5071256687
+Sandeep Das,IIT Indore,Chemistry,0.0064,9e-06,15,A5013189148
+Ravi Raj Singh,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.000969,0,A5102391807
+Jena Akash Kumar Satrughna,IIT Indore,Physics,0.0064,0.001077,12,A5089393014
+Hari Mohan,IIT Indore,Physics,0.0064,6.1e-05,14,A5036362895
+Lichchhavi Sinha,IIT Indore,Metallurgy Engineering and Materials Science,0.0064,0.001027,12,A5022878065
+Pandu Ranga Vundavilli,IIT Bhubaneswar,Mechanical Sciences,0.0064,0.015531,33,A5085307384
+Subhransu Ranjan Samantaray,IIT Bhubaneswar,Electrical and Computer Sciences,0.0064,0.004814,19,A5057919668
+Akash Kankane,IIT Indore,Mechanical Engineering,0.0064,0.017346,12,A5010875956
+Soumen Biswas,IIT Indore,Chemistry,0.0064,0.000831,2,A5005527549
+Eshan Khan,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.000359,0,A5009165743
+Nasima Khatun,IIT Indore,Physics,0.0064,3.5e-05,16,A5006149621
+Ashish Kumar Shukla,IIT Indore,Mechanical Engineering,0.0064,0.000169,7,A5048950307
+A Roy,IIT Indore,Physics,0.0064,1e-06,18,A5107311582
+Sourav Sil,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0064,0.007569,10,A5025175792
+Mansi Srivastava,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.00113,36,A5088074814
+R Swaminathan,IIT Indore,Electrical Engineering,0.0064,0.00872,22,A5036877094
+Anil Kumar,IIT Indore,Physics,0.0064,0.001963,14,A5090017815
+Y. Bailung,IIT Indore,Unknown,0.0064,0.0,18,A5107913416
+Charu Sonkar,IIT Indore,Biosciences and Biomedical Engineering,0.0064,3.6e-05,0,A5087714834
+Shivendra Singh,IIT Indore,Chemistry,0.0064,0.009466,0,A5000730073
+Abhijit Ghosh,IIT Indore,Metallurgy Engineering and Materials Science,0.0064,0.002037,23,A5007909629
+Saurabh Kumar Yadav,IIT Indore,Centre for Advanced Electronics,0.0064,0.000686,6,A5033161435
+Padmalochan Bera,IIT Bhubaneswar,Electrical and Computer Sciences,0.0064,0.016602,19,A5071220202
+Velu Vinoj,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0064,0.01482,10,A5026943204
+Dinakar Pasla,IIT Bhubaneswar,Infrastructure,0.0064,0.015382,11,A5016622691
+Rimjhim Sangtani,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.013163,20,A5062066865
+Harekrishna Yadav,IIT Indore,Mechanical Engineering,0.0064,0.053518,24,A5000790971
+Rahul Dev Mishra,IIT Indore,Electrical Engineering,0.0064,9e-06,32,A5023477842
+Dan Sathiaraj,IIT Indore,Mechanical Engineering,0.0064,0.001815,7,A5063375913
+Birender Singh,IIT Mandi,Mechanical and Materials Engineering,0.0064,0.015803,16,A5059561255
+Anand Parey,IIT Indore,Mechanical Engineering,0.0064,0.010984,3,A5066572860
+Srivathsan Vasudevan,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.004788,7,A5079887648
+Anshu Sahu,IIT Indore,Mechanical Engineering,0.0064,0.002229,7,A5018351923
+Vidhi Agarwal,IIT Indore,Chemistry,0.0064,0.000255,0,A5101943656
+Soumitra Guin,IIT Indore,Chemistry,0.0064,0.000787,2,A5055421585
+Pankaj Sharma,IIT Indore,Electrical Engineering,0.0064,1.3e-05,6,A5085759099
+Argha Chakraborty,IIT Indore,Chemistry,0.0064,0.000266,2,A5044917001
+Ankur Kumar,IIT Mandi,Biosciences and Bioengineering,0.0064,0.000236,8,A5029687882
+Amrita Chakraborty,IIT Indore,Chemistry,0.0064,4.7e-05,0,A5058134044
+Suman Koirala,IIT Indore,Biosciences and Biomedical Engineering,0.0064,0.000138,0,A5070616743
+A. Roy,IIT Indore,Physics,0.00581,0.0,18,A5105788250
+Sharmistha Singh,IIT Indore,Physics,0.00581,1.1e-05,14,A5025369949
+Vipul Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00581,2.8e-05,9,A5054949698
+Ankita Dhiman,IIT Mandi,Chemical Sciences,0.00581,0.002738,26,A5084017226
+Kiranmayi Landu,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00581,0.002026,10,A5030466006
+A. Roy,IIT Indore,Physics,0.00581,0.002209,18,A5110016127
+Sumit Sinha‐Ray,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,0.00255,9,A5079115959
+Nandini Patra,IIT Indore,Mechanical Engineering,0.00581,2.5e-05,7,A5103126444
+Ashish Tiwari,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.001463,8,A5004135662
+Tanvi Pareek,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,0.000264,16,A5018655979
+Ankan Biswas,IIT Indore,Chemistry,0.00581,6.9e-05,6,A5101433382
+Satish Chandra Jain,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.000233,1,A5015215470
+Dimpy Bhardwaj,IIT Mandi,Chemical Sciences,0.00581,0.001453,26,A5010145688
+Nitika Arya,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.000147,1,A5070815035
+Praveen Kumar,IIT Indore,Chemistry,0.00581,4e-06,2,A5053938428
+Omkar V. Rambadey,IIT Indore,Physics,0.00581,0.000273,14,A5056851020
+Deeksha Tiwari,IIT Indore,Biosciences and Biomedical Engineering,0.00581,2.3e-05,0,A5030895203
+Ritudhwaj Tiwari,IIT Indore,Biosciences and Biomedical Engineering,0.00581,0.000154,0,A5084892555
+Pratibha Kumari,IIT Indore,Biosciences and Biomedical Engineering,0.00581,0.000162,2,A5034419079
+Krishan Kumar,IIT Mandi,Chemical Sciences,0.00581,0.001213,5,A5100697740
+Ankita Mathur,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.000558,1,A5070446141
+Shagun Sharma,IIT Mandi,Chemical Sciences,0.00581,0.002212,8,A5041805139
+Divya Verma,IIT Mandi,Mechanical and Materials Engineering,0.00581,5.2e-05,1,A5075140222
+Lokesh Yadav,IIT Indore,Physics,0.00581,9.1e-05,6,A5083060018
+Suresh Kumar Pandey,IIT Indore,Electrical Engineering,0.00581,8e-06,32,A5043880538
+Saurabh Tiwari,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,3.3e-05,16,A5041569434
+Suraj Singh Rawat,IIT Mandi,Biosciences and Bioengineering,0.00581,0.002356,25,A5045510562
+Preeti A. Bhobe,IIT Indore,Physics,0.00581,0.002251,12,A5044696028
+Astha Singh,IIT Mandi,Chemical Sciences,0.00581,0.000241,8,A5005796523
+Ajay Soni,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.002367,5,A5040380283
+C. S. Yadav,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.01522,34,A5033782513
+Khyati Girdhar,IIT Mandi,Chemical Sciences,0.00581,0.001531,5,A5102818980
+Deepika Gupta,IIT Mandi,Chemical Sciences,0.00581,0.001702,26,A5101893905
+Captain R. Singh,IIT Indore,Physics,0.00581,1e-06,18,A5072521748
+Sheshang Singh Chandel,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.003069,9,A5054431709
+Pankaj Sharma,IIT Indore,Electrical Engineering,0.00581,3e-06,6,A5079702568
+Kallayi Nabeela,IIT Indore,Chemistry,0.00581,0.00036,2,A5012111097
+Narasimharao Kitchamsetti,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,0.000299,12,A5005952459
+Puneet Gupta,IIT Indore,Computer Science and Engineering,0.00581,0.00606,21,A5077664809
+Samriddhi Saxena,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,0.001165,16,A5084479791
+Surya Sekhar Manna,IIT Indore,Chemistry,0.00581,6e-06,15,A5010117020
+Sumit Sinha‐Ray,IIT Mandi,Mechanical and Materials Engineering,0.00581,0.00255,9,A5079115959
+Bidisha Biswas,IIT Mandi,Chemical Sciences,0.00581,0.000153,5,A5113255281
+Tushar A. Kharde,IIT Indore,Chemistry,0.00581,0.001111,15,A5092375908
+Prem Babu,IIT Indore,Electrical Engineering,0.00581,6e-06,32,A5025809523
+Rishi Ranjan,IIT Indore,Chemistry,0.00581,0.000141,2,A5038725810
+Abhinav Choubey,IIT Mandi,Biosciences and Bioengineering,0.00581,0.000148,5,A5083907457
+Anoop Kumar Saini,IIT Indore,Chemistry,0.00581,2.4e-05,2,A5029897607
+Vikash Kumar Verma,IIT Indore,Electrical Engineering,0.00581,0.000259,6,A5104093661
+Uma Shankar,IIT Indore,Biosciences and Biomedical Engineering,0.00581,0.000291,0,A5085994995
+Shagun Shagun,IIT Mandi,Biosciences and Bioengineering,0.00581,0.002252,26,A5063106312
+Chanchal Sonkar,IIT Indore,Biosciences and Biomedical Engineering,0.00581,0.0002,2,A5017947134
+Sagar Biswas,IIT Indore,Chemistry,0.00581,0.001376,6,A5076111462
+Swati Rajput,IIT Indore,Electrical Engineering,0.00581,3e-06,32,A5067049818
+Vishal Kaushik,IIT Indore,Electrical Engineering,0.00581,3e-06,32,A5079272550
+Shivani Krishna Kapuganti,IIT Mandi,Biosciences and Bioengineering,0.00581,0.000124,8,A5084601890
+Rimanpreet Kaur,IIT Mandi,Biosciences and Bioengineering,0.00581,0.000292,25,A5034458855
+Deepika Tyagi,IIT Indore,Chemistry,0.00581,4.6e-05,15,A5015595898
+Khursheed Ahmad,IIT Indore,Chemistry,0.00581,5e-06,2,A5051531479
+Tulika Srivastava,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,3.3e-05,16,A5103814288
+Prasenjit Rath,IIT Bhubaneswar,Mechanical Sciences,0.00581,0.042665,11,A5085879719
+Reliance Jain,IIT Indore,Metallurgy Engineering and Materials Science,0.00581,0.001072,23,A5017484960
+Venugopal Arumuru,IIT Bhubaneswar,Mechanical Sciences,0.00581,0.064181,11,A5085508617
+A. D. Dileep,IIT Mandi,Computing and Electrical Engineering,0.00581,0.004644,4,A5112944102
+Abhimanew Dhir,IIT Mandi,Chemical Sciences,0.00581,0.003815,26,A5052703026
+Hara Prasad Nayak,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00581,6.7e-05,10,A5070516514
+Devendra Sharma,IIT Mandi,Chemical Sciences,0.00581,4e-06,9,A5031802538
+Saumya Jaiswal,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.007467,7,A5016413992
+Chinky Binnani,IIT Indore,Mathematics,0.00523,0.000389,15,A5036845372
+Sahil Kumar,IIT Mandi,Chemical Sciences,0.00523,0.0,9,A5101505383
+Rajesh Kumar,IIT Indore,Physics,0.00523,0.013166,14,A5052848876
+Anshu Kumari,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.000368,7,A5009212723
+Madhusmita Swain,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00523,0.001765,10,A5049478569
+Shilpa Thakur,IIT Mandi,Biosciences and Bioengineering,0.00523,1e-06,5,A5025026797
+Saurav Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00523,0.000668,1,A5091464030
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00523,0.023493,28,A5009822257
+Rahul Kumar Sharma,IIT Indore,Chemistry,0.00523,0.000433,15,A5017849021
+Hari Narayanan Vasavan,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,6e-05,16,A5089910662
+Pavan Kumar Kankar,IIT Indore,Mechanical Engineering,0.00523,0.00995,3,A5019041685
+Vikesh Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.000773,12,A5108132935
+Kavita Gupta,IIT Indore,Chemistry,0.00523,0.000325,15,A5063017948
+Mohammad Nasir,IIT Indore,Physics,0.00523,3.3e-05,16,A5059594015
+Preeti Bhauriyal,IIT Indore,Chemistry,0.00523,4e-06,15,A5060325614
+Nilesh K. Kumbhar,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.001997,12,A5065817892
+Namyashree Nayak,IIT Mandi,Biosciences and Bioengineering,0.00523,0.00034,8,A5053675888
+Vinay Sharma,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.000107,2,A5009012708
+Yogajivan Rout,IIT Indore,Chemistry,0.00523,0.000316,2,A5016720633
+Pratiksha Gami,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.001165,16,A5092160325
+Manvendra Singh Chauhan,IIT Mandi,Computing and Electrical Engineering,0.00523,1e-05,5,A5032015877
+Bhagyashree Priyadarshini Mishra,IIT Mandi,Chemical Sciences,0.00523,0.0,9,A5021126911
+Bulti Pramanick,IIT Mandi,Mechanical and Materials Engineering,0.00523,0.000607,8,A5026674392
+Uzma Saqib,IIT Indore,Chemistry,0.00523,0.000101,36,A5091671782
+Devanshu Sajwan,IIT Mandi,Chemical Sciences,0.00523,0.0,9,A5023498383
+Surbhi Jaiswal,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.000135,0,A5066514740
+Aayushi Miglani,IIT Indore,Physics,0.00523,2.6e-05,12,A5068275995
+Parameshwar R. Chikate,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,4.9e-05,12,A5086324849
+Satyam Kumar Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00523,4.4e-05,0,A5004366155
+Arkaj Singh,IIT Mandi,Chemical Sciences,0.00523,0.000516,1,A5111117684
+Milon Kundar,IIT Mandi,Physical Sciences,0.00523,0.000144,5,A5067734320
+Neha Choudhary,IIT Indore,Chemistry,0.00523,6e-06,2,A5038763368
+Hushan Chand,IIT Mandi,Mechanical and Materials Engineering,0.00523,0.0004,9,A5033299535
+Jayanta Dey,IIT Indore,Physics,0.00523,0.0,18,A5084010311
+Ayan Das,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.0,0,A5021889912
+Anshul Kaushik,IIT Indore,Civil Engineering,0.00523,0.019375,20,A5019032330
+Amritendu Roy,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00523,0.000886,13,A5071235122
+Anupama Ekbote,IIT Indore,Chemistry,0.00523,0.000996,2,A5011582332
+Madhurima Poddar,IIT Indore,Chemistry,0.00523,0.000656,2,A5004707052
+Mahesh Patel,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.011796,7,A5032235197
+Sharad Kumar Gupta,IIT Mandi,Civil and Environmental Engineering,0.00523,0.021685,4,A5070808458
+Pandey Rajagopalan,IIT Indore,Mechanical Engineering,0.00523,7e-06,7,A5102991759
+Sajjan Rajpoot,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.001585,36,A5072567063
+Priyanka Garg,IIT Indore,Chemistry,0.00523,3.3e-05,15,A5009761657
+Prateek Bhojane,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.001202,12,A5067545028
+M. Muralidharan,IIT Indore,Mechanical Engineering,0.00523,7e-06,7,A5108264872
+Mriganka Das,IIT Indore,Chemistry,0.00523,0.00055,2,A5050080468
+Nilima Sinha,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.0002,6,A5015042288
+Sandeep Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00523,3.3e-05,1,A5112021203
+Manish Kumar Tiwari,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,7.4e-05,12,A5032329991
+Ashrumochan Gouda,IIT Mandi,Chemical Sciences,0.00523,2e-06,9,A5016980979
+Neha Jain,IIT Indore,Biosciences and Biomedical Engineering,0.00523,9e-05,0,A5009383670
+Sharad Kumar Gupta,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.021685,4,A5070808458
+Atreyee Ghosh,IIT Indore,Biosciences and Biomedical Engineering,0.00523,0.006365,20,A5049140833
+Iyamperumal Anand Palani,IIT Indore,Mechanical Engineering,0.00523,0.00029,7,A5103646234
+Sandeep Jain,IIT Indore,Metallurgy Engineering and Materials Science,0.00523,0.000445,23,A5073210183
+Pankaj Kumar Sharma,IIT Indore,Electrical Engineering,0.00523,5e-06,6,A5032888735
+Dikeshwar Halba,IIT Indore,Physics,0.00523,7e-06,6,A5092355550
+Tulika Prakash,IIT Mandi,Biosciences and Bioengineering,0.00523,0.016882,8,A5029884541
+Narsa Reddy Tummuru,IIT Mandi,Computing and Electrical Engineering,0.00523,0.002155,31,A5103003967
+Rajesh Ghosh,IIT Mandi,Mechanical and Materials Engineering,0.00523,0.001613,1,A5013433342
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.00523,0.014178,21,A5025531371
+Reena Kyarikwal,IIT Indore,Chemistry,0.00523,3.9e-05,2,A5017312776
+Akhil Bhardwaj,IIT Mandi,Chemical Sciences,0.00465,0.000154,9,A5147348550
+Naina Arora,IIT Mandi,Biosciences and Bioengineering,0.00465,6.3e-05,25,A5083547940
+Yogendra Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,2.8e-05,12,A5037024535
+Manoj Thakur,IIT Mandi,Computing and Electrical Engineering,0.00465,0.008741,27,A5015815705
+Lalit Singh,IIT Indore,Electrical Engineering,0.00465,1e-06,32,A5016598109
+Anbarasu Manivannan,IIT Indore,Electrical Engineering,0.00465,0.001111,7,A5040832013
+Siddhant Kumar,IIT Mandi,Computing and Electrical Engineering,0.00465,0.005057,31,A5024637371
+Shilpa Chandra,IIT Mandi,Chemical Sciences,0.00465,0.001257,8,A5053329763
+Souvik Manna,IIT Indore,Chemistry,0.00465,0.000692,15,A5000215590
+Kuldeep Singh Rautela,IIT Indore,Civil Engineering,0.00465,0.022898,17,A5089723608
+Gargee Bhattacharyya,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,3.2e-05,15,A5050839675
+Tarun Kumar Sahu,IIT Indore,Chemistry,0.00465,2.4e-05,0,A5002676114
+Neminath Hubballi,IIT Indore,Computer Science and Engineering,0.00465,0.006511,28,A5028480555
+Partha Sarathi De,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00465,0.002661,13,A5073848664
+Ravinder Kumar,IIT Indore,Chemistry,0.00465,0.000131,2,A5003920227
+Daisy Sarma,IIT Indore,Chemistry,0.00465,1.7e-05,0,A5006373851
+Dushyant Kushavah,IIT Mandi,Mechanical and Materials Engineering,0.00465,7.9e-05,5,A5033509256
+Vivek Gupta,IIT Mandi,Civil and Environmental Engineering,0.00465,0.018725,17,A5028872024
+Dipayan Pal,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.000769,40,A5084021502
+Arpit Kumar Singh,IIT Indore,Mechanical Engineering,0.00465,0.001215,7,A5072560399
+Onkar S. Game,IIT Indore,Physics,0.00465,0.001837,12,A5063987684
+Robin Khosla,IIT Mandi,Computing and Electrical Engineering,0.00465,0.002017,5,A5056709988
+Gurpreet Singh,IIT Mandi,Mechanical and Materials Engineering,0.00465,3e-05,1,A5100357963
+Himanshu Kumar Poswal,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.000255,16,A5045839696
+Nitesh Dhiman,IIT Mandi,Civil and Environmental Engineering,0.00465,0.000961,4,A5111276475
+Kamlesh Kumari,IIT Mandi,Chemical Sciences,0.00465,1e-06,9,A5007639336
+Mrigendra Dubey,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.014274,23,A5021760133
+Nagendra S. Kamath,IIT Mandi,Physical Sciences,0.00465,0.000682,5,A5107613088
+Ajay Kushwaha,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.004362,20,A5031681799
+Badri Narayana Sahoo,IIT Indore,Biosciences and Biomedical Engineering,0.00465,0.001154,0,A5101273654
+Sahil Verma,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.001094,1,A5025526308
+Amit Kumar Rana,IIT Indore,Physics,0.00465,4.7e-05,12,A5027946912
+Anubha Chaudhary,IIT Mandi,Biosciences and Bioengineering,0.00465,0.00073,25,A5113835463
+Anitya Sharma,IIT Mandi,Chemical Sciences,0.00465,4e-06,9,A5113153164
+Arpan Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.011168,1,A5038638865
+Kundan Solanki,IIT Indore,Biosciences and Biomedical Engineering,0.00465,0.000324,36,A5041714316
+R. Scaria,IIT Indore,Physics,0.00465,4e-06,18,A5055216293
+S. Tripathy,IIT Indore,Physics,0.00465,2e-06,18,A5033174759
+Shivam H Singh,IIT Indore,Civil Engineering,0.00465,0.008622,17,A5077174029
+Richa Garg,IIT Mandi,Chemical Sciences,0.00465,2e-05,8,A5101791735
+Manojit Pusty,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.000361,12,A5018638496
+Ashraf Haroon Rashid,IIT Indore,Mathematics,0.00465,0.00057,3,A5112507792
+Akhil S. Nair,IIT Indore,Chemistry,0.00465,4e-06,15,A5072151729
+Vivek Kanhangad,IIT Indore,Electrical Engineering,0.00465,0.073953,3,A5016019632
+Santosh Kumar,IIT Indore,Electrical Engineering,0.00465,4e-06,32,A5101479037
+Himani Joshi,IIT Indore,Physics,0.00465,4e-06,6,A5101190372
+Priyanka Kajal,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.000177,1,A5019863047
+Lalit Borana,IIT Indore,Civil Engineering,0.00465,0.010561,20,A5017992762
+Aanchal Sati,IIT Indore,Physics,0.00465,0.00149,14,A5081858102
+Abhijeet Gorey,IIT Indore,Electrical Engineering,0.00465,5.3e-05,7,A5001158495
+Saniya Ayaz,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,1e-06,16,A5018962219
+Santosh K. Gudimella,IIT Indore,Chemistry,0.00465,0.000558,2,A5049807954
+Vardhan Paliwal,IIT Indore,Electrical Engineering,0.00465,0.008175,21,A5040409891
+Amit Kumar,IIT Mandi,Civil and Environmental Engineering,0.00465,0.000195,1,A5032103245
+Aryan Rastogi,IIT Indore,Electrical Engineering,0.00465,0.005278,21,A5083047355
+Sibi Karthik,IIT Indore,Mechanical Engineering,0.00465,0.002893,0,A5100636796
+Vivek Gupta,IIT Indore,Civil Engineering,0.00465,0.018725,17,A5028872024
+Shivam Kumar,IIT Indore,Physics,0.00465,1e-05,14,A5036580985
+Lalit D. Khillare,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.0,5,A5069284187
+Shivam Dubey,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.000122,1,A5021915133
+Divya Dhasmana,IIT Mandi,Computing and Electrical Engineering,0.00465,6.7e-05,8,A5108691962
+Brahmadutta Mahapatra,IIT Indore,Electrical Engineering,0.00465,0.000493,6,A5082507017
+Shounak Roy,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.001022,26,A5086418274
+Veenu Mishra,IIT Indore,Chemistry,0.00465,1.7e-05,2,A5104304145
+Sanjay K. Verma,IIT Indore,Chemistry,0.00465,2e-06,2,A5101715663
+Prashant Kharey,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,5.3e-05,7,A5041812221
+Jaspreet Kaur,IIT Indore,Biosciences and Biomedical Engineering,0.00465,0.000805,0,A5102006020
+Shivukumar Rakkasagi,IIT Indore,Civil Engineering,0.00465,0.000413,17,A5084487074
+Mrinal Kashyap,IIT Indore,Biosciences and Biomedical Engineering,0.00465,0.000737,20,A5049739189
+Y. Bailung,IIT Indore,Unknown,0.00465,0.0,18,A5141825288
+Tanmay Rit,IIT Indore,Chemistry,0.00465,2e-06,6,A5036167169
+Rinky Singh,IIT Indore,Chemistry,0.00465,0.000263,2,A5102255838
+Pradyumn Kumar Arya,IIT Indore,Mechanical Engineering,0.00465,0.000655,7,A5010540328
+Geethapriyan Thangamani,IIT Indore,Mechanical Engineering,0.00465,0.001046,7,A5030342210
+Moirangthem Johnson Singh,IIT Indore,Civil Engineering,0.00465,0.010561,20,A5101199842
+Kewal Singh Rana,IIT Mandi,Physical Sciences,0.00465,5.7e-05,5,A5049926211
+Nishant Verma,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.001454,25,A5062640693
+Vinayak Mishra,IIT Indore,Physics,0.00465,0.0,14,A5030980380
+Ankush Bag,IIT Mandi,Computing and Electrical Engineering,0.00465,0.00056,5,A5072576794
+Dudekula Althaf Basha,IIT Indore,Metallurgy Engineering and Materials Science,0.00465,0.000247,12,A5090934658
+Juhi Pandey,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.001313,5,A5009516741
+Midathala Yogesh,IIT Mandi,Mechanical and Materials Engineering,0.00465,2.7e-05,5,A5012478164
+Ankur Miglani,IIT Indore,Mechanical Engineering,0.00465,0.005618,3,A5011170286
+Mohd Farooq Azam,IIT Indore,Civil Engineering,0.00465,0.006062,17,A5102714910
+Aamir Mushtaq,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.000132,5,A5007039533
+Abdus Salam Sarkar,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.000881,5,A5074863136
+Dibya Yadav,IIT Indore,Chemistry,0.00465,0.001673,37,A5008393382
+Kamaljeet Singh,IIT Indore,Physics,0.00465,1e-06,18,A5025387041
+Nirali Pandya,IIT Indore,Biosciences and Biomedical Engineering,0.00465,3.1e-05,0,A5060638790
+Sandeep Chaudhary,IIT Indore,Civil Engineering,0.00465,0.002076,14,A5020976676
+Abhishek Shukla,IIT Mandi,Mechanical and Materials Engineering,0.00465,0.000196,1,A5114176953
+Neelima D. Satyam,IIT Indore,Civil Engineering,0.00465,1.5e-05,39,A5055454046
+Gaurav Jaswal,IIT Mandi,Computing and Electrical Engineering,0.00407,0.007228,4,A5081558484
+Ambikesh Dhar Dwivedi,IIT Indore,Chemistry,0.00407,0.0,15,A5008997849
+Dnyanesh Mirikar,IIT Indore,Mechanical Engineering,0.00407,0.02284,24,A5076366517
+Basanta Pravas Sahu,IIT Indore,Biosciences and Biomedical Engineering,0.00407,9.8e-05,0,A5067893813
+Abhiram Panigrahi,IIT Indore,Chemistry,0.00407,0.000199,0,A5027445993
+Sobhan Chatterjee,IIT Indore,Chemistry,0.00407,3.9e-05,23,A5074087288
+Rajesh Kumar,IIT Indore,Physics,0.00407,0.0,14,A5129722547
+Vivekananda Hazra,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,0.00118,10,A5016044700
+S.N. Shringi,IIT Mandi,Computing and Electrical Engineering,0.00407,0.002234,5,A5048011078
+Dhananjay Trivedi,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,0.000398,10,A5049287990
+Premkumar Murugesan,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000527,9,A5101976207
+Shilpi Misra,IIT Indore,Chemistry,0.00407,0.000119,37,A5016321498
+Shyama Mohanty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,5.4e-05,10,A5031293923
+Saket Dubey,IIT Bhubaneswar,Infrastructure,0.00407,0.00127,17,A5029224671
+Soumya Satyakanta Sethi,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,0.0,10,A5064473368
+Uttam Kumar Chanda,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00407,6.4e-05,13,A5082711156
+Anup Kumar Gupta,IIT Indore,Computer Science and Engineering,0.00407,0.002749,21,A5090052557
+Manoj K. Yadav,IIT Mandi,Computing and Electrical Engineering,0.00407,2e-06,5,A5063223037
+Ankit Singh,IIT Mandi,Civil and Environmental Engineering,0.00407,0.005234,4,A5072471288
+Narendra Singh Dhakad,IIT Indore,Electrical Engineering,0.00407,0.000503,21,A5010528437
+Guddu Kumar,IIT Indore,Electrical Engineering,0.00407,0.011576,22,A5055929547
+Deepak Swami,IIT Mandi,Civil and Environmental Engineering,0.00407,0.004447,4,A5047537303
+Milan Kumar Jena,IIT Indore,Chemistry,0.00407,7.2e-05,15,A5057154339
+Archana Chaudhary,IIT Indore,Chemistry,0.00407,1e-06,2,A5028575924
+Mamta Devi,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000814,26,A5074624806
+Umesh A. Kshirsagar,IIT Indore,Chemistry,0.00407,0.002208,12,A5070112982
+M. A. Ganaie,IIT Indore,Mathematics,0.00407,0.000389,3,A5033429345
+Ashis Kumar Moharana,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000106,1,A5104162562
+Vishal Singh Chauhan,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.001185,1,A5069677622
+Amit Kumar Naik,IIT Indore,Electrical Engineering,0.00407,0.011576,22,A5066583596
+Shivani Sharma,IIT Mandi,Computing and Electrical Engineering,0.00407,2.2e-05,5,A5101773347
+Shambhu Nath,IIT Indore,Chemistry,0.00407,0.003022,37,A5104135566
+Arpita Tawani,IIT Indore,Biosciences and Biomedical Engineering,0.00407,3.5e-05,0,A5017760346
+Pushpanjay K. Singh,IIT Indore,Mechanical Engineering,0.00407,0.002264,24,A5037443552
+Siddarth Jain,IIT Indore,Chemistry,0.00407,1.3e-05,0,A5034603528
+Soumyadip Patra,IIT Indore,Chemistry,0.00407,0.000822,15,A5020770470
+Deepak Kumar,IIT Mandi,Computing and Electrical Engineering,0.00407,0.006393,27,A5035848453
+Prasun Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00407,7.3e-05,5,A5104176749
+Rameshwar L. Kumawat,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,0.003996,15,A5090908365
+Mohammad Zia Ur Rehman,IIT Indore,Computer Science and Engineering,0.00407,0.004773,28,A5030387769
+Yuvraj Kumar Madhukar,IIT Indore,Mechanical Engineering,0.00407,0.001125,7,A5073054136
+Shalini Singh,IIT Indore,Mechanical Engineering,0.00407,3.1e-05,7,A5009515107
+Akhila Gouda,IIT Indore,Electrical Engineering,0.00407,0.001174,21,A5091506877
+Yuvraj Patil,IIT Indore,Chemistry,0.00407,0.000233,2,A5074737604
+Subhashis Das,IIT Mandi,Computing and Electrical Engineering,0.00407,3.7e-05,5,A5071530225
+Manoj Kumar Singh,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000144,25,A5051745183
+Chetna Madan,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000555,26,A5040798150
+Swadhin Kumar Jena,IIT Mandi,Chemical Sciences,0.00407,2.3e-05,8,A5068145886
+A. Roy,IIT Indore,Physics,0.00407,0.0,18,A5110606742
+Saket Dubey,IIT Indore,Civil Engineering,0.00407,0.00127,17,A5029224671
+Deepak Kumar,IIT Indore,Electrical Engineering,0.00407,0.006393,27,A5035848453
+Suporna Bhowmik,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,2.7e-05,23,A5102634799
+Keshavmurthy Subramanian Srikanth,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.000749,1,A5101926061
+Anjali Roy,IIT Indore,Biosciences and Biomedical Engineering,0.00407,3e-05,36,A5089027453
+Abhishek Rajput,IIT Indore,Civil Engineering,0.00407,0.005119,20,A5101526398
+Arnab Mondal,IIT Mandi,Computing and Electrical Engineering,0.00407,2e-06,5,A5101564549
+Atul G. Chakkar,IIT Mandi,Physical Sciences,0.00407,0.005516,16,A5093478137
+Gopinath Nandini,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,5.3e-05,10,A5061455481
+Suman Majumdar,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00407,0.000553,29,A5018447049
+Suresh Chandra Baral,IIT Indore,Physics,0.00407,2e-06,16,A5015466378
+Shivam Kumar,IIT Indore,Physics,0.00407,0.0,14,A5109378462
+Neha Thakur,IIT Indore,Chemistry,0.00407,4e-06,0,A5106030447
+Bhawna Saini,IIT Indore,Chemistry,0.00407,3.2e-05,0,A5081806101
+Srinidhi Jha,IIT Indore,Civil Engineering,0.00407,2e-06,17,A5054691658
+Nikita Guha,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,3.1e-05,23,A5058360920
+Anubha Yadav,IIT Indore,Chemistry,0.00407,1e-06,2,A5028744828
+Nikhil Kumar,IIT Indore,Civil Engineering,0.00407,9.5e-05,17,A5044273965
+Deepak Kumar,IIT Mandi,Biosciences and Bioengineering,0.00407,3.5e-05,8,A5100739198
+Anita Anita,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,0.0,16,A5108622225
+Khushwant Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,2.7e-05,23,A5005848491
+Abhinoy Kumar Singh,IIT Indore,Electrical Engineering,0.00407,0.011576,22,A5078672849
+Mrityunjay R. Doddamani,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.001197,1,A5011842558
+Anil Kumar Sao,IIT Mandi,Computing and Electrical Engineering,0.00407,0.002187,4,A5025998364
+Laxmidhar Behera,IIT Mandi,Computing and Electrical Engineering,0.00407,0.015048,3,A5065056581
+Piyush Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,0.00068,23,A5107359877
+Harshada S. Jadhav,IIT Indore,Metallurgy Engineering and Materials Science,0.00407,0.0,12,A5111373872
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00407,0.006598,9,A5029058754
+P. Maneesha,IIT Indore,Physics,0.00407,0.000297,16,A5071685295
+Viresh Kumar,IIT Indore,Chemistry,0.00407,2e-06,2,A5100878316
+Raghu Nadimpalli,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,6.3e-05,10,A5004210205
+Debashis Majee,IIT Indore,Chemistry,0.00407,0.000368,2,A5043023763
+Jatin Jangir,IIT Indore,Electrical Engineering,0.00407,0.000224,3,A5082598997
+Gurunarayanan Harith,IIT Mandi,Mechanical and Materials Engineering,0.00407,0.0,9,A5070677657
+Faizal Khan,IIT Indore,Chemistry,0.00407,0.000565,2,A5070361484
+Manas Mohan Mahapatra,IIT Bhubaneswar,Mechanical Sciences,0.00407,0.003403,33,A5073236464
+Syed Hilal Farooq,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,0.005508,10,A5041039937
+Mihir Kumar Das,IIT Bhubaneswar,Mechanical Sciences,0.00407,0.010296,11,A5101890510
+Manaswini Behera,IIT Bhubaneswar,Infrastructure,0.00407,0.015383,35,A5028918184
+Omveer Sharma,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00407,0.00012,10,A5076212529
+Debi Prosad Dogra,IIT Bhubaneswar,Electrical and Computer Sciences,0.00407,0.015665,19,A5011110321
+Hemant Kumar,IIT Bhubaneswar,Basic Sciences,0.00407,0.001963,11,A5026692751
+Shyamal Chatterjee,IIT Bhubaneswar,Basic Sciences,0.00407,0.003592,11,A5072021551
+Ankur Kumar,IIT Mandi,Computing and Electrical Engineering,0.00349,2.4e-05,8,A5101967848
+Ajay Soni,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000326,5,A5123404520
+Kamal Prakash,IIT Indore,Chemistry,0.00349,2e-06,2,A5083989052
+Neelancherry Remya,IIT Bhubaneswar,Infrastructure,0.00349,0.004414,35,A5085981869
+Akhilesh Kumar Singh,IIT Bhubaneswar,Basic Sciences,0.00349,0.00331,13,A5077794719
+Puspendu Bhunia,IIT Bhubaneswar,Infrastructure,0.00349,0.002758,35,A5045882460
+Manoranjan Satpathy,IIT Bhubaneswar,Electrical and Computer Sciences,0.00349,0.014287,19,A5044304689
+Surya Teja Akula,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.0,12,A5029549335
+Ritika Munjal,IIT Indore,Chemistry,0.00349,4.6e-05,2,A5009707899
+Preeti Jha,IIT Indore,Computer Science and Engineering,0.00349,2e-06,3,A5077947342
+Anuj Kumar,IIT Indore,Mechanical Engineering,0.00349,0.000419,24,A5060863945
+Prakash Chandra,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,1e-06,2,A5089006825
+Sivaiah Bathula,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00349,0.003622,13,A5002188068
+Neha Gupta,IIT Indore,Electrical Engineering,0.00349,3e-06,21,A5101863165
+Pawan Sharma,IIT Indore,Mechanical Engineering,0.00349,8.2e-05,24,A5101281402
+Vishal Anand,IIT Indore,Biosciences and Biomedical Engineering,0.00349,4.1e-05,20,A5101728410
+Arpit Nandi,IIT Mandi,Computing and Electrical Engineering,0.00349,0.000546,5,A5090285760
+Sourabh Jain,IIT Indore,Electrical Engineering,0.00349,0.0,32,A5089692515
+Jaykumar Joshi,IIT Indore,Mechanical Engineering,0.00349,0.000226,24,A5072149746
+Bharat Richhariya,IIT Indore,Mathematics,0.00349,0.000264,3,A5042878908
+Nissar Hussain,IIT Indore,Chemistry,0.00349,1e-06,2,A5013900720
+Tejendra Dixit,IIT Indore,Electrical Engineering,0.00349,0.000192,7,A5036165684
+Kanchan Samadhiya,IIT Indore,Biosciences and Biomedical Engineering,0.00349,4.1e-05,20,A5074106468
+Gyanesh Patnaik,IIT Indore,Civil Engineering,0.00349,0.000552,20,A5007709936
+Aakash Mathur,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.000179,40,A5079303520
+Lokanath Mohapatra,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.000327,20,A5064783899
+Nirmiti Mate,IIT Indore,Chemistry,0.00349,1e-06,2,A5051859791
+Sulabh,IIT Indore,Electrical Engineering,0.00349,0.0,32,A5107908863
+Ankit Kumar,IIT Indore,Chemistry,0.00349,1e-06,15,A5102002604
+Nishchal Bharadwaj,IIT Indore,Chemistry,0.00349,1e-06,15,A5061796941
+Gargee Sharma,IIT Mandi,Physical Sciences,0.00349,0.002617,34,A5050298557
+Ajaib Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.000179,40,A5065672316
+Maharana Pratap Singh,IIT Indore,Electrical Engineering,0.00349,0.003953,21,A5101544947
+A. K. Malik,IIT Indore,Mathematics,0.00349,4.8e-05,3,A5032960262
+Shraddha Manohar Rajore,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.0,12,A5093046275
+Mena Asha Krishnan,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000336,40,A5033889446
+Sneha Mittal,IIT Indore,Chemistry,0.00349,8.3e-05,15,A5051133716
+Ruchi Sharma,IIT Indore,Humanities and Social Sciences,0.00349,0.006612,30,A5004343120
+Ritunesh Kumar,IIT Indore,Mechanical Engineering,0.00349,0.003258,20,A5080449001
+Kazi Sabiruddin,IIT Indore,Mechanical Engineering,0.00349,0.002356,36,A5026524236
+Praveen Kumar,IIT Indore,Chemistry,0.00349,1e-06,2,A5101767422
+Narendra S. Chaudhari,IIT Indore,Computer Science and Engineering,0.00349,0.003869,3,A5063657461
+Shivansh Raj Pandey,IIT Indore,Physics,0.00349,0.0,14,A5111305838
+S Banuprakash Goud,IIT Indore,Chemistry,0.00349,1e-06,2,A5104205280
+Dinesh Parida,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000198,20,A5090186551
+Govind Kumar Maurya,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,2.6e-05,23,A5117523763
+Gangala Sivakumar,IIT Indore,Chemistry,0.00349,0.000192,2,A5101875219
+Priyanka Umre,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,8.2e-05,23,A5016842213
+Parvez Shaik,IIT Indore,Electrical Engineering,0.00349,3e-06,22,A5074823529
+Adnan Naim,IIT Indore,Biosciences and Biomedical Engineering,0.00349,1.2e-05,36,A5014537111
+Samiksha Rele,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.0,0,A5113577454
+Priyanka Patra,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.0,0,A5103007829
+Y. Bailung,IIT Indore,Unknown,0.00349,0.0,18,A5153113045
+A. Roy,IIT Indore,Physics,0.00349,0.0,18,A5153022942
+Tileshwar Sahare,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000185,0,A5106606197
+Mukul Lokhande,IIT Indore,Electrical Engineering,0.00349,0.000195,21,A5108183987
+Raj Kumar,IIT Mandi,Chemical Sciences,0.00349,3e-05,8,A5073510537
+Sarthak Nag,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.001252,1,A5001826376
+Ankur Beohar,IIT Indore,Electrical Engineering,0.00349,2e-06,21,A5091679273
+Guru Prakash,IIT Indore,Civil Engineering,0.00349,0.000552,20,A5057360812
+Shahid Shafi Dar,IIT Indore,Computer Science and Engineering,0.00349,0.002208,28,A5054102790
+Sumit Gautam,IIT Indore,Electrical Engineering,0.00349,0.000871,22,A5012828657
+Jitesh Agrawal,IIT Indore,Electrical Engineering,0.00349,5e-06,7,A5056341702
+Ajeet Singh,IIT Indore,Chemistry,0.00349,6.8e-05,2,A5088872195
+Gopal Raut,IIT Indore,Electrical Engineering,0.00349,2e-06,21,A5028707436
+Anand C. Petare,IIT Indore,Mechanical Engineering,0.00349,0.00208,7,A5035916830
+Sourav Bhowmik,IIT Indore,Chemistry,0.00349,0.000167,6,A5114042492
+Madhurima Choudhury,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00349,0.000552,29,A5072334034
+Ramakant Gavale,IIT Indore,Chemistry,0.00349,1e-06,2,A5093564452
+Vishal Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.001642,9,A5060650984
+Palak Saket,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000188,20,A5079570422
+Raj Kiran V,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.001317,25,A5103176855
+Trivender Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000101,8,A5049903473
+Dukhabandhu Sahoo,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00349,0.007765,30,A5068544092
+Chinmaya Kumar Patel,IIT Indore,Chemistry,0.00349,5.2e-05,0,A5058714815
+Ravikiran Late,IIT Indore,Physics,0.00349,0.0,14,A5051961214
+Samiran Mandal,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00349,1e-05,10,A5059975873
+Anush Konayakanahalli Chandrappa,IIT Bhubaneswar,Infrastructure,0.00349,0.019693,11,A5038220902
+Sujit Kumar Roy,IIT Bhubaneswar,Basic Sciences,0.00349,0.000657,13,A5038145009
+Anirban Bhattacharya,IIT Bhubaneswar,Mechanical Sciences,0.00349,0.001269,11,A5067434797
+Ankita Sarkar,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000729,26,A5101476773
+P. Palni,IIT Mandi,Physical Sciences,0.00349,0.0,18,A5102888389
+Himadri Baisya,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00349,2.7e-05,10,A5091316040
+Chandrashekhar N. Bhende,IIT Bhubaneswar,Electrical and Computer Sciences,0.00349,0.000464,19,A5078428851
+Sulabh Srivastava,IIT Indore,Electrical Engineering,0.00349,0.0,32,A5020817270
+Rajni Lodhi,IIT Indore,Chemistry,0.00349,0.0,2,A5042212121
+Arun Kumar Pradhan,IIT Bhubaneswar,Mechanical Sciences,0.00349,0.000595,33,A5014007662
+Meenu Ramadas,IIT Bhubaneswar,Infrastructure,0.00349,0.018073,10,A5024879869
+Shivam Kumar,IIT Indore,Physics,0.00349,0.0,14,A5152952737
+Digvijay Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,4.7e-05,12,A5067058548
+Amal Sarkar,IIT Mandi,Physical Sciences,0.00349,0.0,18,A5026817617
+Anita Anita,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.0,16,A5100647929
+Kaushal Gangwar,IIT Indore,Mechanical Engineering,0.00349,0.004757,7,A5053538774
+Ajay Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000151,1,A5061266783
+Srikant Srinivasan,IIT Mandi,Computing and Electrical Engineering,0.00349,0.000878,5,A5061888863
+Mahesh Soni,IIT Mandi,Computing and Electrical Engineering,0.00349,0.00051,5,A5075896285
+Jitendra Adhikari,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000213,1,A5073547747
+Anurag Mishra,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000465,0,A5077850677
+Rajeev Ray,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000195,5,A5061333448
+Shweta Singh,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000681,1,A5100633445
+Bhausaheb Dhokale,IIT Indore,Chemistry,0.00349,1e-06,2,A5070362378
+Rinki Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00349,0.000346,40,A5101820879
+Partha Pratim Gogoi,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00349,5.2e-05,10,A5007147111
+Topi Ghosh,IIT Indore,Chemistry,0.00349,1e-06,2,A5020617947
+Kirti Kumar Mahanta,IIT Mandi,Civil and Environmental Engineering,0.00349,0.000143,4,A5000969770
+Aditya Singh,IIT Mandi,Physical Sciences,0.00349,0.000262,5,A5070732538
+Aastha Gupta,IIT Mandi,Chemical Sciences,0.00349,2.8e-05,26,A5015960468
+Vikas Poonia,IIT Indore,Civil Engineering,0.00349,2e-06,17,A5007493204
+Mirza S. Baig,IIT Indore,Biosciences and Biomedical Engineering,0.00349,1.2e-05,36,A5101590519
+Subhamoy Sen,IIT Mandi,Civil and Environmental Engineering,0.00349,0.004189,31,A5076770415
+Niraj K. Singh,IIT Mandi,Mechanical and Materials Engineering,0.00349,1e-06,5,A5089557393
+Hitesh Patil,IIT Indore,Metallurgy Engineering and Materials Science,0.00349,0.001456,23,A5058247208
+M. M. Nageswararao,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00349,2.6e-05,10,A5038883233
+Satish Chandra Jain,IIT Mandi,Mechanical and Materials Engineering,0.00349,0.000785,1,A5101501595
+Divya Rawat,IIT Mandi,Physical Sciences,0.00349,1e-06,5,A5089688684
+Hitesh Shrimali,IIT Mandi,Computing and Electrical Engineering,0.00349,0.002209,5,A5070274082
+Ashvani Kumar Patel,IIT Indore,Chemistry,0.00349,0.0,2,A5019915260
+Pushpendra Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00349,5e-05,5,A5034429697
+Priya Rawat,IIT Mandi,Biosciences and Bioengineering,0.00349,0.0,5,A5002388127
+Vivek Rana,IIT Indore,Mechanical Engineering,0.00349,0.000907,7,A5019556563
+Ashish Soni,IIT Mandi,Physical Sciences,0.00349,0.000142,5,A5065997607
+Devendra Deshmukh,IIT Indore,Mechanical Engineering,0.00291,0.002569,20,A5015430111
+Manojkumar B. Kokare,IIT Indore,Electrical Engineering,0.00291,0.000517,22,A5074191341
+Pritee Sharma,IIT Indore,Humanities and Social Sciences,0.00291,0.013018,30,A5090326292
+Anshuman Tripathi,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00291,0.0,29,A5101403999
+Chandravardhan Singh Raghaw,IIT Indore,Computer Science and Engineering,0.00291,4.3e-05,28,A5100045823
+Bhavesh Chaudhary,IIT Indore,Mechanical Engineering,0.00291,1.2e-05,7,A5021865441
+Saurabh Das,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00291,0.002209,29,A5047652595
+Mohanasundari Thangavel,IIT Indore,Humanities and Social Sciences,0.00291,0.014185,17,A5017265077
+A. Quadir,IIT Indore,Mathematics,0.00291,1e-06,3,A5084242879
+Patinavalasa Megh Sainadh,IIT Indore,Electrical Engineering,0.00291,0.000653,21,A5046647967
+Korimilli Eswar Prasad,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.003324,12,A5023502454
+Sneha Shukla,IIT Indore,Computer Science and Engineering,0.00291,0.000368,21,A5101852023
+Ashok Singh,IIT Indore,Physics,0.00291,1e-06,6,A5064177444
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00291,0.0,0,A5136000942
+A. Roy,IIT Indore,Physics,0.00291,0.0,18,A5158206205
+Kamal Prakash,IIT Indore,Chemistry,0.00291,1e-06,2,A5137253025
+Balbir Singh Negi,IIT Indore,Mechanical Engineering,0.00291,0.000538,7,A5088178449
+Dilip Sasmal,IIT Indore,Physics,0.00291,0.0,16,A5092210646
+Amod C. Umarikar,IIT Indore,Electrical Engineering,0.00291,0.00664,28,A5014682229
+Haardik Pandey,IIT Indore,Physics,0.00291,0.0,14,A5025037581
+Shruti Pyasi,IIT Indore,Biosciences and Biomedical Engineering,0.00291,9e-06,0,A5087151146
+Santosh Kumar,IIT Indore,Electrical Engineering,0.00291,0.0,32,A5115597151
+Sanjeeva K. Arupula,IIT Indore,Chemistry,0.00291,0.0,2,A5081149297
+Vijay Kumar Choyal,IIT Indore,Mechanical Engineering,0.00291,0.000807,24,A5065039831
+Kahkasha Parveen,IIT Indore,Physics,0.00291,1e-06,6,A5092449753
+Mayank Kumar Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,1e-06,23,A5100746901
+Pradeep Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,16,A5104318013
+Anshul Thakur,IIT Mandi,Computing and Electrical Engineering,0.00291,0.000248,4,A5101642643
+Gopi Shrikanth Reddy,IIT Mandi,Computing and Electrical Engineering,0.00291,3e-06,5,A5049627373
+Nandakishor Yadav,IIT Indore,Electrical Engineering,0.00291,1e-06,21,A5046369853
+Anuradha Kumari,IIT Indore,Mathematics,0.00291,0.0,3,A5074412006
+Vibhum Singh,IIT Indore,Electrical Engineering,0.00291,2e-06,24,A5010568760
+Rajesh Roshan Dash,IIT Bhubaneswar,Infrastructure,0.00291,0.001654,35,A5082741820
+Mihir Kumar Pandit,IIT Bhubaneswar,Mechanical Sciences,0.00291,0.000887,33,A5110533639
+Raj K. Singh,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,0.001105,10,A5008992860
+Sanjeev Kushwaha,IIT Indore,Chemistry,0.00291,0.000446,15,A5109792768
+Mokkapati Siddharth,IIT Indore,Electrical Engineering,0.00291,0.000868,22,A5061297834
+Shubhi Bansal,IIT Indore,Computer Science and Engineering,0.00291,4.3e-05,28,A5076096927
+Sheetal Kumar Dewangan,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,23,A5008487404
+Bhuvaneshwari R. Gehi,IIT Mandi,Biosciences and Bioengineering,0.00291,0.0,8,A5077875808
+Jew Das,IIT Indore,Civil Engineering,0.00291,1e-06,17,A5088921212
+Richa Soni,IIT Mandi,Civil and Environmental Engineering,0.00291,0.011842,4,A5019699114
+Niharika Mohapatra,IIT Bhubaneswar,Basic Sciences,0.00291,0.017702,11,A5076197619
+Lakkanaboina Venkata Naveen,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,23,A5054456752
+Naveen Sharma,IIT Indore,Physics,0.00291,0.0,6,A5044307394
+Alok Yadav,IIT Indore,Physics,0.00291,0.001648,38,A5069650187
+Erumalla Saikumar,IIT Indore,Civil Engineering,0.00291,9.4e-05,17,A5093668822
+M. Sajid,IIT Indore,Mathematics,0.00291,0.0,3,A5057934183
+Vivek Gupta,IIT Indore,Civil Engineering,0.00291,0.00064,14,A5089072871
+Ambika Prasad Shah,IIT Indore,Electrical Engineering,0.00291,1e-06,21,A5035985978
+Vishal Sharma,IIT Indore,Electrical Engineering,0.00291,1e-06,21,A5036483744
+Archana Nair,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,2e-06,10,A5044215393
+U. C. Mohanty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,3.8e-05,10,A5009715790
+Kajari Chatterjee,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00291,0.001106,13,A5046459780
+Suman Sehlangia,IIT Mandi,Chemical Sciences,0.00291,0.000429,5,A5006100013
+Poonam S. Deshmukh,IIT Indore,Mechanical Engineering,0.00291,0.000164,7,A5088449661
+Rahul Shrestha,IIT Mandi,Computing and Electrical Engineering,0.00291,0.002498,4,A5033933825
+Abhay Singh Thakur,IIT Mandi,Mechanical and Materials Engineering,0.00291,2.7e-05,1,A5101369948
+Pratik Mishra,IIT Bhubaneswar,Basic Sciences,0.00291,1e-06,11,A5013205614
+Ramesh Maragani,IIT Indore,Chemistry,0.00291,0.000116,2,A5017684246
+Tripti Vats,IIT Mandi,Chemical Sciences,0.00291,1.7e-05,8,A5063924633
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,0,A5109602591
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00291,0.0,2,A5047167578
+Madan Dhanora,IIT Indore,Humanities and Social Sciences,0.00291,0.000369,30,A5060763885
+Abhijit Shee,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,1e-05,10,A5080115635
+Eti Mahal,IIT Indore,Chemistry,0.00291,0.0,15,A5027745047
+Sandeep Choudhary,IIT Indore,Biosciences and Biomedical Engineering,0.00291,2e-06,0,A5086440811
+Pramod Kumar Gavel,IIT Indore,Chemistry,0.00291,8.1e-05,6,A5085666879
+Kushal Mazumder,IIT Indore,Physics,0.00291,1.1e-05,12,A5004602343
+Piyush Avasthi,IIT Mandi,Mechanical and Materials Engineering,0.00291,2.6e-05,1,A5071155746
+Aishrila Mazumder,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00291,0.0,29,A5085555373
+S. Sova Barik,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,0.001105,10,A5019176724
+Deepika Rai,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,9e-06,10,A5049698781
+Arunendu Das,IIT Indore,Chemistry,0.00291,0.0,15,A5016211337
+P. V. Rajesh,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,9e-06,10,A5026821605
+Aditya Chauhan,IIT Mandi,Mechanical and Materials Engineering,0.00291,7.9e-05,1,A5037713214
+Thaksen Jadhav,IIT Indore,Chemistry,0.00291,0.0,2,A5008008066
+Chander Kant Susheel,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.00115,1,A5091897091
+Subhasmita Mahapatra,IIT Indore,Biosciences and Biomedical Engineering,0.00291,0.0,0,A5001631682
+Ashish Kakoria,IIT Mandi,Mechanical and Materials Engineering,0.00291,4.3e-05,9,A5013957189
+Bablesh Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00291,7e-06,5,A5113390501
+Nayan Pundhir,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.0,25,A5061584980
+Amit Kumar,IIT Mandi,Biosciences and Bioengineering,0.00291,0.0,8,A5100682273
+Abhishek Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00291,1.4e-05,8,A5010537775
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00291,0.0,16,A5104318013
+Himanshu Kaushik,IIT Indore,Civil Engineering,0.00291,0.00165,17,A5002902032
+Deblina Biswas,IIT Indore,Electrical Engineering,0.00291,0.0,7,A5035925303
+A. Roy,IIT Indore,Physics,0.00291,0.0,18,A5153375197
+Trishna Saikia,IIT Indore,Computer Science and Engineering,0.00291,0.000368,21,A5057158473
+Lokendra Birla,IIT Indore,Unknown,0.00291,0.000368,21,A5028582845
+Rajesh Kumar,IIT Indore,Physics,0.00291,0.0,14,A5122769984
+Rahul Kumar Singh,IIT Indore,Chemistry,0.00291,0.000155,37,A5028839281
+Meher Prakash,IIT Indore,Chemistry,0.00291,0.0,2,A5028440893
+A. Roy,IIT Indore,Physics,0.00291,0.0,18,A5157984661
+Prabhat Gautam,IIT Indore,Chemistry,0.00291,0.0,2,A5031757753
+Shaifu Gupta,IIT Mandi,Computing and Electrical Engineering,0.00291,0.000352,4,A5049753648
+Biju Majumdar,IIT Indore,Chemistry,0.00291,0.0,0,A5004251493
+Pradeep Kumar Chaudhary,IIT Indore,Electrical Engineering,0.00291,0.0,3,A5018744129
+Prashant Saini,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.0,1,A5103283860
+Manjeet Rani,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.000173,25,A5101971812
+Saikat Pramanik,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,0.0,10,A5011726259
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00291,4.2e-05,31,A5100656585
+Naresh Mali,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.003912,4,A5079907504
+Ankur Sood,IIT Mandi,Mechanical and Materials Engineering,0.00291,1.6e-05,26,A5054030296
+Supriya Ghosh,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.0,5,A5014892894
+Rajesh Kumar,IIT Indore,Physics,0.00291,0.0,14,A5122491165
+Jayashree Parthiban,IIT Indore,Chemistry,0.00291,1e-06,15,A5093057176
+Muslim Malik,IIT Mandi,Mathematical and Statistical Sciences,0.00291,0.002209,27,A5036476218
+Simran Rana,IIT Indore,Biosciences and Biomedical Engineering,0.00291,1.4e-05,0,A5114210652
+Maisagalla Gopal,IIT Indore,Electrical Engineering,0.00291,1e-06,21,A5064271863
+Manish Kumar,IIT Mandi,Chemical Sciences,0.00291,2.5e-05,8,A5074255701
+Astha Singh,IIT Mandi,Chemical Sciences,0.00291,0.0,8,A5101031298
+Arun Kumar Verma,IIT Indore,Biosciences and Biomedical Engineering,0.00291,0.0,0,A5102331102
+Aditya K. Litoria,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,12,A5007488289
+Madhuri S. Patil,IIT Indore,Metallurgy Engineering and Materials Science,0.00291,0.0,12,A5047222265
+Manish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.0,8,A5121872328
+Pritam Das,IIT Bhubaneswar,Basic Sciences,0.00291,0.001122,11,A5034557598
+Ashim Sattar,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,0.009893,17,A5006002408
+Prasun Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.000361,5,A5100670390
+Biswaranjan Pradhan,IIT Bhubaneswar,Excellence of Biosciences and Engineering & Technology,0.00291,0.014265,13,A5040897594
+Manoj K. Rajbhar,IIT Bhubaneswar,Basic Sciences,0.00291,0.001373,11,A5043740286
+Priyaranjan Samal,IIT Bhubaneswar,Mechanical Sciences,0.00291,0.00085,33,A5038399240
+U. C. Mohanty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00291,1.8e-05,10,A5103098825
+Kalipada Chatterjee,IIT Bhubaneswar,Basic Sciences,0.00291,0.000619,11,A5001195140
+Barathram Ramkumar,IIT Bhubaneswar,Electrical and Computer Sciences,0.00291,0.007012,19,A5017476957
+Kamalakanta Sethi,IIT Bhubaneswar,Unknown,0.00291,2e-06,19,A5026959916
+Shubham Saurabh,IIT Mandi,Mechanical and Materials Engineering,0.00291,0.000133,1,A5072440216
+Suresh Ranjan Dash,IIT Bhubaneswar,Infrastructure,0.00233,0.002944,11,A5035387087
+Brij Kumar Dhindaw,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00233,0.0,13,A5064819059
+Vikas Vijayvargiya,IIT Indore,Electrical Engineering,0.00233,1e-06,21,A5057916073
+Shruti Bhilare,IIT Indore,Computer Science and Engineering,0.00233,0.000601,3,A5061792792
+Shadab Ali Ahmed,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,16,A5043703223
+S. K. Nevhal,IIT Indore,Mechanical Engineering,0.00233,2.3e-05,24,A5034757916
+Arabinda Meher,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.0,33,A5051933041
+Surjit Sahoo,IIT Bhubaneswar,Basic Sciences,0.00233,1e-06,13,A5017139171
+Arijit Ghosh,IIT Mandi,Chemical Sciences,0.00233,0.000368,9,A5067692485
+Rashmi Ira,IIT Mandi,Biosciences and Bioengineering,0.00233,1e-05,8,A5098279426
+Yogesh N. Aher,IIT Mandi,Chemical Sciences,0.00233,0.000368,9,A5051396887
+Saira Bano,IIT Mandi,Mechanical and Materials Engineering,0.00233,2.9e-05,5,A5102869353
+Ankit Kashyap,IIT Mandi,Mechanical and Materials Engineering,0.00233,1e-06,5,A5069601175
+B.R. Anupam,IIT Bhubaneswar,Infrastructure,0.00233,0.002708,11,A5014010918
+Sonali R. Bhagwat,IIT Indore,Biosciences and Biomedical Engineering,0.00233,0.0,0,A5025238227
+Mihir Ranjan Sahoo,IIT Bhubaneswar,Basic Sciences,0.00233,0.000317,13,A5055696346
+Poulami Paul,IIT Indore,Chemistry,0.00233,0.0,15,A5002072876
+Manish Kumar Goyal,IIT Indore,Civil Engineering,0.00233,1.3e-05,17,A5016074316
+Siddhant Kumar,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,8,A5103077303
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,1,A5047876441
+Shravan Janakiraman,IIT Indore,Mechanical Engineering,0.00233,0.00615,12,A5034186413
+Sumanta Kumar Nanda,IIT Indore,Electrical Engineering,0.00233,0.0,22,A5040253712
+Sumit Gautam,IIT Indore,Electrical Engineering,0.00233,5.9e-05,22,A5125077495
+Rahul Chauhan,IIT Indore,Biosciences and Biomedical Engineering,0.00233,0.0,20,A5083054561
+Dericks Praise Shukla,IIT Mandi,Civil and Environmental Engineering,0.00233,0.000288,4,A5143879971
+Rahul Singh,IIT Mandi,Mechanical and Materials Engineering,0.00233,5.4e-05,9,A5100629986
+Rahul Tiwari,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,5,A5064572294
+Gaurav Bartarya,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.001252,13,A5081962044
+Pushp Kumar,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00233,0.002243,30,A5082560064
+Subrat Sahu,IIT Bhubaneswar,Basic Sciences,0.00233,1e-06,11,A5102765431
+Shweta Singh,IIT Mandi,Civil and Environmental Engineering,0.00233,0.005362,28,A5100633441
+Ashwani Kumar,IIT Mandi,Chemical Sciences,0.00233,0.0,9,A5071206568
+Manju Sheokand,IIT Indore,Chemistry,0.00233,0.0,2,A5078936501
+Nagendra Singh Ranawat,IIT Indore,Mechanical Engineering,0.00233,4.8e-05,3,A5083460240
+Chandrakant Joshi,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.000675,26,A5087000252
+Hemant Kumar Thakur,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0002,1,A5112755835
+Vinod Kumar Solet,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.002208,34,A5068346282
+Rajendra K. Ray,IIT Mandi,Computing and Electrical Engineering,0.00233,0.003164,27,A5103201709
+Dipanjan Dey,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00233,0.0,10,A5070123674
+Bhaskara Rao Ravada,IIT Mandi,Computing and Electrical Engineering,0.00233,0.000325,31,A5063178177
+M. K. Hooda,IIT Mandi,Physical Sciences,0.00233,0.000173,34,A5065264582
+Tushar E. Srivastava,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.002208,33,A5079786611
+Rajat Rajiv Maharana,IIT Bhubaneswar,Basic Sciences,0.00233,0.0,13,A5053180358
+Pushpendra Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00233,6.2e-05,1,A5004182452
+Neha Bharill,IIT Indore,Computer Science and Engineering,0.00233,0.0,3,A5086331021
+Lalita Wagh,IIT Indore,Chemistry,0.00233,0.0,6,A5095907937
+Bhuvnesh Brawar,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00233,0.003311,29,A5094198710
+Eedy Sana,IIT Mandi,Civil and Environmental Engineering,0.00233,0.002209,4,A5032727276
+Santosh Kumar,IIT Indore,Electrical Engineering,0.00233,0.0,0,A5089589553
+Rajesh Kumar,IIT Indore,Physics,0.00233,0.0,0,A5101338032
+Sanjay Kumar,IIT Indore,Electrical Engineering,0.00233,0.0,6,A5157825509
+Sourabh Kumar,IIT Indore,Chemistry,0.00233,0.0,16,A5114077519
+Anjali Chaudhary,IIT Indore,Physics,0.00233,0.0,14,A5113884347
+Rajesh Kumar,IIT Indore,Physics,0.00233,0.0,0,A5129447934
+Deepak K. K. Kori,IIT Indore,Chemistry,0.00233,0.0,6,A5033382947
+Kailash Kumar,IIT Indore,Physics,0.00233,0.0,14,A5087315236
+Alok Kumar Shukla,IIT Indore,Electrical Engineering,0.00233,1e-06,24,A5073837271
+Ipshita Priyadarsini Pradhan,IIT Mandi,Civil and Environmental Engineering,0.00233,0.0,4,A5075053266
+Bhanu Priya,IIT Indore,Chemistry,0.00233,0.0,15,A5082549713
+Syed Sadaf Ali,IIT Indore,Computer Science and Engineering,0.00233,0.0,42,A5045006082
+Satya Prakash Padhee,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00233,0.0,13,A5086390061
+Nivedita Jaiswal,IIT Indore,Electrical Engineering,0.00233,1.9e-05,6,A5108259369
+Indresh Singh Yadav,IIT Indore,Chemistry,0.00233,0.0,2,A5029105708
+Debashis Panda,IIT Indore,Mechanical Engineering,0.00233,1e-06,15,A5036059326
+Keshav Bhardwaj,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,26,A5068783284
+Diksha Thakur,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,5,A5063149753
+Priybrat Sharma,IIT Mandi,Engineering,0.00233,8.2e-05,1,A5033389209
+Dinesh Kumar Mohanty,IIT Bhubaneswar,Unknown,0.00233,2.7e-05,19,A5000496087
+Nibedita Behera,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00233,4e-06,10,A5008803052
+Partha Sarathi Sahoo,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.000291,33,A5065884979
+Manish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00233,1e-06,1,A5104308108
+Anshul Kumar Mishra,IIT Mandi,Computing and Electrical Engineering,0.00233,9.6e-05,31,A5101952978
+Pooran Singh,IIT Indore,Electrical Engineering,0.00233,1e-06,21,A5091112200
+Iyyakutti Iyappan Ganapathi,IIT Indore,Computer Science and Engineering,0.00233,0.0,42,A5062489895
+S. De,IIT Indore,Physics,0.00233,0.0,18,A5115591060
+Smriti Srivastava,IIT Indore,Civil Engineering,0.00233,1e-06,17,A5091330682
+Pulkit Sharma,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,4,A5101783272
+Ankush S. Marodkar,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,23,A5073447544
+Gaurav Arora,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,25,A5064006609
+Nitin Sharma,IIT Mandi,Biosciences and Bioengineering,0.00233,0.0,8,A5075387650
+Parmod Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.000263,1,A5061839433
+Rajendra K. Ray,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.002209,27,A5078662482
+Henu Sharma,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00233,1e-06,13,A5009967755
+Sumit Murab,IIT Mandi,Biosciences and Bioengineering,0.00233,0.0,26,A5023614019
+Syamantak Khan,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,8,A5070487686
+Satyendra K. Pandey,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00233,0.0,10,A5020646368
+Anuradha Mohanty,IIT Bhubaneswar,Basic Sciences,0.00233,0.0,13,A5004755234
+Pintu Prusty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00233,0.0022,10,A5089111103
+Rakesh Nandan,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.001089,11,A5015324313
+Aditya Bhardwaj,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,20,A5040620268
+Amit Kumar Sharma,IIT Mandi,Chemical Sciences,0.00233,0.0,26,A5034648895
+Khushal Singh,IIT Mandi,Biosciences and Bioengineering,0.00233,0.0,26,A5104155088
+Joy Chandra Mukherjee,IIT Bhubaneswar,Electrical and Computer Sciences,0.00233,0.000118,19,A5005980792
+Mukesh Kumar Nayak,IIT Bhubaneswar,Basic Sciences,0.00233,0.0,13,A5044550162
+Gurjeet Singh,IIT Bhubaneswar,Infrastructure,0.00233,0.00052,10,A5070290852
+Suraj S. Meghwani,IIT Mandi,Computing and Electrical Engineering,0.00233,0.001059,27,A5071306756
+Kajal Goswami,IIT Mandi,Chemical Sciences,0.00233,2.8e-05,26,A5027791763
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00233,0.0,2,A5110563615
+Anubhav Tamrakar,IIT Indore,Biosciences and Biomedical Engineering,0.00233,0.000117,0,A5001304256
+Chandan Gautam,IIT Indore,Computer Science and Engineering,0.00233,0.000469,3,A5032138605
+Anirban Sengupta,IIT Indore,Computer Science and Engineering,0.00233,4e-06,44,A5007001727
+Hemant Kumar,IIT Bhubaneswar,Basic Sciences,0.00233,0.0,10,A5137530592
+Hemant Kumar,IIT Bhubaneswar,Basic Sciences,0.00233,0.0,10,A5037192790
+Guru Prasad Dash,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00233,0.0,10,A5110564993
+Amit B. Pawar,IIT Mandi,Chemical Sciences,0.00233,0.000368,9,A5053141015
+Mohammed Shakir,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.000579,25,A5042873248
+Somnath Dey,IIT Indore,Computer Science and Engineering,0.00233,0.003616,28,A5062782150
+Trapti Jain,IIT Indore,Electrical Engineering,0.00233,0.003937,28,A5007468343
+Surya Prakash,IIT Indore,Computer Science and Engineering,0.00233,0.0,42,A5100748783
+Vinayak Abrol,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,4,A5075520691
+Bhupesh Kumar Lad,IIT Indore,Mechanical Engineering,0.00233,0.002209,20,A5101620281
+Sudip Chakraborty,IIT Indore,Physics,0.00233,0.000194,16,A5091631394
+Akshay Kumar Sonwane,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,7.7e-05,20,A5099658683
+Kalandi Charan Pradhan,IIT Indore,Humanities and Social Sciences,0.00233,0.008804,30,A5062435524
+Mohd. Arshad,IIT Indore,Mathematics,0.00233,0.0,3,A5023321081
+S. Dhinakaran,IIT Indore,Mechanical Engineering,0.00233,3e-06,41,A5068069260
+Priyank J. Sharma,IIT Indore,Civil Engineering,0.00233,0.003312,17,A5029306116
+Avijit Maity,IIT Indore,Chemistry,0.00233,0.00331,43,A5014484755
+Arnab Chakraborty,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00233,0.0,29,A5026096668
+Tanmay Vyas,IIT Indore,Biosciences and Biomedical Engineering,0.00233,9.4e-05,0,A5040183777
+Minal Gupta,IIT Indore,Physics,0.00233,0.0,14,A5086791543
+Nagaraju Mukurala,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,20,A5055650227
+Siddhartha Suman,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,20,A5112682323
+Avadhesh Kumar Sharma,IIT Indore,Mechanical Engineering,0.00233,0.000249,24,A5082290687
+Mayank Kumar Singh,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.001922,23,A5101562113
+Santosh Kumar Sahu,IIT Indore,Mechanical Engineering,0.00233,0.0,24,A5103065977
+S. Shiva,IIT Indore,Mechanical Engineering,0.00233,0.0,7,A5110652246
+Monika Jain,IIT Indore,Biosciences and Biomedical Engineering,0.00233,1.8e-05,0,A5013437809
+Komal M. Vyas,IIT Indore,Chemistry,0.00233,0.0,2,A5036311605
+P. Maneesha,IIT Indore,Physics,0.00233,0.0,16,A5079371622
+Rajesh Dwivedi,IIT Indore,Computer Science and Engineering,0.00233,0.00016,3,A5041866995
+Justin Jose,IIT Indore,Electrical Engineering,0.00233,4e-06,22,A5091172644
+Sanjeev Sharma,IIT Indore,Electrical Engineering,0.00233,1e-06,22,A5005623079
+Dheeraj Ranaut,IIT Mandi,Physical Sciences,0.00233,8e-06,34,A5066656802
+Rajesh Manjibhai Pindoriya,IIT Mandi,Computing and Electrical Engineering,0.00233,1e-06,31,A5030012960
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.00233,0.004412,4,A5100672176
+Sayantan Sarkar,IIT Mandi,Civil and Environmental Engineering,0.00233,3e-06,45,A5063022235
+Aniruddha Chakraborty,IIT Mandi,Physical Sciences,0.00233,0.001707,3,A5006076143
+Vishvendra Pratap Singh,IIT Mandi,Civil and Environmental Engineering,0.00233,8e-06,1,A5101500961
+Vivek Saxena,IIT Indore,Mechanical Engineering,0.00233,5e-05,24,A5009136724
+Neha Sharma,IIT Indore,Electrical Engineering,0.00233,0.0,22,A5100772846
+Dileep Aroor Dinesh,IIT Mandi,Computing and Electrical Engineering,0.00233,0.000148,4,A5108829280
+Praveen Kumar I,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,4,A5054998045
+Ashis Biswas,IIT Bhubaneswar,Basic Sciences,0.00233,0.001205,11,A5062832660
+Mayoorika Shukla,IIT Indore,Electrical Engineering,0.00233,0.0,7,A5020286923
+Shahid Hussain,IIT Indore,Mechanical Engineering,0.00233,0.000148,36,A5088435122
+Samar Agnihotri,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,31,A5055723059
+Trayambak Basak,IIT Mandi,Biosciences and Bioengineering,0.00233,0.003311,9,A5059726366
+Hemant Borkar,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,23,A5032572252
+Sajid Khan,IIT Indore,Electrical Engineering,0.00233,0.0,21,A5034456662
+Nitin Luhadiya,IIT Indore,Mechanical Engineering,0.00233,2.3e-05,24,A5030350490
+Ajay Deep Kachhvah,IIT Indore,Physics,0.00233,1e-06,38,A5084584877
+Aditya Gaur,IIT Indore,Mechanical Engineering,0.00233,0.00023,1,A5111114206
+Ekta Yadav,IIT Indore,Physics,0.00233,0.00331,37,A5069961069
+Prasant Kumar Sahu,IIT Bhubaneswar,Electrical and Computer Sciences,0.00233,3.8e-05,11,A5100701337
+Abhijeet Joshi,IIT Indore,Biosciences and Biomedical Engineering,0.00233,0.0,0,A5121747549
+Jhasketan Badhai,IIT Indore,Mechanical Engineering,0.00233,0.0,0,A5008953874
+Piyush Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,23,A5026651142
+Naresh Chandra Sahu,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00233,0.000512,30,A5028839485
+Chandrasekhar Bhamidipati,IIT Bhubaneswar,Basic Sciences,0.00233,0.001472,19,A5003522385
+P. R. Budarapu,IIT Bhubaneswar,Mechanical Sciences,0.00233,0.001135,33,A5040225924
+Aritra Ghosh,IIT Bhubaneswar,Basic Sciences,0.00233,0.000737,19,A5078096774
+Chandra Sekhar Rout,IIT Bhubaneswar,Basic Sciences,0.00233,0.001105,13,A5060818209
+Sourabh Choudhary,IIT Indore,Civil Engineering,0.00233,0.0,20,A5101727015
+Ashutosh Anshul,IIT Indore,Unknown,0.00233,0.002753,28,A5033253439
+Bhagwati Sharma,IIT Indore,Chemistry,0.00233,0.0,0,A5020768830
+Imtiaz Ahmed,IIT Indore,Chemistry,0.00233,0.0,2,A5042201959
+Yashwanth K. Reddy,IIT Indore,Metallurgy Engineering and Materials Science,0.00233,0.0,12,A5035184187
+Tamalika Bhattacharya,IIT Indore,Chemistry,0.00233,0.0,0,A5038251650
+Miten Shah,IIT Indore,Computer Science and Engineering,0.00233,0.006507,3,A5033834026
+Ankur Kumar,IIT Mandi,Basic Sciences,0.00233,0.0,25,A5108616684
+Diwakar Singh,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.001105,1,A5121762438
+Manish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00233,0.0,8,A5100383545
+Pankaj Kumar,IIT Mandi,Computing and Electrical Engineering,0.00233,0.0,5,A5028622725
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00174,0.001126,9,A5100755840
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00174,1e-06,1,A5103387228
+Debanjan Bagchi,IIT Indore,Chemistry,0.00174,0.0,43,A5043714170
+Swati Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,4,A5100349675
+Madhur Gupta,IIT Indore,Mechanical Engineering,0.00174,0.0,24,A5061190115
+Minu Treesa Abraham,IIT Indore,Civil Engineering,0.00174,0.0,39,A5054592842
+Manoj Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,9,A5104029054
+Vipul Jain,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,23,A5069405537
+Ankur Kumar,IIT Mandi,Biosciences and Bioengineering,0.00174,0.0,8,A5101967846
+Gaurav Pandey,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,0,A5102804220
+Waqar Ul Hassan,IIT Indore,Civil Engineering,0.00174,0.000552,17,A5071398860
+Sahil Kumar,IIT Mandi,Chemical Sciences,0.00174,0.0,9,A5003875467
+B. Raju Naik,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,1,A5158997758
+Sandip Kumar Saha,IIT Mandi,Civil and Environmental Engineering,0.00174,0.002209,4,A5089664351
+Adil Usman,IIT Mandi,Computing and Electrical Engineering,0.00174,5.5e-05,31,A5019746970
+Ramna Thakur,IIT Mandi,Humanities and Social Sciences,0.00174,0.000552,4,A5004071838
+Aditya Dixit,IIT Indore,Computer Science and Engineering,0.00174,0.0,21,A5091632580
+Mukkamalla Mounika,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5042029100
+Sumanjit Chakraborty,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,29,A5082349046
+Nikhil Ji Tiwari,IIT Indore,Chemistry,0.00174,0.0,2,A5113321508
+Rajat Atre,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.001105,36,A5020611961
+Rajesh Kumar,IIT Indore,Physics,0.00174,0.0,14,A5109502785
+Tapas Ray,IIT Indore,Botany,0.00174,0.0,17,A5018410126
+Abhishek Kumar Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,25,A5100769074
+Manju Bisht,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.003311,9,A5024893786
+Nilanjan Bhaduri,IIT Mandi,Chemical Sciences,0.00174,0.0,9,A5077060616
+Shivani Sharma,IIT Mandi,Computing and Electrical Engineering,0.00174,0.0,4,A5022052881
+Sandesh Jain,IIT Indore,Electrical Engineering,0.00174,0.0,22,A5043367694
+Nirod Chandra Sahoo,IIT Bhubaneswar,Electrical and Computer Sciences,0.00174,0.001105,10,A5101980869
+Shefali Bhardwaj,IIT Mandi,Civil and Environmental Engineering,0.00174,0.0,4,A5091079850
+Ankur Singh,IIT Mandi,Biosciences and Bioengineering,0.00174,0.0,8,A5070658985
+Narendra Vishwakarma,IIT Indore,Electrical Engineering,0.00174,7e-06,22,A5066621734
+Manish Gupta,IIT Indore,Electrical Engineering,0.00174,0.0,6,A5016031007
+Anas Ullah Khan,IIT Indore,Mechanical Engineering,0.00174,6.7e-05,7,A5014933535
+Krushna R. Mavani,IIT Indore,Physics,0.00174,0.002208,37,A5010779322
+Kamal Garg,IIT Indore,Electrical Engineering,0.00174,0.0,22,A5060109822
+Shubham Bisen,IIT Indore,Electrical Engineering,0.00174,0.0,22,A5024261164
+Kritiprasanna Das,IIT Indore,Electrical Engineering,0.00174,5e-06,3,A5015007987
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.00174,0.0,38,A5066195101
+Satyajit Thakor,IIT Mandi,Computing and Electrical Engineering,0.00174,0.001105,27,A5052643871
+Ramamoorthy Velayutham,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,7,A5116214988
+Sunil Gangwar,IIT Mandi,Physical Sciences,0.00174,1e-06,34,A5111095688
+Priyanka Sahu,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,23,A5100701333
+Jatin Prakash,IIT Indore,Mechanical Engineering,0.00174,0.0,3,A5060879063
+Ashita Singh,IIT Indore,Civil Engineering,0.00174,2.9e-05,14,A5039204850
+Krishanu Saini,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5102768406
+Vipin Goyal,IIT Indore,Mechanical Engineering,0.00174,0.002209,3,A5020409434
+Santanu Manna,IIT Indore,Mathematics,0.00174,2e-06,48,A5038563506
+Ranjeet Ranjan Jha,IIT Mandi,Computing and Electrical Engineering,0.00174,0.0,4,A5064646117
+Rituraj Singh,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5042942512
+Indu K. Dihingia,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,49,A5059171527
+Suvradip Mullick,IIT Bhubaneswar,Mechanical Sciences,0.00174,1e-06,13,A5030105828
+Mayank Mishra,IIT Bhubaneswar,Infrastructure,0.00174,0.001468,11,A5054634361
+Arjun Meda,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,20,A5066786622
+Sriyasriti Acharya,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,49,A5038598921
+Snehasis Chowdhuri,IIT Bhubaneswar,Basic Sciences,0.00174,5.9e-05,11,A5003032299
+Likhi Dhruv,IIT Indore,Chemistry,0.00174,0.0,6,A5015105018
+Madhusmita Dash,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00174,0.009834,30,A5103337106
+Jhilam Sinha,IIT Indore,Civil Engineering,0.00174,0.0,17,A5001391915
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00174,3e-06,1,A5111128829
+Rajat Kumar,IIT Indore,Mechanical Engineering,0.00174,0.0,24,A5101736718
+Subhasanket Dutta,IIT Indore,Physics,0.00174,0.0,38,A5004520932
+Rosa Vellosa Lyngwa,IIT Indore,Civil Engineering,0.00174,0.000552,17,A5063219682
+Chinthakuntla Mahendar,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,23,A5022806245
+Mayank Modak,IIT Indore,Mechanical Engineering,0.00174,0.0,24,A5019748857
+Vivek Singh Baghel,IIT Indore,Computer Science and Engineering,0.00174,0.0,42,A5021235162
+Anikeit Sethi,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5027923902
+Ritukesh Sharma,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00174,0.0,13,A5013899968
+Rahul Kumar,IIT Bhubaneswar,Unknown,0.00174,0.0,19,A5101929822
+Kishan Dwivedi,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,25,A5084716009
+Sinjini Patra,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,13,A5001999596
+Malay Bandyopadhyay,IIT Bhubaneswar,Basic Sciences,0.00174,0.003489,19,A5109962170
+Chandra Shekhar Murmu,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,29,A5059943733
+Rishi Raj Sharma,IIT Indore,Electrical Engineering,0.00174,3.3e-05,3,A5059803135
+Shivendra Sangar,IIT Mandi,Humanities and Social Sciences,0.00174,0.000552,4,A5108657982
+Alok Kumar Samantaray,IIT Bhubaneswar,Infrastructure,0.00174,8e-06,10,A5054839696
+Priyanka Rajwani,IIT Indore,Physics,0.00174,0.0,38,A5054896021
+M Jegatheesan,IIT Bhubaneswar,Mechanical Sciences,0.00174,0.0,11,A5013411075
+Rajesh Ghosh,IIT Bhubaneswar,Basic Sciences,0.00174,5.9e-05,11,A5103191392
+Ekta Yadav,IIT Indore,Physics,0.00174,0.000351,37,A5031959838
+Manju Manju,IIT Indore,Chemistry,0.00174,0.0,2,A5018605981
+Venkata Rami Reddy Boddu,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,12,A5020009137
+Shobhit Jain,IIT Bhubaneswar,Infrastructure,0.00174,5e-06,11,A5072412361
+Tulika Dixit,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.002916,12,A5043074693
+Priyanka Bharti,IIT Mandi,Chemical Sciences,0.00174,0.0,26,A5080082066
+Puneet Gupta,IIT Indore,Computer Science and Engineering,0.00174,0.0,21,A5084229134
+Rajeev Kr. Sharma,IIT Indore,Electrical Engineering,0.00174,0.0,3,A5101812504
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.00174,0.0,21,A5027741750
+Om Prakash Patel,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5019008348
+Swatantra Kumar Tiwari,IIT Indore,Physics,0.00174,0.0,18,A5040540384
+Deepthi Ayyagari,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,29,A5074277169
+Mayur Sudhakar Sawant,IIT Indore,Mechanical Engineering,0.00174,0.00016,7,A5006742073
+Piyush Joshi,IIT Indore,Computer Science and Engineering,0.00174,0.0,42,A5060095192
+Biswajeet Pradhan,IIT Indore,Civil Engineering,0.00174,0.0,39,A5059040421
+Jagjit Kaur,IIT Indore,Physics,0.00174,0.0,16,A5060688978
+Mohit Kumar,IIT Indore,Electrical Engineering,0.00174,0.0,3,A5046933902
+Priyanka Nath,IIT Indore,Chemistry,0.00174,0.0,43,A5111100649
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,0,A5035847062
+Shubham Sadhya,IIT Indore,Mechanical Engineering,0.00174,6.1e-05,7,A5009314054
+Sriparna Chatterjee,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,11,A5049633189
+Basudeba Maharana,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,11,A5002935679
+Rekha Sharma,IIT Indore,Chemistry,0.00174,0.0,2,A5052439709
+Sunil Manohar Maharana,IIT Bhubaneswar,Mechanical Sciences,0.00174,8e-06,33,A5087130777
+Suraj Jena,IIT Bhubaneswar,Infrastructure,0.00174,0.016427,10,A5053303812
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.00174,0.0,32,A5155028437
+Nishant Vats,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00174,0.0,10,A5015588633
+Kusha Kumar Naik,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,13,A5053482802
+Sagarika Mishra,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,13,A5101650734
+Rajneesh K. Singh,IIT Bhubaneswar,Infrastructure,0.00174,0.0,35,A5101791161
+Mitali Sinha,IIT Bhubaneswar,Electrical and Computer Sciences,0.00174,0.0,19,A5102827395
+Ankit Kumar,IIT Indore,Chemistry,0.00174,0.0,15,A5139828531
+Bhanu Priya,IIT Indore,Chemistry,0.00174,0.0,15,A5103424661
+Kundan Samal,IIT Bhubaneswar,Infrastructure,0.00174,0.0,35,A5070137590
+Tapajyoti Chakraborty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00174,0.0,10,A5049175729
+Charu Popli,IIT Indore,Chemistry,0.00174,0.0,2,A5066301679
+Gangala Sivakumar,IIT Indore,Chemistry,0.00174,0.0,2,A5101875218
+Anil Kumar,IIT Indore,Physics,0.00174,0.0,38,A5054190206
+K.B. Shingare,IIT Indore,Mechanical Engineering,0.00174,0.0,24,A5026833899
+Manas Ranjan Mohanty,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00174,0.0,10,A5042048525
+Mohd Shadab Danish,IIT Indore,Humanities and Social Sciences,0.00174,0.000368,30,A5082493684
+Pravin Kumar,IIT Indore,Mechanical Engineering,0.00174,0.0,7,A5101407073
+Gaurav Tripathi,IIT Mandi,Engineering,0.00174,0.0,1,A5086089533
+Subrata Kumar Mondal,IIT Mandi,Engineering,0.00174,0.0,1,A5062889903
+Sayantan Sarkar,IIT Indore,Chemistry,0.00174,0.0,0,A5005614279
+Imtiaz Ahmed,IIT Indore,Chemistry,0.00174,0.0,2,A5137211679
+Avadhesh Kumar,IIT Mandi,Mathematical and Statistical Sciences,0.00174,0.0,27,A5020434697
+Suraj Prasad,IIT Indore,Physics,0.00174,0.0,18,A5133207945
+Captain R. Singh,IIT Indore,Physics,0.00174,0.0,18,A5133207326
+Swati Tyagi,IIT Mandi,Computing and Electrical Engineering,0.00174,6.6e-05,27,A5020220653
+Timothy A. Gonsalves,IIT Mandi,Computing and Electrical Engineering,0.00174,0.000157,4,A5025015499
+Shivprasad S. Shastri,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.001105,34,A5043224142
+Santosh Kumar,IIT Indore,Electrical Engineering,0.00174,0.0,32,A5070913887
+Vidula Athawale,IIT Bhubaneswar,Mechanical Sciences,0.00174,0.0,11,A5061454559
+Anasuya Roychowdhury,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,13,A5077908783
+Ahmed Raza,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,25,A5068407098
+Jyotika Thakur,IIT Mandi,Mechanical and Materials Engineering,0.00174,0.0,26,A5060096949
+Rajesh Dhayal‎,IIT Mandi,Mathematical and Statistical Sciences,0.00174,0.0,27,A5080206518
+K. C. Niraj,IIT Mandi,Civil and Environmental Engineering,0.00174,0.0,4,A5113079083
+Balaram Polai,IIT Bhubaneswar,Basic Sciences,0.00174,0.0,13,A5057859913
+Vikash Kumar,IIT Indore,Physics,0.00174,0.0,6,A5101498768
+Mohit Kumar,IIT Indore,Electrical Engineering,0.00174,0.0,28,A5100739494
+Praveen Kumar,IIT Indore,Chemistry,0.00174,0.0,2,A5103649307
+Tabrez Babu Khan,IIT Bhubaneswar,Basic Sciences,0.00174,1e-06,47,A5071186486
+Sushmita Agarwal,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,49,A5009979506
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.00174,3.8e-05,21,A5103170821
+Abhimanyu Sharma,IIT Mandi,Civil and Environmental Engineering,0.00174,5.4e-05,4,A5064748877
+Neha Nagendra,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5024502485
+Moupia Mukherjee,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,23,A5114243716
+Chandan Adhikari,IIT Indore,Chemistry,0.00174,0.00551,0,A5051943535
+Manu Jose,IIT Indore,Humanities and Social Sciences,0.00174,0.000368,30,A5055703499
+Aditya Nalwaya,IIT Indore,Electrical Engineering,0.00174,0.0,3,A5057641231
+Ruchi Sharma,IIT Indore,Humanities and Social Sciences,0.00174,0.0,30,A5101426523
+Vaishnavi Kulkarni,IIT Indore,Chemistry,0.00174,0.0,15,A5078719925
+Manikandan Alagumuthu,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,36,A5072531956
+Akash Tripathi,IIT Indore,Electrical Engineering,0.00174,0.0,7,A5090453192
+Jaya Dhanya,IIT Mandi,Civil and Environmental Engineering,0.00174,0.0,4,A5089810221
+Amit Shukla,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.0,49,A5037533087
+T. Jothi Saravanan,IIT Bhubaneswar,Infrastructure,0.00174,0.00202,11,A5101732333
+Md. Arif Hussain,IIT Indore,Civil Engineering,0.00174,0.0,17,A5109591691
+Tonmoy Ghosh,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,20,A5065776827
+S. Gowthamaraju,IIT Indore,Physics,0.00174,0.0,12,A5022932610
+Ankit Singh,IIT Mandi,Civil and Environmental Engineering,0.00174,0.0,4,A5152697078
+Kunal Gupta,IIT Indore,Civil Engineering,0.00174,0.0,39,A5077758610
+Amit Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.00174,0.0,17,A5100709649
+Gunasekaran Dan Sathiaraj,IIT Indore,Mechanical Engineering,0.00174,0.0,7,A5053563180
+Sourabh Solanki,IIT Indore,Electrical Engineering,0.00174,0.0,24,A5045885076
+Bodhisatwa Mazumdar,IIT Indore,Computer Science and Engineering,0.00174,0.000832,28,A5087458084
+Yeeshu Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00174,0.0,23,A5107945114
+Abhijeet Bishnu,IIT Indore,Electrical Engineering,0.00174,0.0,22,A5101865693
+Huma Tabassum,IIT Indore,Chemistry,0.00174,0.0,43,A5028990408
+Sahil Kumar,IIT Mandi,Chemical Sciences,0.00174,0.0,9,A5012877693
+Avantika Singh,IIT Mandi,Computing and Electrical Engineering,0.00174,0.0,17,A5101499633
+Chandresh Kumar Maurya,IIT Indore,Computer Science and Engineering,0.00174,0.002209,3,A5035408769
+M. Chakraborty,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00174,0.001105,18,A5027400659
+Kapil Ahuja,IIT Indore,Computer Science and Engineering,0.00174,0.0,3,A5068503569
+Soumya Prakash Dash,IIT Bhubaneswar,Electrical and Computer Sciences,0.00174,0.003871,19,A5060025048
+Vasudevarao Allu,IIT Bhubaneswar,Basic Sciences,0.00174,1e-06,46,A5005606119
+Debalina Ghosh,IIT Bhubaneswar,Electrical and Computer Sciences,0.00174,0.003545,11,A5049476701
+Srinivas Pinisetty,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.000327,19,A5035408678
+Manoj Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,9,A5100696265
+Sanjay Singh Tomar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,25,A5049863835
+Dhiraj V. Patil,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.001105,9,A5034403423
+Sultan Alam,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,27,A5047262315
+Amit Kumar Sharma,IIT Mandi,Chemical Sciences,0.00116,0.0,1,A5103931985
+Pankaj Kumar,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,34,A5100983154
+Arjun OK,IIT Mandi,Biosciences and Bioengineering,0.00116,0.0,8,A5045879528
+Chitaranjan Phurailatpam,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5090894891
+A.A. Bhattacharya,IIT Indore,Chemistry,0.00116,0.0,0,A5085785799
+Chiranjit Mondal,IIT Indore,Metallurgy Engineering and Materials Science,0.00116,0.0,15,A5009152594
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00116,0.0,22,A5101864987
+Venkatesh Chelvam,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,40,A5015713099
+Debayan Sarkar,IIT Indore,Chemistry,0.00116,0.001105,15,A5032281760
+Deepak Kumar,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5001946715
+Satyendra Prakash Pal,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,5,A5058591335
+Ashish Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,5,A5086581871
+Amit Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5063837504
+Vipendra Kumar Singh,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,8,A5023504426
+Kavita Yadav,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,34,A5054360276
+Suhas Sitaram Joshi,IIT Indore,Mechanical Engineering,0.00116,0.0,7,A5069897529
+Abhishek Srivastava,IIT Indore,Metallurgy Engineering and Materials Science,0.00116,0.0,24,A5101576889
+Abhinav Singh Parihar,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5031121302
+Girish Chandra Verma,IIT Indore,Mechanical Engineering,0.00116,0.00331,3,A5039693705
+Animesh Mandal,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00116,4.5e-05,13,A5103238127
+Nabasmita Phukan,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5080183050
+Revanth Dugalam,IIT Indore,Civil Engineering,0.00116,0.0,20,A5045018726
+Vibhor Pandhare,IIT Indore,Mechanical Engineering,0.00116,0.0,20,A5036427436
+K. Anirudh,IIT Indore,Mechanical Engineering,0.00116,0.0,41,A5018496592
+Vaibhav Nemane,IIT Indore,Mechanical Engineering,0.00116,0.0,2,A5091370068
+Saurabh Mishra,IIT Indore,Mechanical Engineering,0.00116,0.0,24,A5101723792
+Ankit Soni,IIT Indore,Physics,0.00116,0.0,37,A5010232394
+Dilip Pinjari,IIT Indore,Chemistry,0.00116,0.0,2,A5060499159
+Vinay Katari,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00116,0.0,13,A5106560175
+Azaz Ahmad,IIT Mandi,Physical Sciences,0.00116,0.0,34,A5091189667
+Abhishek Pandey,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,34,A5102841800
+Sanchita Sarkhel,IIT Mandi,Biosciences and Bioengineering,0.00116,0.0,26,A5070347220
+Durgesh Ameta,IIT Mandi,Unknown,0.00116,0.0,3,A5092496569
+Vibha Gupta,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,4,A5101448150
+Aditi Puri Singh,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,51,A5100679855
+Sucharita Shadangi,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,51,A5093216350
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5124348059
+Syed Abbas,IIT Mandi,Mathematical and Statistical Sciences,0.00116,0.001105,27,A5123426556
+Mohd Shadab Ansari,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,25,A5065307248
+Neha Jain,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,0,A5058751417
+Puneet Gupta,IIT Indore,Computer Science and Engineering,0.00116,0.0,7,A5101654867
+Rajesh Kumar,IIT Indore,Physics,0.00116,0.0,0,A5109490020
+Himadri Halder,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,46,A5015983965
+Jangyadatta Pasa,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,11,A5037369735
+Abhishek Kumar Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,26,A5026725255
+Abhi Dutta,IIT Mandi,Biosciences and Bioengineering,0.00116,0.0,9,A5104145009
+Devendra K. Yadav,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,30,A5070276004
+Niranjan Dehury,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,13,A5006942838
+K. Ajay Babu,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5110608796
+Pintu Gorai,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,11,A5012026083
+Rajesh Kumar,IIT Indore,Physics,0.00116,0.0,14,A5071612489
+Imtiaz Ahmed,IIT Indore,Chemistry,0.00116,0.0,2,A5137443231
+R. N. P. Choudhary,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,52,A5087769918
+Shubhi Bansal,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5140489981
+Rajesh Kumar,IIT Indore,Physics,0.00116,0.0,21,A5137970151
+Amit Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5101968175
+Aman Chandel,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,4,A5061209675
+Devesh Punera,IIT Bhubaneswar,Infrastructure,0.00116,0.000368,11,A5060056787
+R. Swaminathan,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5061181342
+Pawan Kumar Mandal,IIT Mandi,Mathematical and Statistical Sciences,0.00116,0.0,27,A5036047547
+Syed Bakhtawar Bilal,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,17,A5052011404
+Ganapati Panda,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.001968,10,A5109146148
+Neelesh Yadav,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5075915075
+Pratibha Khandait,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5055083020
+Aniket P. Kulkarni,IIT Indore,Mechanical Engineering,0.00116,0.0,20,A5084922526
+Kajal Yadav,IIT Indore,Electrical Engineering,0.00116,0.0,24,A5013869466
+Ashok Singh,IIT Indore,Physics,0.00116,0.0,6,A5140164860
+Ankit Kumar,IIT Indore,Chemistry,0.00116,0.0,15,A5147373895
+Prangya Ranjan Rout,IIT Bhubaneswar,Infrastructure,0.00116,0.0,35,A5082735040
+Aryama Raychaudhuri,IIT Bhubaneswar,Infrastructure,0.00116,0.0,35,A5052289802
+Burle Tulasi Rao,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,10,A5033644421
+Mohit Aggarwal,IIT Bhubaneswar,Infrastructure,0.00116,0.0,35,A5021135850
+Vishal Sharma,IIT Indore,Electrical Engineering,0.00116,0.0,21,A5101497946
+Kiran Bala,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,20,A5073246835
+Amrendra Kumar Singh,IIT Indore,Chemistry,0.00116,0.0,37,A5102530994
+M. Sajid,IIT Indore,Mathematics,0.00116,0.0,3,A5120928932
+Pramod Kumar Parida,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,33,A5101883505
+Rajeev Kumar Chauhan,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5078931886
+Gautham Varma K,IIT Mandi,Physical Sciences,0.00116,0.0,34,A5032247816
+Sachin Chauhan,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5010437758
+Abhirup Datta,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.0,29,A5129429692
+Bijay Sharma,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,45,A5103242541
+Niloy Laskar,IIT Bhubaneswar,Mechanical Sciences,0.00116,1.5e-05,11,A5040537828
+Pankaj Dilip Achlerkar,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5074487890
+Sayed Muktar Hossain,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,13,A5047839609
+Md Arif Hussain,IIT Indore,Civil Engineering,0.00116,0.0,17,A5133525930
+Sanchit Gupta,IIT Indore,Civil Engineering,0.00116,0.0,14,A5100787271
+Bala Naga Lingaiah Ande,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5009827186
+Mohit Kumar,IIT Indore,Electrical Engineering,0.00116,0.0,6,A5103650233
+Avinash Sonawane,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,0,A5147378263
+Sanchit Gupta,IIT Indore,Civil Engineering,0.00116,0.0,14,A5073133548
+Dilip K. Pandey,IIT Indore,Chemistry,0.00116,0.0,6,A5039911719
+Mohammad Saquib,IIT Mandi,Mechanical and Materials Engineering,0.00116,2e-06,8,A5101435168
+Monika Dagliya,IIT Indore,Civil Engineering,0.00116,0.0,39,A5054849334
+Mayank Swarnkar,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5006700624
+Arti Kashyap,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,52,A5021325865
+Saurabh Yadav,IIT Indore,Mechanical Engineering,0.00116,0.0,6,A5000753891
+Rajat Kumar,IIT Indore,Mechanical Engineering,0.00116,0.0,22,A5026264506
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00116,0.0,17,A5101620990
+Komal Mulchandani,IIT Indore,Physics,0.00116,0.0,37,A5042324132
+Ramij Raja,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.0,29,A5007927315
+Prem Babu,IIT Indore,Electrical Engineering,0.00116,0.0,32,A5153542347
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.00116,0.0,32,A5153467632
+Santosh Kumar Jena,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,33,A5064258579
+Jamuna K. Vaishnav,IIT Indore,Chemistry,0.00116,0.0,0,A5064952675
+V.D. Chaudhari,IIT Indore,Mechanical Engineering,0.00116,0.0,20,A5085141560
+Mohd Kamran,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.0,29,A5074596587
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5110883144
+Pankaj Kumar Sharma,IIT Indore,Electrical Engineering,0.00116,0.0,24,A5064367375
+Molla Basir Ahamed,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,46,A5037346476
+Samarendra Panda,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,11,A5001695954
+Upasana Priyadarshini,IIT Bhubaneswar,Infrastructure,0.00116,0.0,35,A5093662333
+Tonish Kumar Sahu,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,47,A5060398189
+Abhirup Dikshit,IIT Indore,Civil Engineering,0.00116,0.0,39,A5058731208
+Navdeep Srivastava,IIT Indore,Chemistry,0.00116,0.0,37,A5062923780
+Camellia Sarkar,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,38,A5090982893
+Sharad Gupta,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,7,A5100826376
+Siddharth Kumar,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00116,0.0,30,A5070000394
+Chittaranjan Pradhan,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5035233104
+Madhukrishna Priyadarsini,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5070981578
+Smrutirekha Samal,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5002716990
+Gopinath Sahoo,IIT Bhubaneswar,Basic Sciences,0.00116,0.000783,13,A5086749067
+Satyabati Das,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00116,0.000797,13,A5110260705
+Shruti Kaushik,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,4,A5015858110
+Abhinav Choudhury,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,4,A5068440754
+Vipin Gupta,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5023527827
+Saurabh Yadav,IIT Indore,Mechanical Engineering,0.00116,0.0,6,A5135499034
+Rahul Gope,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00116,0.000119,13,A5076230407
+Hrudaya Jyoti Biswal,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,33,A5086397819
+Mohit K. Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,34,A5050499450
+Avantika Singh,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,4,A5101499634
+Rampal Rampal,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,25,A5068760168
+Pawan Kumar,IIT Bhubaneswar,Infrastructure,0.00116,0.0,11,A5035606734
+Mahender Singh,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,9,A5107870843
+Ritwik Ghosh,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,31,A5091256987
+Ashwani Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,26,A5050471025
+Sharey Deep Guleria,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5030209529
+Nikhil Kumar Sharma,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5003857144
+Ankit Rathi,IIT Indore,Mechanical Engineering,0.00116,0.0,24,A5076165802
+Umesh Kumar Verma,IIT Indore,Physics,0.00116,0.0,38,A5031979840
+Amrendra Kumar Singh,IIT Indore,Chemistry,0.00116,0.0,37,A5137860271
+Priyanka Yadav,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,0,A5080281532
+Soumyakanta Panda,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,11,A5034254990
+Bata Krishna Tripathy,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5047990248
+Pradeeptta Kumar Taraphdar,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,33,A5063173728
+Sumit Dass,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,11,A5066415912
+Udit Satija,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5056883826
+Ekta Yadav,IIT Indore,Physics,0.00116,0.0,37,A5137838046
+Suvam Kumar Panda,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,13,A5066490978
+Maneesh Lingwan,IIT Mandi,Basic Sciences,0.00116,0.0,26,A5026532842
+Darakshan Parveen,IIT Indore,Chemistry,0.00116,0.0,15,A5084632470
+Vivek Kumar Singh,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5102021264
+Bhagyarathi Sahoo,IIT Indore,Physics,0.00116,0.0,18,A5124865764
+Shishir Maheshwari,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5019915540
+Vijay Pratap Sharma,IIT Indore,Electrical Engineering,0.00116,0.0,21,A5033498923
+Dada Saheb Ramteke,IIT Indore,Mechanical Engineering,0.00116,0.0,3,A5032514501
+Ashok Kumar Sharma,IIT Indore,Mathematics,0.00116,0.0,3,A5101835251
+Mohammad Ahmad Faizan,IIT Mandi,Humanities and Social Sciences,0.00116,0.0,4,A5041038103
+Abhay B. Upadhyay,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5070175413
+Kari Vijayakrishna,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,11,A5059709603
+T. Jothi Saravanan,IIT Bhubaneswar,Infrastructure,0.00116,0.002017,11,A5101732332
+Malay Bandyopadhyay,IIT Bhubaneswar,Basic Sciences,0.00116,0.000918,19,A5013199905
+Mohd Wazid,IIT Indore,Chemistry,0.00116,0.0,2,A5106949394
+Captain R. Singh,IIT Indore,Physics,0.00116,0.0,18,A5124830117
+Vishal V. Nirgude,IIT Indore,Mechanical Engineering,0.00116,0.0,24,A5079127619
+Aditya Shastri,IIT Indore,Unknown,0.00116,0.0,3,A5071674255
+Vinay K. Tiwari,IIT Indore,Electrical Engineering,0.00116,0.0,28,A5101881350
+Soumendra Rana,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,51,A5012618507
+Sasidhar Kondaraju,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,33,A5004089495
+Srikanta Patra,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,13,A5034870810
+Ganapati Panda,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.001968,10,A5034931207
+Hemant Jalota,IIT Mandi,Unknown,0.00116,0.0,27,A5057545144
+Supriya Dey,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,45,A5101133265
+Rahimuddin Khan,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,47,A5043477625
+Majidul Rahaman,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.0,29,A5090159432
+Achinta Mondal,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5037187741
+Suchi Chaturvedi,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,0,A5073406428
+Ankita Sarkar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,26,A5067921956
+Bhaskar Mondal,IIT Mandi,Chemical Sciences,0.00116,0.0,9,A5122309732
+Anuj Rai,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5021931068
+Additi Roy Chowdhury,IIT Indore,Chemistry,0.00116,0.0,6,A5081170186
+Shamim Sk,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,34,A5022314047
+Vaibhav Sanjay Kathavate,IIT Indore,Metallurgy Engineering and Materials Science,0.00116,0.0,12,A5071884661
+Rajesh T. Bhawale,IIT Indore,Chemistry,0.00116,0.0,12,A5061903387
+Aditya Singh,IIT Bhubaneswar,Basic Sciences,0.00116,0.0,19,A5027802247
+Mihir Kumar Das,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,11,A5129651337
+Rahul Kumar,IIT Bhubaneswar,Unknown,0.00116,0.0,19,A5077585432
+Uma Shankar Biswal,IIT Bhubaneswar,Infrastructure,0.00116,0.0,11,A5080825788
+Shrey Bhatnagar,IIT Bhubaneswar,Mechanical Sciences,0.00116,0.0,13,A5071135004
+Manoj Kumar,IIT Mandi,Physical Sciences,0.00116,0.002208,27,A5103602285
+Shivam Dubey,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5054853070
+Thappali Rajendran Vijaybabu,IIT Indore,Mechanical Engineering,0.00116,0.0,41,A5031214637
+Parmod Kumar,IIT Mandi,Chemical Sciences,0.00116,0.0,25,A5100560119
+Alinda George,IIT Indore,Humanities and Social Sciences,0.00116,0.0,30,A5064299241
+Dipankar De,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,10,A5041528209
+Munir Ahmad Nayak,IIT Indore,Civil Engineering,0.00116,0.0,17,A5084602928
+Nibedita Dash,IIT Bhubaneswar,Unknown,0.00116,1e-06,50,A5009287698
+Aman Khurana,IIT Indore,Mechanical Engineering,0.00116,0.0,3,A5066302904
+Nishchay Saurabh,IIT Indore,Mechanical Engineering,0.00116,0.0,1,A5057949020
+Bushra Praveen,IIT Indore,Humanities and Social Sciences,0.00116,0.001351,30,A5028782894
+Meghna Sharma,IIT Indore,Civil Engineering,0.00116,0.0,39,A5064870548
+Chandan Kumar Singh,IIT Indore,Electrical Engineering,0.00116,0.0,24,A5050941144
+Anupam Kumar,IIT Indore,Mechanical Engineering,0.00116,0.0,3,A5081781051
+Ankit Singh,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,4,A5140411170
+Ab Quyoom Khachoo,IIT Indore,Humanities and Social Sciences,0.00116,0.0,30,A5000998642
+Vishal Kharka,IIT Indore,Mechanical Engineering,0.00116,0.0,7,A5072316394
+Shilpa Chandra,IIT Mandi,Unknown,0.00116,0.0,8,A5140332378
+Shivani Sharma,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,4,A5147557088
+Pushpendra Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5107612489
+Ranbir Singh,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,5,A5113899347
+Swati Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,26,A5100617488
+Manoj Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,9,A5103216720
+Priodyuti Pradhan,IIT Indore,Physics,0.00116,0.0,38,A5048837570
+Debjit Misra,IIT Indore,Mechanical Engineering,0.00116,0.0,2,A5027429049
+Rukshana Pervin,IIT Indore,Metallurgy Engineering and Materials Science,0.00116,0.0,12,A5057695393
+Nikhil Tripathi,IIT Indore,Computer Science and Engineering,0.00116,0.0,28,A5031486539
+Vidya Bhasker Shukla,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5000674069
+Nikhil Kumar Pandey,IIT Indore,Civil Engineering,0.00116,0.0,39,A5058449562
+Nitu Kumari,IIT Mandi,Physical Sciences,0.00116,0.001105,4,A5019051974
+Srinivasu Bodapati,IIT Mandi,Computing and Electrical Engineering,0.00116,0.001105,5,A5010439079
+Purushottam Kumar Garg,IIT Indore,Civil Engineering,0.00116,0.0,17,A5035580810
+Nishu Kanwa,IIT Indore,Chemistry,0.00116,0.00441,43,A5065615543
+Sudipta Saha,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5101992162
+Bikash Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.00116,0.0,20,A5002371250
+Anurag Nishad,IIT Indore,Electrical Engineering,0.00116,0.0,3,A5003359393
+Smriti Uniyal,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5112916246
+Ayushi Suman,IIT Indore,Physics,0.00116,0.0,38,A5069300967
+Saurabh Das,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.0,29,A5128349066
+Sandeep Chaudhary,IIT Indore,Civil Engineering,0.00116,0.0,0,A5101447890
+Abhishek Kumar Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,25,A5152417845
+Parmod Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,1,A5012026938
+Rajneesh Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00116,0.0,25,A5007873264
+Renu Rameshan,IIT Mandi,Computing and Electrical Engineering,0.00116,0.000113,4,A5050363496
+Anand Giri,IIT Mandi,Civil and Environmental Engineering,0.00116,0.001105,8,A5034238986
+Rajneesh Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00116,8.3e-05,1,A5056044853
+S.P. Sharmila,IIT Indore,Computer Science and Engineering,0.00116,0.0,3,A5101688003
+S.S. Hirmukhe,IIT Indore,Mechanical Engineering,0.00116,0.0,12,A5065104941
+Srinivas Bhaskar Karanki,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,0.0,19,A5038730197
+Vinay Bankey,IIT Indore,Electrical Engineering,0.00116,0.0,24,A5061008315
+Abhinay S. Chillal,IIT Indore,Chemistry,0.00116,0.0,12,A5061051466
+Puneet Singh,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5100627308
+Shivang Shekhar,IIT Mandi,Civil and Environmental Engineering,0.00116,0.001105,17,A5028340493
+Pragya Swami,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5018976514
+Satya S. Bulusu,IIT Indore,Chemistry,0.00116,0.001105,7,A5075511312
+Keshav Aggarwal,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00116,0.001105,29,A5005302854
+Sumanta Haldar,IIT Bhubaneswar,Infrastructure,0.00116,0.001105,11,A5015793488
+Pravas Ranjan Sahu,IIT Bhubaneswar,Electrical and Computer Sciences,0.00116,5e-06,19,A5041914756
+Ankit Singh,IIT Mandi,Civil and Environmental Engineering,0.00116,0.0,4,A5143921890
+Pankaj Kumar,IIT Mandi,Computing and Electrical Engineering,0.00116,0.0,52,A5101905218
+Goutam Mondal,IIT Bhubaneswar,Infrastructure,0.00116,3e-06,11,A5088573132
+Amit Chatterjee,IIT Indore,Electrical Engineering,0.00116,0.0,22,A5051294223
+Santhakumar Mohan,IIT Indore,Mechanical Engineering,0.00116,0.000886,20,A5021356164
+Sandeep Semwal,IIT Indore,Electrical Engineering,0.00116,0.0,6,A5089666634
+Sachin Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,5,A5144381532
+S. Bahinipati,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,50,A5069692332
+Gajendra Singh,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5078797822
+Shivani Sharma,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,4,A5139988544
+Shivendra Kumar Pandey,IIT Indore,Electrical Engineering,0.00058,0.0,7,A5050733678
+Stefano Boccaletti,IIT Indore,Physics,0.00058,0.0,38,A5083819212
+Manish Dev Sharma,IIT Indore,Electrical Engineering,0.00058,0.0,3,A5057990837
+Saumya Bhadauria,IIT Indore,Computer Science and Engineering,0.00058,0.0,44,A5016638400
+Priyanka Singh,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5114888910
+Siva Chiriki,IIT Indore,Chemistry,0.00058,0.0,7,A5033910788
+Pankaj Kumar Chaudhary,IIT Indore,Computer Science and Engineering,0.00058,0.0,28,A5021505731
+Nihal Singh Khangar,IIT Indore,Humanities and Social Sciences,0.00058,0.0,17,A5093912969
+Mirza S. Baig,IIT Indore,Biosciences and Biomedical Engineering,0.00058,0.0,36,A5125603455
+Unnati Kashyap,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,18,A5033528897
+Srija Roy,IIT Indore,Civil Engineering,0.00058,0.0,62,A5103097487
+Amit Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,27,A5011681633
+Alka Sharma,IIT Indore,Civil Engineering,0.00058,0.0,17,A5047529978
+Gopi Talluri,IIT Indore,Metallurgy Engineering and Materials Science,0.00058,0.0,57,A5111201006
+Shekhar Singh,IIT Indore,Civil Engineering,0.00058,0.0,17,A5090588908
+Nivedita Sethiya,IIT Indore,Unknown,0.00058,0.0,3,A5093427108
+Gurjeet Singh,IIT Indore,Mechanical Engineering,0.00058,0.0,20,A5101930035
+E S N Raju P,IIT Indore,Electrical Engineering,0.00058,0.0,28,A5071222376
+Aditya Prasad Sarkar,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,4,A5054176859
+Shubhajit Roy Chowdhury,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,68,A5135364506
+Palvi Aggarwal,IIT Mandi,Unknown,0.00058,0.0,4,A5090959301
+Parmod Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,65,A5014140200
+Pratim Kundu,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,31,A5101447394
+Hari R. Varma,IIT Mandi,Physical Sciences,0.00058,0.0,66,A5035109143
+A. Goswami,IIT Indore,Physics,0.00058,0.0,18,A5113835254
+Sermadurai Selvakumar,IIT Indore,Chemistry,0.00058,0.0,56,A5077104032
+Gourinath Banda,IIT Indore,Computer Science and Engineering,0.00058,0.0,28,A5004570881
+Balasubramanyam Appina,IIT Indore,Electrical Engineering,0.00058,0.0,3,A5004903747
+Aditya Anshul,IIT Indore,Computer Science and Engineering,0.00058,0.0,44,A5054199159
+Mahendra Rathor,IIT Indore,Computer Science and Engineering,0.00058,0.0,44,A5091440578
+Ashish Kumar Rajak,IIT Indore,Mechanical Engineering,0.00058,0.0,7,A5041951424
+Bapan Ghosh,IIT Indore,Mathematics,0.00058,0.0,58,A5013580714
+Ashootosh Mandpe,IIT Indore,Civil Engineering,0.00058,0.0,55,A5018649218
+Gourab Sil,IIT Indore,Civil Engineering,0.00058,0.0,3,A5080985938
+Kunal Ghosh,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,64,A5101825368
+Ram Sajeevan Maurya,IIT Indore,Metallurgy Engineering and Materials Science,0.00058,0.0,57,A5052943140
+Nupur Navlakha,IIT Indore,Electrical Engineering,0.00058,0.0,6,A5027944302
+Dipanjan Roy,IIT Indore,Computer Science and Engineering,0.00058,0.0,44,A5088900896
+Supriya Dey,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,45,A5136542012
+Ankit Singh,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5025819252
+Manoj Kumar,IIT Mandi,Mathematical and Statistical Sciences,0.00058,0.0,27,A5148805338
+Prateek Kumar,IIT Mandi,Basic Sciences,0.00058,0.0,4,A5021447164
+Mihir Kumar Das,IIT Bhubaneswar,Mechanical Sciences,0.00058,0.0,10,A5152219205
+Manoj Kumar,IIT Mandi,Mathematical and Statistical Sciences,0.00058,0.0,27,A5054178360
+Sarmistha Mishra,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00058,0.0,30,A5135321597
+Bittu Mandal,IIT Indore,Humanities and Social Sciences,0.00058,0.0,30,A5074176557
+Sarita Azad,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,63,A5013425291
+Suman Sinha‐Ray,IIT Indore,Metallurgy Engineering and Materials Science,0.00058,0.0,9,A5013025547
+Akhilesh Kumar Singh,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,13,A5121626683
+Rahul Kumar,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00058,0.0,13,A5115593843
+S. Sova Barik,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00058,0.0,10,A5138721025
+Unmesh Khati,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5079521715
+Shyamasree Dasgupta,IIT Mandi,Humanities and Social Sciences,0.00058,0.0,45,A5060758530
+Puneet Sood,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,9,A5050773557
+S. Bahinipati,IIT Bhubaneswar,Unknown,0.00058,0.0,50,A5028657741
+Rahul Kumar,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5024663102
+N. C. Pati,IIT Indore,Mathematics,0.00058,0.0,58,A5057755539
+Sandeep Kumar,IIT Indore,Mechanical Engineering,0.00058,0.0,20,A5071404767
+B. Shruti,IIT Indore,Mechanical Engineering,0.00058,0.0,41,A5060768117
+Nitesh Das,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,9,A5038289997
+M. Tanveer,IIT Indore,Mathematics,0.00058,0.0,59,A5072336745
+Amandeep Singh,IIT Indore,Mechanical Engineering,0.00058,0.0,3,A5035434927
+Bhabani Sankar Lenka,IIT Indore,Chemistry,0.00058,0.0,15,A5077547343
+Praveen Dwivedi,IIT Indore,Electrical Engineering,0.00058,0.0,6,A5070064437
+Ajinkya J. Sonawane,IIT Indore,Electrical Engineering,0.00058,0.0,28,A5086444502
+Yogesh G. Bhumkar,IIT Bhubaneswar,Mechanical Sciences,0.00058,0.0,11,A5022469838
+Mohammad Masiur Rahaman,IIT Bhubaneswar,Infrastructure,0.00058,0.0,54,A5078365142
+Prakash Chandra Sahu,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,19,A5000365148
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.00058,0.0,21,A5073748464
+Anuj Verma,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,4,A5005538288
+Fahed Mohd,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5085016740
+Darsi Rambabu,IIT Mandi,Chemical Sciences,0.00058,0.0,26,A5000499790
+Laxmidhar Behera,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,68,A5140839077
+Shilpa Thakur,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,27,A5079247790
+Aditya Nigam,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,4,A5124720312
+Mukul Lokhande,IIT Indore,Electrical Engineering,0.00058,0.0,21,A5005278237
+Manish Gupta,IIT Indore,Electrical Engineering,0.00058,0.0,6,A5008457208
+Sanjay Kumar,IIT Indore,Electrical Engineering,0.00058,0.0,6,A5034784746
+S P Sharmila,IIT Indore,Computer Science and Engineering,0.00058,0.0,3,A5101414350
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.00058,0.0,32,A5103436543
+M. Sajid,IIT Indore,Mathematics,0.00058,0.0,67,A5152868272
+Tushar Jain,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,27,A5010806251
+Vijay Anand,IIT Indore,Electrical Engineering,0.00058,0.0,3,A5053526136
+Dipendu Pramanik,IIT Indore,Mathematics,0.00058,0.0,48,A5034723334
+Vinay Kumar Gupta,IIT Indore,Mathematics,0.00058,0.0,60,A5036585043
+N. K. Behera,IIT Indore,Physics,0.00058,0.0,18,A5017119671
+Ramanand Dadhich,IIT Indore,Mechanical Engineering,0.00058,0.0,12,A5071707831
+Animesh Chaturvedi,IIT Indore,Informatics,0.00058,0.0,3,A5067545356
+Praveen Rajpurohit,IIT Bhubaneswar,Infrastructure,0.00058,0.0,35,A5106253392
+Amal Shaji,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,46,A5050219313
+RAJ K. SINGH,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00058,0.0,10,A5122758466
+R. Deepak Selvakumar,IIT Indore,Mechanical Engineering,0.00058,0.0,41,A5109621392
+Ram S. Mohril,IIT Indore,Mechanical Engineering,0.00058,0.0,20,A5052006740
+Manasa Bhat,IIT Indore,Mathematics,0.00058,0.0,48,A5051318766
+Ankit Gupta,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5037372497
+Neha Aswal,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,31,A5065366432
+Gopinath Sahoo,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,53,A5035595264
+M. Srinivasula Reddy,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5030747292
+S. D. V. S. S. Varma Siruvuri,IIT Bhubaneswar,Mechanical Sciences,0.00058,0.0,33,A5040574363
+Sapna S. Mishra,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,10,A5048131385
+Kalu Ram Bajya,IIT Indore,Chemistry,0.00058,0.0,56,A5016020915
+Vikas Rawat,IIT Indore,Civil Engineering,0.00058,0.0,39,A5099168528
+Sujeet Kumar Chaubey,IIT Indore,Mechanical Engineering,0.00058,0.0,7,A5038643741
+Simhadri Vadrevu,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,19,A5082962377
+Gangireddy Narendra Kumar Reddy,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,19,A5013117028
+Prem Babu,IIT Indore,Electrical Engineering,0.00058,0.0,61,A5157810246
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.00058,0.0,61,A5121518857
+Manish Kumar Goyal,IIT Indore,Civil Engineering,0.00058,0.0,62,A5158104918
+Anup Kumar Gupta,IIT Indore,Computer Science and Engineering,0.00058,0.0,21,A5109373517
+Rajashree Samal,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00058,0.0,30,A5040457593
+Virendra Kumar,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,47,A5024192259
+Rejeti Venkata Srinadh,IIT Bhubaneswar,Infrastructure,0.00058,0.0,35,A5016525932
+Mohit Somani,IIT Bhubaneswar,Infrastructure,0.00058,0.0,10,A5058697341
+M. Tanveer,IIT Indore,Mathematics,0.00058,0.0,67,A5152922590
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00058,0.0,21,A5157736549
+Devendra Singh Gurjar,IIT Indore,Electrical Engineering,0.00058,0.0,24,A5065774100
+Purva Sharma,IIT Indore,Electrical Engineering,0.00058,0.0,22,A5082178348
+Padmanathan Karthick Kannan,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,13,A5012329436
+Vivek Sarohi,IIT Mandi,Biosciences and Bioengineering,0.00058,0.0,9,A5063586287
+Bhupinder Pal Singh,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5007071073
+Sidheswar Panda,IIT Indore,Humanities and Social Sciences,0.00058,0.0,30,A5085701142
+Achala Singh,IIT Indore,Civil Engineering,0.00058,0.0,17,A5076990164
+Rangeet Mitra,IIT Indore,Electrical Engineering,0.00058,0.0,22,A5037311033
+Manish Mandloi,IIT Indore,Electrical Engineering,0.00058,0.0,22,A5025826032
+Saurabh Yadav,IIT Indore,Mechanical Engineering,0.00058,0.0,24,A5030380702
+Sonam Paliya,IIT Indore,Biosciences and Biomedical Engineering,0.00058,0.0,55,A5073780576
+Abhirup Datta,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5151969265
+Vishal Sharma,IIT Indore,Electrical Engineering,0.00058,0.0,36,A5023412654
+Bijesh Sekaran,IIT Indore,Chemistry,0.00058,0.0,2,A5006838447
+Shailesh Vitthalrao Bhalerao,IIT Indore,Biosciences and Biomedical Engineering,0.00058,0.0,3,A5049915940
+Sanket Dey Chowdhury,IIT Bhubaneswar,Infrastructure,0.00058,0.0,35,A5073808870
+Rajiva Lochan Mohanty,IIT Bhubaneswar,Mechanical Sciences,0.00058,0.0,11,A5023389025
+Yati Aggarwal,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5091377625
+Hitesh Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,4,A5057900324
+Sachidanand Kumar,IIT Indore,Civil Engineering,0.00058,0.0,17,A5069710937
+Girish Verma,IIT Indore,Mechanical Engineering,0.00058,0.0,3,A5132796664
+Rajesh Barik,IIT Indore,Humanities and Social Sciences,0.00058,0.0,30,A5009685218
+Priyanka Gupta,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5083190567
+Smriti Sharma,IIT Mandi,Unknown,0.00058,0.0,31,A5101999810
+R.K. Sabat,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.00058,0.0,13,A5112747718
+Amrit Kumar Mishra,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.00058,0.0,10,A5032049591
+Siddharth Singh,IIT Indore,Biosciences and Biomedical Engineering,0.00058,0.0,0,A5109908171
+Manish Kumar Goyal,IIT Indore,Civil Engineering,0.00058,0.0,17,A5138686676
+Rajesh Kumar,IIT Indore,Physics,0.00058,0.0,14,A5144282509
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.00058,0.0,32,A5147403656
+S. Tejas,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5069645239
+Rajesh Kumar,IIT Indore,Physics,0.00058,0.0,14,A5125448160
+Sanjay Kumar Singh,IIT Indore,Chemistry,0.00058,0.0,15,A5125031478
+Vikas Kumar,IIT Mandi,Basic Sciences,0.00058,0.0,4,A5054474574
+Aranya Kar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,8,A5080431860
+Saurabh Singh,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,34,A5034557285
+Ashwani Punia,IIT Mandi,Mathematical and Statistical Sciences,0.00058,0.0,27,A5092959724
+G. Chanakya,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,9,A5028244570
+Fauzul Mobeen,IIT Mandi,Biosciences and Bioengineering,0.00058,0.0,8,A5072108018
+Subhash Chandra,IIT Mandi,Mathematical and Statistical Sciences,0.00058,0.0,27,A5101901688
+Nandit Kaushik,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,5,A5037501731
+Mohammad Amir,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5023096662
+Bhim Kumar,IIT Mandi,Mathematical and Statistical Sciences,0.00058,0.0,27,A5103225502
+Gajendra Singh,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5011855581
+Md Sadullah,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,64,A5038656179
+A. Taraphder,IIT Mandi,Physical Sciences,0.00058,0.0,27,A5077966218
+Rohit B. Chaurasiya,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,4,A5016522720
+Rajesh Kumar,IIT Indore,Physics,0.00058,0.0,14,A5101605436
+Nikhil Kumar,IIT Indore,Civil Engineering,0.00058,0.0,0,A5058179549
+A. Goswami,IIT Indore,Physics,0.00058,0.0,18,A5104688942
+Anil Kumar,IIT Indore,Physics,0.00058,0.0,23,A5038587851
+Sukanta Kumar Das,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5100647760
+Nikhil Mahar,IIT Mandi,Unknown,0.00058,0.0,31,A5008149829
+Saurabh Das,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5105368531
+Manish Kumar Goyal,IIT Indore,Civil Engineering,0.00058,0.0,17,A5047829752
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.00058,0.0,22,A5068162594
+Rahul Kumar Sharma,IIT Indore,Chemistry,0.00058,0.0,59,A5054300851
+Pavan Kumar Yerra,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,19,A5046205026
+Suryalok Dash,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,10,A5055221513
+Rohit Rawat,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5114173441
+Sarmistha Mishra,IIT Bhubaneswar,"Humanities, Social Sciences and Management",0.00058,0.0,30,A5069660929
+Santosh Kumar Behera,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,19,A5101859485
+Ayyappan Unnikrishna Pillai,IIT Bhubaneswar,Infrastructure,0.00058,0.0,54,A5017048345
+Abhirup Datta,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.00058,0.0,29,A5073353959
+Ravinder Kumar,IIT Indore,Chemistry,0.00058,0.0,23,A5147446514
+Vaishali Saini,IIT Indore,Biosciences and Biomedical Engineering,0.00058,0.0,0,A5148837310
+Jeeban Kumar Nayak,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,11,A5014540853
+Saheb Bera,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,11,A5017933982
+Kamalakar Vijay Thakare,IIT Bhubaneswar,Electrical and Computer Sciences,0.00058,0.0,19,A5059391073
+Balmukund Dhakar,IIT Indore,Mechanical Engineering,0.00058,0.0,36,A5042855784
+Girish Verma,IIT Indore,Mechanical Engineering,0.00058,0.0,3,A5026731045
+Sayan Chaudhuri,IIT Indore,Physics,0.00058,0.0,12,A5085029691
+Aman Kumar Kushwaha,IIT Indore,Mathematics,0.00058,0.0,60,A5103118812
+Rahul Som,IIT Indore,Mathematics,0.00058,0.0,48,A5008192661
+Dharmendra K. Panchariya,IIT Indore,Mechanical Engineering,0.00058,0.0,15,A5035775876
+Rajesh Kumar,IIT Indore,Physics,0.00058,0.0,14,A5030498384
+Ruchi Sharma,IIT Indore,Humanities and Social Sciences,0.00058,0.0,21,A5130042737
+Shukla Neha,IIT Bhubaneswar,Infrastructure,0.00058,0.0,35,A5020329260
+Banoth Gopalakrishna,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5024976123
+Maria James,IIT Bhubaneswar,Infrastructure,0.00058,0.0,11,A5077644306
+Somdipta Bagchi,IIT Bhubaneswar,Infrastructure,0.00058,0.0,35,A5001554810
+Chetan Chetan,IIT Bhubaneswar,Mechanical Sciences,0.00058,0.0,13,A5046014787
+Pravat Kumar Jena,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,63,A5028427484
+Harshad Kulkarni,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,8,A5009383052
+Sunil Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.00058,0.0,16,A5123532942
+Rajat Kumar,IIT Indore,Mechanical Engineering,0.00058,0.0,22,A5123941739
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5081802629
+Sachin Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,5,A5103117167
+Gajendra Singh,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5135548427
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5139676832
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5035027242
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5087754597
+Vikas Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,4,A5101811111
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5103934892
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5109294588
+Parmod Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5123744617
+Ajay Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5086909851
+Sasmita Barik,IIT Bhubaneswar,Basic Sciences,0.00058,0.0,53,A5088230799
+Vivek Gupta,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,17,A5006503198
+Vikas Sharma,IIT Indore,Mechanical Engineering,0.00058,0.0,3,A5083749597
+Naresh K. Raghuwanshi,IIT Indore,Mechanical Engineering,0.00058,0.0,3,A5005725629
+Dhiraj V. Patil,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,9,A5005669813
+Ashish Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,66,A5046355585
+Priyanka Gupta,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5060155700
+Parmod Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5104032561
+Amit Kumar Sharma,IIT Mandi,Chemical Sciences,0.00058,0.0,1,A5102009412
+Sandeep Kumar,IIT Mandi,Engineering,0.00058,0.0,65,A5100765716
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5120971922
+Shivani Sharma,IIT Mandi,Computing and Electrical Engineering,0.00058,0.0,5,A5101773349
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5104051163
+Amit Kumar Sharma,IIT Mandi,Chemical Sciences,0.00058,0.0,1,A5135168224
+Ram Bihari Sharma,IIT Indore,Engineering,0.00058,0.0,3,A5031187276
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5086942860
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.00058,0.0,16,A5100759277
+Aniruddha Chakraborty,IIT Mandi,Chemical Sciences,0.00058,0.0,9,A5136313039
+Rajeev Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,1,A5136906249
+Vishal Sharma,IIT Mandi,Chemical Sciences,0.00058,0.0,3,A5137882210
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,4,A5143779201
+Rajneesh Sharma,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,25,A5144026780
+Deepak Kumar,IIT Mandi,Mechanical and Materials Engineering,0.00058,0.0,4,A5081074543
+Vivek Gupta,IIT Mandi,Civil and Environmental Engineering,0.00058,0.0,17,A5126701272
+Manoj Kumar,IIT Mandi,Basic Sciences,0.00058,0.0,27,A5129014997
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5125336458
+Ramna Thakur,IIT Mandi,Humanities and Social Sciences,0.0,0.0,-1,A5124223826
+Aditya Nigam,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5123490148
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5135073099
+Laxmidhar Behera,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5135385313
+Vivek Gupta,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5136316240
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5137135964
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5138438990
+Manoj Kumar,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5100751952
+Mahender Singh,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5043269790
+Ankur Kumar,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5056592130
+Ankur Kumar,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5139851281
+Ankur Kumar,IIT Mandi,Mathematical and Statistical Sciences,0.0,0.0,-1,A5146939751
+Prateek Kumar,IIT Mandi,Biosciences and Bioengineering,0.0,0.0,-1,A5101472345
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5034298622
+C. S. Yadav,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5048106150
+Vivek Gupta,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5129067918
+Manoj Thakur,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5134506499
+Laxmidhar Behera,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5136754170
+Amal Sarkar,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5124772697
+Parveen Kumar,IIT Mandi,Humanities and Social Sciences,0.0,0.0,-1,A5140382940
+Shilpa Chandra,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5107958553
+C. S. Yadav,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5122097515
+Shilpa Chandra,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5135903142
+Pradeep Kumar,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5126612141
+Ashutosh Kumar,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5128189816
+Aditya Nigam,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5135396327
+Deepak Kumar,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5136521973
+Neha Sharma,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5101585561
+Bikash Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5109200947
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5100636261
+Rajesh Kumar,IIT Indore,Physics,0.0,0.0,-1,A5101822765
+Sandeep Singh,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5101826426
+Ashita Singh,IIT Indore,Civil Engineering,0.0,0.0,-1,A5121970836
+Narayan Sinha,IIT Mandi,Chemical Sciences,0.0,0.0,-1,A5019575526
+Bikash Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5101637941
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5147549963
+Hitendra Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5126043456
+R. Swaminathan,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5113727690
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5100657539
+Bodhisatwa Mazumdar,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5103257320
+Prateek Mayank,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5038559729
+Abhirup Datta,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5139384655
+Pravin Kumar,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5148820569
+Amit Anand,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.0,0.0,-1,A5088872679
+Tarutal Ghosh Mondal,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5032995869
+Santanu Mandal,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.0,0.0,-1,A5008157152
+Vimal Bhatia,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5133072592
+Srishti Sen,IIT Indore,Physics,0.0,0.0,-1,A5027230763
+Surya Prakash,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5103215956
+Abhishek Srivastava,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5042525966
+Nagendra Kumar,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5132645857
+Devendra Deshmukh,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5123305010
+Daya Sagar Gupta,IIT Mandi,Management,0.0,0.0,-1,A5042208159
+Saumya Dixit,IIT Mandi,Humanities and Social Sciences,0.0,0.0,-1,A5052009463
+Keshav Aggarwal,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5130336019
+Harekrishna Yadav,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5138045602
+I.A. Palani,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5058871738
+SHIVAM KUMAR -,IIT Indore,Physics,0.0,0.0,-1,A5111272950
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5101636931
+Sandeep Singh,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5126860340
+Bikash Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5130977476
+Abhishek Srivastava,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5134004753
+Rajesh Kumar,IIT Indore,Physics,0.0,0.0,-1,A5136429555
+Akash Jain,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5054589895
+Sarat Kumar Panda,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5006954514
+Vijay Shankar Pasupureddi,IIT Bhubaneswar,Electrical and Computer Sciences,0.0,0.0,-1,A5083998918
+Narala Gangadhara Reddy,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5000573968
+Ankur Kumar,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5102778050
+Surya Prakash,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5079680538
+Mohd. Arshad,IIT Indore,Mathematics,0.0,0.0,-1,A5102508761
+Monika Jain,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5105840306
+Vinod Kumar Singh,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5101979229
+Robin Singh Bhadoria,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5005716005
+Saptarshi Ghosh,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5146547036
+Debajyoti Sarkar,IIT Indore,Physics,0.0,0.0,-1,A5106710499
+Baskar Bakthavachalu,IIT Mandi,Biosciences and Bioengineering,0.0,0.0,-1,A5052721686
+Ruchi Sharma,IIT Indore,Humanities and Social Sciences,0.0,0.0,-1,A5149268212
+Ashita Singh,IIT Indore,Civil Engineering,0.0,0.0,-1,A5151992873
+Mirza S. Baig,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5152042071
+Akshaya Kumar,IIT Indore,Unknown,0.0,0.0,-1,A5157291640
+Unmesh Khati,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5157819130
+Vinod Kumar,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5158471361
+Titas Chanda,IIT Indore,Physics,0.0,0.0,-1,A5076484970
+Hitendra Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5085362912
+Subhendu Rakshit,IIT Indore,Physics,0.0,0.0,-1,A5074296082
+Ankur Gupta,IIT Bhubaneswar,Mechanical Sciences,0.0,0.0,-1,A5088449735
+Ajit Padmakar Annachhatre,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5037908542
+Palas Roy,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5073078918
+Biswanath Das,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5113618476
+Prakash Chandra Sahu,IIT Bhubaneswar,Electrical and Computer Sciences,0.0,0.0,-1,A5135339175
+Khursheed Ahmad,IIT Indore,Chemistry,0.0,0.0,-1,A5048596677
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5100696260
+Vinay Kumar Gupta,IIT Indore,Mathematics,0.0,0.0,-1,A5127435088
+Sachin Kumar,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5064876242
+A. D. Banik,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5035112567
+Nihar Ranjan Panda,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5102974096
+Shantanu Pal,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5045085325
+Pavitra Srivastava,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5041640524
+Ashootosh Mandpe,IIT Indore,Civil Engineering,0.0,0.0,-1,A5135440855
+Ranjith Kumar Poobalan,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5012064748
+Mrigendra Dubey,IIT Indore,Metallurgy Engineering and Materials Science,0.0,0.0,-1,A5143452361
+Mukesh Kumar,IIT Indore,Electrical Engineering,0.0,0.0,-1,A5060727064
+Yogesh Madaria,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5079821780
+Vinod Kumar Sharma,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5051969354
+Parveen Kumar,IIT Mandi,Unknown,0.0,0.0,-1,A5046684883
+Partha Sarathi Nayek,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5021615277
+Rajkumar Hajra,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5038332149
+Amit Kumar Singha,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5009919874
+Dipanjan Dey,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0,0.0,-1,A5121521185
+Hemant Kumar,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5035232604
+Aritra Ghosh,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5100607332
+S Tejas,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5005665699
+saket dubey,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5125156877
+Hemant Kumar,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5126184516
+Raj K. Singh,IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",0.0,0.0,-1,A5136841165
+Rahul Kumar,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5138334771
+Dipankar Das,IIT Indore,Physics,0.0,0.0,-1,A5089598448
+Moumita Das,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5076501494
+Sandeep Singh,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5053586864
+Rahul Kumar,IIT Bhubaneswar,Infrastructure,0.0,0.0,-1,A5100649857
+Dr. Madhusmita Dash,IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",0.0,0.0,-1,A5155208208
+Anirban Bhattacharya,IIT Bhubaneswar,Mechanical Sciences,0.0,0.0,-1,A5034514833
+Aritra Ghosh,IIT Bhubaneswar,Basic Sciences,0.0,0.0,-1,A5124753826
+Arko Roy,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5044156031
+Ajay Soni,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5130894642
+Rajesh Ghosh,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5137520613
+Prateek Kumar,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5073542823
+Vishal Sharma,IIT Mandi,Civil and Environmental Engineering,0.0,0.0,-1,A5019712588
+Mayur Shirish Jain,IIT Indore,Civil Engineering,0.0,0.0,-1,A5072665532
+Soumi Chattopadhyay,IIT Indore,Computer Science and Engineering,0.0,0.0,-1,A5071701537
+Kaustav Bakshi,IIT Indore,Civil Engineering,0.0,0.0,-1,A5034924052
+Naresh Kumar,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5051568628
+Akshaya Kumar,IIT Indore,Humanities and Social Sciences,0.0,0.0,-1,A5067531985
+Ramu Baadiga,IIT Indore,Civil Engineering,0.0,0.0,-1,A5086359652
+Ganti S. Murthy,IIT Indore,Biosciences and Biomedical Engineering,0.0,0.0,-1,A5052542939
+Sk. Safique Ahmad,IIT Indore,Mathematics,0.0,0.0,-1,A5017338530
+M. Tayyib Malik,IIT Mandi,Mechanical and Materials Engineering,0.0,0.0,-1,A5100875120
+Nitu Kumari,IIT Mandi,Mathematical and Statistical Sciences,0.0,0.0,-1,A5134043735
+Nitu Kumari,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5101527914
+Ankur Kumar,IIT Mandi,Basic Sciences,0.0,0.0,-1,A5100560275
+Pavan Shahapurkar,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5073060695
+Gourab Giri,IIT Indore,"Astronomy, Astrophysics and Space Engineering",0.0,0.0,-1,A5081484260
+Thapasya Jayaraj,IIT Indore,Humanities and Social Sciences,0.0,0.0,-1,A5003856400
+Rakesh Sharma,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5033204796
+Deepak Gupta,IIT Indore,Physics,0.0,0.0,-1,A5069696979
+Akash Kumar Sharma,IIT Indore,Mechanical Engineering,0.0,0.0,-1,A5058174209
+Rajendra K. Ray,IIT Mandi,Physical Sciences,0.0,0.0,-1,A5122320392
+KUNAL GHOSH,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5123117427
+Amit Kumar Sharma,IIT Mandi,Chemical Sciences,0.0,0.0,-1,A5089175953
+Aditya Nigam,IIT Mandi,Computing and Electrical Engineering,0.0,0.0,-1,A5152718596

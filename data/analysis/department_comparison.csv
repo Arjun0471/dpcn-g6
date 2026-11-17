@@ -1,0 +1,39 @@
+institution,department,faculty,papers,q1_share,citations,median_papers_per_faculty,median_h_2016_2026
+IIT Bhubaneswar,Electrical and Computer Sciences,37,993,0.62,16585,25.0,8.0
+IIT Bhubaneswar,Basic Sciences,64,991,0.516,15714,13.5,8.0
+IIT Bhubaneswar,Infrastructure,44,638,0.595,15002,11.0,8.0
+IIT Bhubaneswar,Mechanical Sciences,34,573,0.545,12695,13.5,7.5
+IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",38,425,0.575,7781,11.5,8.0
+IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",22,316,0.548,4637,13.0,7.5
+IIT Bhubaneswar,Unknown,3,115,0.956,4148,18.0,10.0
+IIT Bhubaneswar,"Humanities, Social Sciences and Management",6,92,0.506,1444,14.5,8.0
+IIT Bhubaneswar,Excellence of Biosciences and Engineering & Technology,1,19,0.421,403,19.0,10.0
+IIT Indore,Electrical Engineering,125,1787,0.564,32858,14.0,7.0
+IIT Indore,Chemistry,159,1333,0.603,33247,10.0,7.0
+IIT Indore,Physics,94,1237,0.631,22421,15.0,9.0
+IIT Indore,Mechanical Engineering,108,1126,0.529,20587,9.0,6.0
+IIT Indore,Metallurgy Engineering and Materials Science,105,953,0.617,22844,13.0,8.0
+IIT Indore,Biosciences and Biomedical Engineering,93,803,0.552,19838,11.0,7.0
+IIT Indore,Computer Science and Engineering,48,659,0.605,9245,10.5,6.0
+IIT Indore,Civil Engineering,51,601,0.679,16435,11.0,6.0
+IIT Indore,"Astronomy, Astrophysics and Space Engineering",27,358,0.634,4551,10.0,5.0
+IIT Indore,Mathematics,20,316,0.74,10700,11.5,7.0
+IIT Indore,Unknown,7,198,0.595,3037,7.0,4.0
+IIT Indore,Humanities and Social Sciences,15,168,0.38,3376,6.0,6.0
+IIT Indore,Centre for Advanced Electronics,2,30,0.818,458,15.0,9.0
+IIT Indore,Atomic Energy,1,17,0.8,489,17.0,11.0
+IIT Indore,Informatics,1,8,1.0,115,8.0,8.0
+IIT Indore,Engineering,1,5,1.0,134,5.0,5.0
+IIT Indore,Botany,1,4,0.75,81,4.0,4.0
+IIT Mandi,Mechanical and Materials Engineering,169,2365,0.586,54848,12.0,8.0
+IIT Mandi,Computing and Electrical Engineering,71,1221,0.596,14249,16.0,7.0
+IIT Mandi,Chemical Sciences,53,480,0.631,12145,12.0,7.0
+IIT Mandi,Civil and Environmental Engineering,32,466,0.666,5464,9.0,6.0
+IIT Mandi,Physical Sciences,20,288,0.703,3399,11.0,6.0
+IIT Mandi,Biosciences and Bioengineering,30,282,0.559,4962,10.5,6.5
+IIT Mandi,Mathematical and Statistical Sciences,8,248,0.392,3185,9.0,6.0
+IIT Mandi,Humanities and Social Sciences,6,239,0.568,2045,13.0,7.5
+IIT Mandi,Basic Sciences,5,114,0.528,2721,28.0,13.0
+IIT Mandi,Engineering,4,36,0.486,1530,10.0,9.0
+IIT Mandi,Unknown,6,34,0.769,541,5.5,4.0
+IIT Mandi,Management,1,10,0.444,119,10.0,7.0

@@ -1,0 +1,61 @@
+institution,ownership,openalex_type,citing_papers,citations_to_group6,own_output_2016_2026,citing_papers_per_1000_own_papers,rate_2018_19,rate_2024_25,own_output_growth,citing_growth,group6_refs_per_citing_paper,share_by_former_group6_authors,share_author_self_citation,share_from_top10_citing_authors
+Vellore Institute of Technology University,Private,education,1927,2560,64369,29.9,10.2,41.9,2.5,10.4,1.33,0.046,0.125,0.156
+Indian Institute of Technology Roorkee,Government / public,education,1501,2284,32984,45.5,21.7,66.7,1.7,5.3,1.52,0.11,0.235,0.173
+SRM Institute of Science and Technology,Private,education,1499,2078,55152,27.2,9.0,31.4,5.1,17.9,1.39,0.071,0.125,0.198
+Indian Institute of Technology Delhi,Government / public,education,1379,2077,42220,32.7,13.5,52.2,1.5,5.9,1.51,0.184,0.271,0.146
+Academy of Scientific and Innovative Research,Government / public,education,1402,1937,35140,39.9,16.7,54.7,2.6,8.6,1.38,0.088,0.229,0.146
+Indian Institute of Technology Kharagpur,Government / public,education,1353,1843,41610,32.5,14.8,50.1,1.4,4.8,1.36,0.131,0.24,0.129
+Saveetha University,Private,education,1476,1706,66404,22.2,2.7,25.4,21.6,206.5,1.16,0.022,0.077,0.129
+Indian Institute of Technology Bombay,Government / public,education,1156,1670,40254,28.7,13.5,45.9,1.3,4.5,1.44,0.216,0.302,0.141
+Indian Institute of Technology Madras,Government / public,education,1091,1608,41419,26.3,10.7,42.6,1.3,5.3,1.47,0.146,0.303,0.185
+National Institute of Technology Rourkela,Government / public,education,964,1483,17797,54.2,32.8,81.1,1.4,3.4,1.54,0.115,0.279,0.158
+Indian Institute of Science Bangalore,Government / public,education,952,1347,41837,22.8,8.5,39.1,1.3,5.8,1.41,0.16,0.292,0.147
+Indian Institute of Technology Guwahati,Government / public,education,949,1318,25937,36.6,11.4,55.5,1.5,7.0,1.39,0.111,0.254,0.162
+Banaras Hindu University,Government / public,education,984,1289,38989,25.2,8.5,35.8,1.9,8.2,1.31,0.108,0.245,0.155
+Homi Bhabha National Institute,Government / public,education,860,1263,25914,33.2,21.9,44.2,2.2,4.5,1.47,0.259,0.436,0.244
+Chandigarh University,Private,education,879,1246,32615,27.0,2.7,29.3,18.2,199.0,1.42,0.119,0.132,0.188
+University of Delhi,Government / public,education,947,1235,49719,19.0,8.0,28.8,1.9,6.7,1.3,0.071,0.204,0.155
+Indian Institute of Technology Kanpur,Government / public,education,822,1183,27451,29.9,14.8,44.9,1.4,4.3,1.44,0.208,0.382,0.168
+Indian Institute of Technology Dhanbad,Government / public,education,689,1065,18080,38.1,14.9,73.0,1.0,5.0,1.55,0.116,0.224,0.186
+Jadavpur University,Government / public,education,765,1064,25459,30.0,11.8,54.9,1.2,5.6,1.39,0.068,0.157,0.203
+Indian Institute of Technology BHU,Government / public,education,782,1034,17922,43.6,13.8,66.1,1.8,8.4,1.32,0.137,0.253,0.177
+Lovely Professional University,Private,education,861,1023,36629,23.5,7.8,26.9,7.4,25.5,1.19,0.065,0.172,0.184
+Indian Institute of Technology Jodhpur,Government / public,education,493,1018,7910,62.3,18.9,74.3,4.1,16.2,2.06,0.371,0.533,0.437
+Manipal Academy of Higher Education,Private,education,753,998,43636,17.3,3.7,27.8,2.8,20.6,1.33,0.084,0.178,0.161
+Council of Scientific and Industrial Research,Government / public,government,763,977,29416,25.9,10.8,46.6,1.1,4.8,1.28,0.105,0.214,0.174
+Siksha O Anusandhan University,Private,education,661,960,18902,35.0,27.5,39.3,3.9,5.6,1.45,0.231,0.212,0.212
+"Birla Institute of Technology and Science, Pilani",Private,education,674,928,21302,31.6,14.1,46.2,2.4,7.9,1.38,0.082,0.212,0.165
+Chitkara University,Private,education,776,916,26531,29.2,10.0,33.6,27.6,92.4,1.18,0.057,0.097,0.187
+Amrita Vishwa Vidyapeetham,Private,education,721,903,36520,19.7,10.0,28.7,2.8,8.1,1.25,0.04,0.1,0.172
+Malaviya National Institute of Technology Jaipur,Government / public,education,596,898,11411,52.2,23.3,75.5,1.7,5.4,1.51,0.144,0.263,0.193
+Aligarh Muslim University,Government / public,education,573,887,25774,22.2,14.5,29.5,1.5,3.1,1.55,0.208,0.284,0.302
+Ministry of Earth Sciences,Government / public,government,468,797,4701,99.6,27.8,135.4,4.6,22.4,1.7,0.122,0.231,0.215
+KIIT University,Private,education,539,793,19759,27.3,14.9,28.8,2.9,5.5,1.47,0.269,0.349,0.213
+Thapar Institute of Engineering & Technology,Private,education,517,790,14180,36.5,9.0,56.2,1.3,8.1,1.53,0.145,0.232,0.215
+Maulana Azad National Institute of Technology,Government / public,education,430,779,8161,52.7,13.0,75.4,2.3,13.2,1.81,0.147,0.267,0.275
+Graphic Era University,Private,education,619,777,20200,30.6,4.2,37.0,19.5,170.0,1.26,0.095,0.124,0.244
+National Institute of Technology Warangal,Government / public,education,508,768,11625,43.7,12.2,70.6,2.1,11.9,1.51,0.112,0.142,0.223
+Indian Institute of Technology Patna,Government / public,education,507,754,9217,55.0,20.7,83.7,2.1,8.3,1.49,0.225,0.292,0.244
+National Institute Of Technology Silchar,Government / public,education,473,745,10547,44.8,12.0,70.3,1.9,10.9,1.58,0.114,0.18,0.238
+Jawaharlal Nehru University,Government / public,education,465,741,18854,24.7,12.5,37.1,1.3,3.9,1.59,0.097,0.282,0.347
+National Institute of Technology Tiruchirappalli,Government / public,education,499,727,13215,37.8,19.7,61.2,1.3,3.9,1.46,0.068,0.11,0.235
+Panjab University,Government / public,education,559,708,19990,28.0,23.1,40.1,1.3,2.3,1.27,0.249,0.313,0.273
+Bhabha Atomic Research Centre,Government / public,facility,525,698,20946,25.1,10.4,45.3,1.0,4.3,1.33,0.215,0.322,0.199
+Indian Institute of Technology Hyderabad,Government / public,education,534,698,14399,37.1,14.4,53.2,2.0,7.4,1.31,0.129,0.232,0.184
+Jain University,Private,education,561,697,19313,29.0,23.6,30.3,9.9,12.7,1.24,0.194,0.207,0.309
+Delhi Technological University,Government / public,education,481,696,15711,30.6,12.4,46.4,2.2,8.1,1.45,0.04,0.071,0.187
+Koneru Lakshmaiah Education Foundation,Private,education,538,689,23654,22.7,9.8,30.3,4.6,14.2,1.28,0.095,0.147,0.216
+Amity University,Private,education,566,661,40746,13.9,4.2,17.4,2.8,11.7,1.17,0.069,0.154,0.144
+Savitribai Phule Pune University,Government / public,education,499,651,25095,19.9,8.8,29.8,2.0,6.9,1.3,0.056,0.178,0.16
+University of Petroleum and Energy Studies,Private,education,505,627,15161,33.3,7.7,42.9,4.2,23.6,1.24,0.154,0.162,0.216
+"Anna University, Chennai",Government / public,education,526,627,25086,21.0,7.4,39.6,1.2,6.6,1.19,0.023,0.072,0.182
+Indian Institute of Technology Ropar,Government / public,education,380,622,7950,47.8,30.1,72.0,2.5,5.9,1.64,0.166,0.305,0.256
+National Institute of Technology Karnataka,Government / public,education,466,619,12114,38.5,13.5,67.2,1.2,6.2,1.33,0.082,0.135,0.201
+National Institute of Technology Raipur,Government / public,education,412,596,8936,46.1,25.2,62.4,1.9,4.8,1.45,0.092,0.1,0.214
+National Institute of Technology Patna,Government / public,education,390,591,7834,49.8,21.7,71.6,2.9,9.5,1.52,0.085,0.146,0.262
+GLA University,Private,education,455,582,14787,30.8,5.6,31.7,10.4,58.7,1.28,0.075,0.13,0.266
+Dr. B. R. Ambedkar National Institute of Technology Jalandhar,Government / public,education,393,548,8874,44.3,12.6,72.2,2.1,11.8,1.39,0.155,0.183,0.19
+Jamia Millia Islamia,Government / public,education,392,533,17788,22.0,8.2,35.2,1.6,6.8,1.36,0.033,0.173,0.244
+University of Calcutta,Government / public,education,378,518,19684,19.2,9.6,29.0,1.3,4.0,1.37,0.058,0.169,0.184
+Sardar Vallabhbhai National Institute of Technology Surat,Government / public,education,351,496,9164,38.3,12.7,60.1,1.8,8.4,1.41,0.091,0.148,0.221
+National Institute of Technology Calicut,Government / public,education,359,489,9397,38.2,12.8,72.2,1.8,9.9,1.36,0.103,0.17,0.218

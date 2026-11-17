@@ -1,0 +1,39 @@
+institution,department,faculty,papers,citations,q1_fraction,median_h_index,top_journal
+IIT Bhubaneswar,Electrical and Computer Sciences,39,993,16585,0.6204,14.0,IEEE Communications Letters
+IIT Bhubaneswar,Basic Sciences,73,988,15712,0.5162,12.0,Physical review. D/Physical review. D.
+IIT Bhubaneswar,Infrastructure,49,631,14608,0.595,13.0,Journal of Hazardous Toxic and Radioactive Waste
+IIT Bhubaneswar,Mechanical Sciences,37,573,12695,0.5449,13.0,Physics of Fluids
+IIT Bhubaneswar,"Earth, Ocean and Climate Sciences",44,425,7781,0.5749,11.0,Pure and Applied Geophysics
+IIT Bhubaneswar,"Minerals, Metallurgical and Materials Engineering",25,316,4637,0.5475,11.0,Transactions of the Indian Institute of Metals
+IIT Bhubaneswar,Unknown,6,117,4148,0.9556,13.0,Physical review. D/Physical review. D.
+IIT Bhubaneswar,"Humanities, Social Sciences and Management",7,92,1444,0.5056,8.0,Environmental Science and Pollution Research
+IIT Bhubaneswar,Excellence of Biosciences and Engineering & Technology,1,19,403,0.4211,13.0,Probiotics and Antimicrobial Proteins
+IIT Indore,Electrical Engineering,159,1787,32858,0.5637,10.0,IEEE Sensors Journal
+IIT Indore,Chemistry,176,1333,33247,0.6032,10.0,The Journal of Physical Chemistry C
+IIT Indore,Physics,135,1249,22456,0.6303,11.0,Journal of High Energy Physics
+IIT Indore,Mechanical Engineering,122,1126,20587,0.5294,9.0,Materials Today Proceedings
+IIT Indore,Metallurgy Engineering and Materials Science,121,953,22844,0.617,11.0,Journal of Alloys and Compounds
+IIT Indore,Biosciences and Biomedical Engineering,113,803,19838,0.5523,9.0,Journal of Biomolecular Structure and Dynamics
+IIT Indore,Computer Science and Engineering,63,659,9245,0.6045,8.0,IEEE Access
+IIT Indore,Civil Engineering,63,601,16435,0.6791,9.0,Scientific Reports
+IIT Indore,"Astronomy, Astrophysics and Space Engineering",35,358,4551,0.6336,6.0,Monthly Notices of the Royal Astronomical Society
+IIT Indore,Mathematics,26,316,10700,0.7404,8.0,Neural Networks
+IIT Indore,Humanities and Social Sciences,19,181,3466,0.3807,7.0,Journal of Public Affairs
+IIT Indore,Unknown,9,75,1730,0.5556,4.0,Journal of High Energy Physics
+IIT Indore,Centre for Advanced Electronics,2,30,458,0.8182,11.5,IEEE Sensors Journal
+IIT Indore,Atomic Energy,1,17,489,0.8,16.0,Journal of Physics D Applied Physics
+IIT Indore,Informatics,1,8,115,1.0,9.0,IEEE Transactions on Emerging Topics in Computational Intelligence
+IIT Indore,Engineering,1,5,134,1.0,6.0,Applied Acoustics
+IIT Indore,Botany,1,4,81,0.75,9.0,Environmental Sciences Europe
+IIT Mandi,Mechanical and Materials Engineering,225,2324,53810,0.587,11.0,Physical review. B./Physical review. B
+IIT Mandi,Computing and Electrical Engineering,92,1220,14264,0.5884,9.5,IEEE Transactions on Electron Devices
+IIT Mandi,Civil and Environmental Engineering,51,475,5606,0.6639,7.0,Structures
+IIT Mandi,Chemical Sciences,65,450,11888,0.6689,11.0,Dalton Transactions
+IIT Mandi,Physical Sciences,40,366,4166,0.6108,8.0,Physical review. B./Physical review. B
+IIT Mandi,Biosciences and Bioengineering,36,280,5007,0.5556,8.5,Journal of Biomolecular Structure and Dynamics
+IIT Mandi,Mathematical and Statistical Sciences,13,252,3192,0.3934,7.0,Mathematical Methods in the Applied Sciences
+IIT Mandi,Humanities and Social Sciences,8,241,2045,0.5682,9.5,Scientific Reports
+IIT Mandi,Unknown,7,33,541,0.7778,6.0,IEEE Transactions on Instrumentation and Measurement
+IIT Mandi,Basic Sciences,11,31,956,0.6429,4.0,PLANT PHYSIOLOGY
+IIT Mandi,Engineering,4,24,996,0.5652,14.5,Fuel
+IIT Mandi,Management,1,10,119,0.4444,25.0,Computer Networks

@@ -1,0 +1,1436 @@
+your_inst,partner_inst,shared_papers,total_citations,partner_cluster,cross_cluster,citations_received_from_partner,citations_given_to_partner,topic_jaccard,partner_openalex_id
+IIT Bhubaneswar,Indian Institute of Technology Madras,213,5012,IIT,,603,1409,0.579,I24676775
+IIT Bhubaneswar,Indian Institute of Technology Roorkee,154,6771,IIT,,1236,1659,0.622,I154851008
+IIT Bhubaneswar,Tata Institute of Fundamental Research,153,3952,DAE,IIT <-> DAE,237,884,0.429,I11947397
+IIT Bhubaneswar,Indian Institute of Technology Guwahati,140,3828,IIT,,439,717,0.579,I1317621060
+IIT Bhubaneswar,KIIT University,116,1658,Other University,IIT <-> Other University,583,449,0.395,I67357951
+IIT Bhubaneswar,Indian Institute of Technology Hyderabad,99,2108,IIT,,257,221,0.579,I65181880
+IIT Bhubaneswar,National Institute of Technology Rourkela,94,1933,NIT,IIT <-> NIT,719,735,0.538,I16292982
+IIT Bhubaneswar,Indian Institute of Technology Delhi,93,2526,IIT,,666,1679,0.579,I68891433
+IIT Bhubaneswar,Indian Institute of Technology Kharagpur,89,1825,IIT,,663,1893,0.622,I145894827
+IIT Bhubaneswar,Panjab University,87,1785,Other University,IIT <-> Other University,213,454,0.304,I51452335
+IIT Bhubaneswar,Indian Institute of Science Education and Research Mohali,74,2028,IISER,IIT <-> IISER,144,100,0.333,I165916956
+IIT Bhubaneswar,Institute of Minerals and Materials Technology,70,1257,Other,IIT <-> Other,210,446,0.429,I4210107015
+IIT Bhubaneswar,Punjab Agricultural University,69,1952,Other University,IIT <-> Other University,100,106,0.25,I899646
+IIT Bhubaneswar,Malaviya National Institute of Technology Jaipur,66,539,NIT,IIT <-> NIT,242,191,0.463,I83205935
+IIT Bhubaneswar,Siksha O Anusandhan University,60,683,Other University,IIT <-> Other University,534,359,0.304,I193073490
+IIT Bhubaneswar,Council of Scientific and Industrial Research,59,1050,CSIR,IIT <-> CSIR,347,996,0.429,I66760702
+IIT Bhubaneswar,Bhabha Atomic Research Centre,45,1627,DAE,IIT <-> DAE,232,409,0.364,I1329621470
+IIT Bhubaneswar,India Meteorological Department,45,880,Other,IIT <-> Other,532,779,0.277,I2802599571
+IIT Bhubaneswar,Homi Bhabha National Institute,44,1051,DAE,IIT <-> DAE,332,267,0.333,I200207707
+IIT Bhubaneswar,National Institute of Science Education and Research,42,773,DAE,IIT <-> DAE,108,130,0.333,I163389970
+IIT Bhubaneswar,Indian Institute of Technology Jodhpur,42,1103,IIT,,640,181,0.667,I154549908
+IIT Bhubaneswar,Indian Institute of Science Bangalore,40,571,IISc,IIT <-> IISc,338,1517,0.622,I59270414
+IIT Bhubaneswar,Indian Institute of Technology Kanpur,39,1058,IIT,,311,847,0.579,I94234084
+IIT Bhubaneswar,Academy of Scientific and Innovative Research,39,923,Other,IIT <-> Other,482,566,0.364,I99364266
+IIT Bhubaneswar,Indian Institute of Technology Dhanbad,36,874,IIT,,367,289,0.579,I189109744
+IIT Bhubaneswar,Centurion University of Technology and Management,35,568,Other University,IIT <-> Other University,243,151,0.364,I47639616
+IIT Bhubaneswar,Indian Institute of Technology Bombay,34,457,IIT,,440,1056,0.622,I162827531
+IIT Bhubaneswar,SRM Institute of Science and Technology,31,1048,Other,IIT <-> Other,807,223,0.395,I145286018
+IIT Bhubaneswar,Vellore Institute of Technology University,27,455,Other University,IIT <-> Other University,630,368,0.5,I876193797
+IIT Bhubaneswar,Jain University,26,1097,Other University,IIT <-> Other University,247,123,0.364,I106826634
+IIT Bhubaneswar,"Institute of Physics, Bhubaneshwar",25,443,Other,IIT <-> Other,27,135,0.364,I40912709
+IIT Bhubaneswar,University of Hyderabad,22,320,Central University,IIT <-> Central University,181,230,0.395,I36893310
+IIT Bhubaneswar,National Institute of Technology Durgapur,22,440,NIT,IIT <-> NIT,142,153,0.579,I155837530
+IIT Bhubaneswar,Veer Surendra Sai University of Technology,22,310,Other University,IIT <-> Other University,111,249,0.463,I185065464
+IIT Bhubaneswar,Indian Institute of Tropical Meteorology,21,204,Other,IIT <-> Other,402,1033,0.25,I1333651918
+IIT Bhubaneswar,Banaras Hindu University,20,299,Central University,IIT <-> Central University,326,434,0.364,I91357014
+IIT Bhubaneswar,Institute of Life Sciences,20,322,Other,IIT <-> Other,51,59,0.111,I4210118921
+IIT Bhubaneswar,Indian Space Research Organisation,19,339,ISRO/DRDO,IIT <-> ISRO/DRDO,206,347,0.463,I1289461252
+IIT Bhubaneswar,CSIR National Physical Laboratory of India,19,487,CSIR,IIT <-> CSIR,136,288,0.429,I88910343
+IIT Bhubaneswar,National Institute of Technology Agartala,19,339,NIT,IIT <-> NIT,166,94,0.463,I196486160
+IIT Bhubaneswar,Ministry of Earth Sciences,19,271,Other,IIT <-> Other,573,520,0.277,I4210100914
+IIT Bhubaneswar,Indian Institute of Technology Indore,18,464,IIT,,270,220,0.622,I64295750
+IIT Bhubaneswar,Utkal University,18,202,Other University,IIT <-> Other University,56,159,0.364,I70699430
+IIT Bhubaneswar,Chandigarh University,17,181,Other University,IIT <-> Other University,280,80,0.333,I101407740
+IIT Bhubaneswar,SR University,17,20,Other University,IIT <-> Other University,111,29,0.277,I4405263155
+IIT Bhubaneswar,Indian Institute of Information Technology Design and Manufacturing Jabalpur,16,409,IIIT,IIT <-> IIIT,46,59,0.395,I207223250
+IIT Bhubaneswar,National Institute of Technology Warangal,15,279,NIT,IIT <-> NIT,242,98,0.579,I121750182
+IIT Bhubaneswar,"Birla Institute of Technology, Mesra",15,179,Other,IIT <-> Other,111,85,0.5,I115715567
+IIT Bhubaneswar,Maulana Azad National Institute of Technology,15,253,NIT,IIT <-> NIT,174,81,0.429,I91277730
+IIT Bhubaneswar,National Centre for Medium Range Weather Forecasting,15,409,Other,IIT <-> Other,278,399,0.341,I1329084839
+IIT Bhubaneswar,"Birla Institute of Technology and Science, Pilani",15,132,Other,IIT <-> Other,187,200,0.579,I74796645
+IIT Bhubaneswar,National Institute of Technology Calicut,14,206,NIT,IIT <-> NIT,155,98,0.5,I114845381
+IIT Bhubaneswar,Koneru Lakshmaiah Education Foundation,13,426,Other,IIT <-> Other,290,65,0.395,I875944469
+IIT Bhubaneswar,Indian Institute of Technology Tirupati,13,195,IIT,,102,60,0.5,I4210109292
+IIT Bhubaneswar,National Institute of Technology Karnataka,11,223,NIT,IIT <-> NIT,177,158,0.463,I11880225
+IIT Bhubaneswar,Defence Research and Development Organisation,11,158,ISRO/DRDO,IIT <-> ISRO/DRDO,43,100,0.429,I1340206300
+IIT Bhubaneswar,Aligarh Muslim University,11,337,Central University,IIT <-> Central University,129,152,0.395,I171210897
+IIT Bhubaneswar,Indian Institute of Technology BHU,11,109,IIT,,220,212,0.538,I56404289
+IIT Bhubaneswar,Sharda University,11,129,Other University,IIT <-> Other University,142,87,0.333,I74885063
+IIT Bhubaneswar,Centre for Development of Advanced Computing,11,72,Other,IIT <-> Other,145,61,0.304,I1331500379
+IIT Bhubaneswar,Indian National Centre for Ocean Information Services,11,113,Other,IIT <-> Other,144,308,0.277,I1333738725
+IIT Bhubaneswar,Jawaharlal Nehru University,10,568,Central University,IIT <-> Central University,240,315,0.429,I152429107
+IIT Bhubaneswar,National Remote Sensing Centre,10,154,Other,IIT <-> Other,78,157,0.277,I1311524620
+IIT Bhubaneswar,Ravenshaw University,10,93,Other University,IIT <-> Other University,49,62,0.277,I6013171
+IIT Bhubaneswar,Biju Patnaik University of Technology,10,114,Other University,IIT <-> Other University,60,27,0.395,I4028839
+IIT Bhubaneswar,"Indian Institute of Science Education and Research, Bhopal",10,121,IISER,IIT <-> IISER,110,90,0.395,I288749910
+IIT Bhubaneswar,Indian Institute of Technology Gandhinagar,10,119,IIT,,86,116,0.579,I27674431
+IIT Bhubaneswar,Parala Maharaja Engineering College,9,162,Other,IIT <-> Other,52,18,0.364,I4405275678
+IIT Bhubaneswar,Sambalpur University,9,189,Other University,IIT <-> Other University,36,92,0.395,I112754052
+IIT Bhubaneswar,National Centre for Polar and Ocean Research,9,184,Other,IIT <-> Other,76,144,0.2,I106814784
+IIT Bhubaneswar,National Institute of Technology Raipur,9,171,NIT,IIT <-> NIT,210,94,0.463,I38335241
+IIT Bhubaneswar,Saha Institute of Nuclear Physics,9,109,DAE,IIT <-> DAE,50,115,0.364,I16019930
+IIT Bhubaneswar,Indian Institute of Technology Patna,9,5,IIT,,158,56,0.579,I132153292
+IIT Bhubaneswar,National Chemical Laboratory,8,482,Other,IIT <-> Other,22,173,0.224,I3125981224
+IIT Bhubaneswar,Indian Institute of Technology Jammu,8,134,IIT,,83,52,0.579,I4210127441
+IIT Bhubaneswar,"Vignan's Foundation for Science, Technology & Research",8,125,Other,IIT <-> Other,37,35,0.364,I149313025
+IIT Bhubaneswar,"SRM University, Andhra Pradesh",8,43,Other University,IIT <-> Other University,112,28,0.622,I4210100463
+IIT Bhubaneswar,Wadia Institute of Himalayan Geology,8,194,Other,IIT <-> Other,83,128,0.277,I1337471766
+IIT Bhubaneswar,National Institute of Ocean Technology,8,152,Other,IIT <-> Other,60,106,0.395,I25592554
+IIT Bhubaneswar,Bharat Electronics (India),8,137,Other,IIT <-> Other,87,33,0.25,I114602248
+IIT Bhubaneswar,Mahindra University,8,101,Other University,IIT <-> Other University,55,74,0.5,I4210164565
+IIT Bhubaneswar,University of Allahabad,8,53,Other University,IIT <-> Other University,161,73,0.463,I168893459
+IIT Bhubaneswar,National Metallurgical Laboratory,8,55,Other,IIT <-> Other,70,95,0.364,I4210111921
+IIT Bhubaneswar,Jadavpur University,8,25,Central University,IIT <-> Central University,284,313,0.463,I170979836
+IIT Bhubaneswar,National Institute Of Technology Silchar,8,43,Other,IIT <-> Other,179,91,0.463,I151903974
+IIT Bhubaneswar,Thapar Institute of Engineering & Technology,7,275,Other,IIT <-> Other,185,126,0.538,I162030827
+IIT Bhubaneswar,Akal University,7,225,Other University,IIT <-> Other University,14,11,0.333,I3132890203
+IIT Bhubaneswar,"Indian Institute of Engineering Science and Technology, Shibpur",7,79,Other,IIT <-> Other,67,112,0.622,I98365261
+IIT Bhubaneswar,Rajiv Gandhi Institute of Petroleum Technology,7,84,Other,IIT <-> Other,41,29,0.395,I98210582
+IIT Bhubaneswar,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,7,107,NIT,IIT <-> NIT,166,142,0.463,I70971781
+IIT Bhubaneswar,ABB (India),7,130,Other,IIT <-> Other,7,22,0.333,I4210141791
+IIT Bhubaneswar,International Institute of Information Technology,7,94,Other,IIT <-> Other,41,24,0.25,I4210097016
+IIT Bhubaneswar,University of Calcutta,7,58,Other University,IIT <-> Other University,148,172,0.463,I106542073
+IIT Bhubaneswar,National Centre for Cell Science,7,54,Other,IIT <-> Other,13,29,0.111,I4210104670
+IIT Bhubaneswar,"Jawaharlal Nehru Technological University, Hyderabad",7,25,Other University,IIT <-> Other University,24,40,0.429,I10874241
+IIT Bhubaneswar,All India Institute of Medical Sciences Bhubaneswar,7,12,Medical,IIT <-> Medical,15,4,0.017,I4210117092
+IIT Bhubaneswar,Amity University,6,266,Other University,IIT <-> Other University,135,94,0.333,I191972202
+IIT Bhubaneswar,University of Delhi,6,248,Central University,IIT <-> Central University,220,280,0.364,I110166357
+IIT Bhubaneswar,"Anna University, Chennai",6,122,Other University,IIT <-> Other University,190,291,0.429,I33585257
+IIT Bhubaneswar,Indira Gandhi Centre for Atomic Research,6,104,DAE,IIT <-> DAE,136,416,0.364,I2802630050
+IIT Bhubaneswar,International Advanced Research Centre for Powder Metallurgy and New Materials,6,30,Other,IIT <-> Other,27,31,0.333,I4210103291
+IIT Bhubaneswar,Space Applications Centre,6,115,ISRO/DRDO,IIT <-> ISRO/DRDO,96,215,0.429,I4405268392
+IIT Bhubaneswar,Savitribai Phule Pune University,6,136,Other University,IIT <-> Other University,196,243,0.463,I878213199
+IIT Bhubaneswar,West Bengal University of Animal and Fishery Sciences,6,33,Other University,IIT <-> Other University,5,29,0.071,I75444546
+IIT Bhubaneswar,Inter-University Accelerator Centre,6,26,Other University,IIT <-> Other University,67,72,0.333,I4210089002
+IIT Bhubaneswar,GITAM University,6,26,Other University,IIT <-> Other University,74,35,0.395,I885392262
+IIT Bhubaneswar,University of Kashmir,5,180,Other University,IIT <-> Other University,100,58,0.333,I135388327
+IIT Bhubaneswar,Vikram Sarabhai Space Centre,5,142,ISRO/DRDO,IIT <-> ISRO/DRDO,49,187,0.5,I71374576
+IIT Bhubaneswar,Andhra University,5,195,Other University,IIT <-> Other University,121,290,0.538,I100887729
+IIT Bhubaneswar,Government of Tamil Nadu,5,105,Other,IIT <-> Other,50,36,0.333,I148776243
+IIT Bhubaneswar,Birla Institute of Technology and Science - Hyderabad Campus,5,38,Other,IIT <-> Other,82,68,0.5,I4210101034
+IIT Bhubaneswar,National Council of Applied Economic Research,5,42,Other,IIT <-> Other,4,8,0.111,I4210127254
+IIT Bhubaneswar,Adamas University,5,118,Other University,IIT <-> Other University,25,13,0.304,I3130244785
+IIT Bhubaneswar,Amrita Vishwa Vidyapeetham,5,81,Other,IIT <-> Other,230,113,0.304,I81556334
+IIT Bhubaneswar,Indian Institute of Technology Palakkad,5,90,IIT,,230,15,0.579,I4210113248
+IIT Bhubaneswar,Guru Ghasidas Vishwavidyalaya,5,196,Other University,IIT <-> Other University,53,26,0.429,I26285277
+IIT Bhubaneswar,Brainware University,5,25,Other University,IIT <-> Other University,26,3,0.25,I4405266301
+IIT Bhubaneswar,Saveetha University,5,42,Other University,IIT <-> Other University,391,93,0.304,I85461943
+IIT Bhubaneswar,Shri Jagdishprasad Jhabarmal Tibrewala University,5,17,Other University,IIT <-> Other University,3,4,0.304,I341451707
+IIT Bhubaneswar,Raiganj University,5,6,Other University,IIT <-> Other University,50,10,0.277,I275778967
+IIT Bhubaneswar,Shiv Nadar University,4,260,Other University,IIT <-> Other University,60,66,0.538,I26604189
+IIT Bhubaneswar,Dehradun Institute of Technology University,4,438,Other University,IIT <-> Other University,75,38,0.463,I933318745
+IIT Bhubaneswar,Pandit Deendayal Energy University,4,125,Other University,IIT <-> Other University,97,80,0.429,I33586908
+IIT Bhubaneswar,Tata Consultancy Services (India),4,86,Other,IIT <-> Other,29,28,0.277,I55215948
+IIT Bhubaneswar,XIM University,4,71,Other University,IIT <-> Other University,15,11,0.071,I4210137468
+IIT Bhubaneswar,Manipal Academy of Higher Education,4,85,Other,IIT <-> Other,162,88,0.224,I164861460
+IIT Bhubaneswar,SRM University,4,71,Other University,IIT <-> Other University,68,54,0.5,I4210131147
+IIT Bhubaneswar,Maharaja Sriram Chandra Bhanja Deo University,4,58,Other University,IIT <-> Other University,29,7,0.364,I58782413
+IIT Bhubaneswar,Indo Korea Science and Technology,4,55,Other,IIT <-> Other,7,2,0.237,I4210152052
+IIT Bhubaneswar,Government of India,4,80,Other,IIT <-> Other,97,133,0.277,I2799351866
+IIT Bhubaneswar,Jawaharlal Nehru Centre for Advanced Scientific Research,4,49,Premier Science,IIT <-> Premier Science,27,101,0.2,I147481903
+IIT Bhubaneswar,Central Electrochemical Research Institute,4,78,Other,IIT <-> Other,19,58,0.304,I106349282
+IIT Bhubaneswar,Central Glass and Ceramic Research Institute,4,48,Other,IIT <-> Other,29,51,0.277,I1309307044
+IIT Bhubaneswar,UGC DAE Consortium for Scientific Research,4,43,Other,IIT <-> Other,22,48,0.364,I4210132317
+IIT Bhubaneswar,Visvesvaraya National Institute of Technology,4,39,NIT,IIT <-> NIT,89,113,0.429,I167153416
+IIT Bhubaneswar,Harish-Chandra Research Institute,4,33,DAE,IIT <-> DAE,14,45,0.304,I35409948
+IIT Bhubaneswar,National Institute of Technology Tiruchirappalli,4,22,NIT,IIT <-> NIT,269,232,0.429,I122964287
+IIT Bhubaneswar,Indian Institute of Science Education and Research Pune,4,37,IISER,IIT <-> IISER,33,81,0.364,I181996519
+IIT Bhubaneswar,Regional Centre for Biotechnology,4,30,Other,IIT <-> Other,9,11,0.111,I4210094671
+IIT Bhubaneswar,Indian Institute of Science Education and Research Berhampur,4,35,IISER,IIT <-> IISER,14,8,0.364,I4210115612
+IIT Bhubaneswar,Sister Nivedita University,4,24,Other University,IIT <-> Other University,19,4,0.25,I4405259629
+IIT Bhubaneswar,Indian Institute of Science Education and Research Kolkata,4,17,IISER,IIT <-> IISER,52,75,0.333,I127439422
+IIT Bhubaneswar,Indian Statistical Institute,4,36,Premier Science,IIT <-> Premier Science,49,157,0.25,I6498739
+IIT Bhubaneswar,L V Prasad Eye Institute,4,77,Other,IIT <-> Other,6,8,0.034,I2801255070
+IIT Bhubaneswar,Diamond Harbour Women's University,4,10,Other University,IIT <-> Other University,11,9,0.277,I3130807960
+IIT Bhubaneswar,Central University of Gujarat,4,4,Central University,IIT <-> Central University,26,12,0.304,I89095802
+IIT Bhubaneswar,"Jawaharlal Nehru Technological University, Kakinada",4,17,Other University,IIT <-> Other University,43,17,0.364,I142809039
+IIT Bhubaneswar,National Institute of Hydrology,3,270,Other,IIT <-> Other,55,90,0.224,I4210147361
+IIT Bhubaneswar,Sikkim University,3,199,Other University,IIT <-> Other University,19,20,0.333,I43475992
+IIT Bhubaneswar,Lovely Professional University,3,110,Other University,IIT <-> Other University,280,69,0.395,I110360157
+IIT Bhubaneswar,Indian Institute of Space Science and Technology,3,81,Other,IIT <-> Other,47,32,0.5,I882761360
+IIT Bhubaneswar,Central University of South Bihar,3,95,Central University,IIT <-> Central University,26,13,0.395,I343503978
+IIT Bhubaneswar,PSG College of Pharmacy,3,63,Other,IIT <-> Other,13,0,0.091,I4405275187
+IIT Bhubaneswar,National Aerospace Laboratories,3,112,Other,IIT <-> Other,21,60,0.463,I1286499117
+IIT Bhubaneswar,Indira Gandhi Institute of Technology,3,93,Other,IIT <-> Other,22,19,0.395,I20791572
+IIT Bhubaneswar,Robert Bosch (India),3,131,Other,IIT <-> Other,3,7,0.333,I4210151956
+IIT Bhubaneswar,Tezpur University,3,68,Other University,IIT <-> Other University,36,68,0.429,I126601174
+IIT Bhubaneswar,Motilal Nehru National Institute of Technology,3,47,NIT,IIT <-> NIT,148,142,0.579,I152869788
+IIT Bhubaneswar,M.J.P. Rohilkhand University,3,60,Other University,IIT <-> Other University,29,11,0.304,I139858224
+IIT Bhubaneswar,Birla Global University,3,36,Other University,IIT <-> Other University,2,3,0.111,I4405266038
+IIT Bhubaneswar,KLE Technological University,3,47,Other University,IIT <-> Other University,40,19,0.364,I3132975163
+IIT Bhubaneswar,Dayananda Sagar University,3,39,Other University,IIT <-> Other University,26,12,0.277,I4400573291
+IIT Bhubaneswar,National Institute of Technology Jamshedpur,3,22,NIT,IIT <-> NIT,109,22,0.429,I187761245
+IIT Bhubaneswar,Central University of Karnataka,3,37,Central University,IIT <-> Central University,34,8,0.429,I106053113
+IIT Bhubaneswar,PES University,3,42,Other University,IIT <-> Other University,29,27,0.333,I196608512
+IIT Bhubaneswar,Indian Institute of Technology Mandi,3,33,IIT,,63,50,0.622,I9579091
+IIT Bhubaneswar,Indian Institute of Science Education and Research Thiruvananthapuram,3,12,IISER,IIT <-> IISER,31,17,0.463,I50557253
+IIT Bhubaneswar,Central Road Research Institute,3,12,Other,IIT <-> Other,32,23,0.333,I4210106426
+IIT Bhubaneswar,Pondicherry University,3,14,Other University,IIT <-> Other University,84,88,0.395,I175691731
+IIT Bhubaneswar,Indian Institute of Technology Ropar,3,12,IIT,,90,67,0.667,I119241673
+IIT Bhubaneswar,University of Petroleum and Energy Studies,3,19,Other University,IIT <-> Other University,138,55,0.463,I5847235
+IIT Bhubaneswar,Snow & Avalanche Study Estt,3,70,Other,IIT <-> Other,9,48,0.289,I173811610
+IIT Bhubaneswar,Harcourt Butler Technical University,3,26,Other University,IIT <-> Other University,18,25,0.429,I4210090456
+IIT Bhubaneswar,"Jaypee University of Engineering and Technology, Guna",3,34,Other University,IIT <-> Other University,9,17,0.429,I25205351
+IIT Bhubaneswar,Sardar Vallabhbhai National Institute of Technology Surat,3,28,NIT,IIT <-> NIT,156,119,0.463,I42014448
+IIT Bhubaneswar,DAV University,3,20,Other University,IIT <-> Other University,27,9,0.429,I1341847395
+IIT Bhubaneswar,Haldia Institute of Technology,3,27,Other,IIT <-> Other,23,36,0.395,I175399479
+IIT Bhubaneswar,Tata Steel (India),3,14,Other,IIT <-> Other,25,26,0.333,I87816474
+IIT Bhubaneswar,Integrated Test Range,3,1,Other,IIT <-> Other,0,0,0.306,I4210125378
+IIT Bhubaneswar,Institute of Infrastructure Technology Research and Management,2,309,Other,IIT <-> Other,93,27,0.333,I3130511786
+IIT Bhubaneswar,"Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram",2,182,IIIT,IIT <-> IIIT,46,18,0.364,I39244652
+IIT Bhubaneswar,Kumaun University,2,191,Other University,IIT <-> Other University,28,51,0.333,I119311299
+IIT Bhubaneswar,Central University of Jammu,2,145,Central University,IIT <-> Central University,22,10,0.429,I4210142231
+IIT Bhubaneswar,Mahatma Gandhi University,2,139,Other University,IIT <-> Other University,45,42,0.304,I177436651
+IIT Bhubaneswar,Bharat Heavy Electricals (India),2,189,Other,IIT <-> Other,13,49,0.395,I25547181
+IIT Bhubaneswar,Periyar University,2,115,Other University,IIT <-> Other University,30,40,0.333,I141431873
+IIT Bhubaneswar,University of Engineering & Management,2,98,Other University,IIT <-> Other University,27,5,0.395,I1296725772
+IIT Bhubaneswar,Naval Materials Research Laboratory,2,91,Other,IIT <-> Other,22,19,0.295,I4210151674
+IIT Bhubaneswar,Central University of Himachal Pradesh,2,119,Central University,IIT <-> Central University,42,18,0.304,I180952551
+IIT Bhubaneswar,Central Salt and Marine Chemicals Research Institute,2,103,Other,IIT <-> Other,47,36,0.25,I128420443
+IIT Bhubaneswar,Chilika Development Authority,2,55,Other,IIT <-> Other,17,59,0.174,I4210130859
+IIT Bhubaneswar,All India Council for Technical Education,2,65,Other,IIT <-> Other,12,5,0.364,I162289562
+IIT Bhubaneswar,Chitkara University,2,33,Other University,IIT <-> Other University,219,23,0.333,I74319210
+IIT Bhubaneswar,Gujarat University,2,87,Other University,IIT <-> Other University,18,23,0.277,I114173286
+IIT Bhubaneswar,Dr. Rajendra Prasad Central Agriculture University,2,87,Other University,IIT <-> Other University,5,12,0.132,I205665586
+IIT Bhubaneswar,TIFR Centre for Interdisciplinary Sciences,2,55,Other,IIT <-> Other,21,27,0.333,I4210112849
+IIT Bhubaneswar,Trident Academy of Technology,2,54,Other,IIT <-> Other,3,5,0.277,I4405277697
+IIT Bhubaneswar,Indira Gandhi Delhi Technical University for Women,2,34,Other University,IIT <-> Other University,32,11,0.25,I4210143260
+IIT Bhubaneswar,Sriram Chandra Bhanja Medical College Hospital,2,40,Medical,IIT <-> Medical,1,15,0.017,I3133213366
+IIT Bhubaneswar,Jamia Millia Islamia,2,29,Central University,IIT <-> Central University,114,111,0.463,I59475050
+IIT Bhubaneswar,Indian Association for the Cultivation of Science,2,34,Other,IIT <-> Other,26,90,0.333,I165998391
+IIT Bhubaneswar,Bombay Natural History Society,2,42,Other,IIT <-> Other,5,43,0.082,I82034984
+IIT Bhubaneswar,Srushti Conservation Foundation,2,42,Other,IIT <-> Other,4,13,0.083,I4405263284
+IIT Bhubaneswar,B.S. Abdur Rahman Crescent Institute of Science & Technology,2,23,Other,IIT <-> Other,24,24,0.429,I94948490
+IIT Bhubaneswar,Gandhi Institute for Technological Advancement,2,25,Other,IIT <-> Other,12,0,0.364,I4405274307
+IIT Bhubaneswar,All India Institute of Medical Sciences,2,18,Medical,IIT <-> Medical,33,21,0.034,I63739035
+IIT Bhubaneswar,Banasthali University,2,12,Other University,IIT <-> Other University,35,19,0.364,I102117144
+IIT Bhubaneswar,Jaypee University of Information Technology,2,28,Other University,IIT <-> Other University,16,18,0.429,I153954893
+IIT Bhubaneswar,Indian Institute of Petroleum and Energy,2,19,Other,IIT <-> Other,16,18,0.5,I4405263468
+IIT Bhubaneswar,TERI University,2,11,Other University,IIT <-> Other University,15,38,0.304,I118315836
+IIT Bhubaneswar,Energy and Resources Institute,2,11,Other,IIT <-> Other,28,40,0.277,I1286858202
+IIT Bhubaneswar,Indian Institute of Technology Dharwad,2,18,IIT,,43,1,0.429,I4210152718
+IIT Bhubaneswar,General Electric (India),2,10,Other,IIT <-> Other,7,3,0.277,I4210142581
+IIT Bhubaneswar,RV University,2,14,Other University,IIT <-> Other University,16,0,0.2,I4405257909
+IIT Bhubaneswar,Central Power Research Institute,2,24,Other,IIT <-> Other,2,17,0.25,I109493002
+IIT Bhubaneswar,Central Electronics Engineering Research Institute,2,25,Other,IIT <-> Other,8,13,0.364,I41763900
+IIT Bhubaneswar,"Regional Institute of Education, Bhubaneswar",2,10,Other,IIT <-> Other,4,5,0.25,I4405272889
+IIT Bhubaneswar,Nitte Meenakshi Institute of Technology,2,14,Other,IIT <-> Other,42,10,0.364,I4405268608
+IIT Bhubaneswar,Fakir Mohan University,2,18,Other University,IIT <-> Other University,33,11,0.2,I108526665
+IIT Bhubaneswar,Department of Science and Technology,2,10,Other,IIT <-> Other,15,24,0.364,I4210098748
+IIT Bhubaneswar,S.N. Bose National Centre for Basic Sciences,2,8,Premier Science,IIT <-> Premier Science,10,92,0.395,I77430839
+IIT Bhubaneswar,Larsen & Toubro (India),2,8,Other,IIT <-> Other,15,3,0.364,I4210116539
+IIT Bhubaneswar,Gauhati University,2,12,Other University,IIT <-> Other University,39,32,0.463,I138537684
+IIT Bhubaneswar,Indian Oil Corporation (India),2,5,Other,IIT <-> Other,3,3,0.25,I173709673
+IIT Bhubaneswar,Khallikote Unitary University,2,4,Other University,IIT <-> Other University,10,3,0.091,I4405277609
+IIT Bhubaneswar,Aditya University,2,7,Other University,IIT <-> Other University,64,4,0.364,I4405262389
+IIT Bhubaneswar,Institute of Chemical Technology,2,3,Other,IIT <-> Other,32,53,0.25,I167751958
+IIT Bhubaneswar,Goa University,2,4,Other University,IIT <-> Other University,16,19,0.333,I140887281
+IIT Bhubaneswar,Institute for Plasma Research,2,11,Other,IIT <-> Other,19,21,0.364,I4210106276
+IIT Bhubaneswar,Birbal Sahni Institute of Palaeosciences,2,4,Other,IIT <-> Other,75,107,0.154,I4405261827
+IIT Bhubaneswar,"Indian Statistical Institute, Bangalore Centre",2,5,Premier Science,IIT <-> Premier Science,4,5,0.25,I4405280447
+IIT Bhubaneswar,Institute of Medical Sciences and Sum Hospital,2,4,Other,IIT <-> Other,9,6,0.091,I4210133319
+IIT Bhubaneswar,Sri Sri University,2,1,Other University,IIT <-> Other University,17,6,0.154,I3129903175
+IIT Bhubaneswar,Physical Research Laboratory,2,1,Other,IIT <-> Other,67,134,0.364,I121502294
+IIT Bhubaneswar,National Institute of Technology Patna,2,6,NIT,IIT <-> NIT,219,60,0.463,I11793825
+IIT Bhubaneswar,National Institute of Pharmaceutical Education and Research - Ahmedabad,2,0,Other,IIT <-> Other,5,5,0.111,I4210102411
+IIT Bhubaneswar,Galgotias University,1,261,Other University,IIT <-> Other University,52,8,0.304,I155125381
+IIT Bhubaneswar,Bharathidasan University,1,260,Other University,IIT <-> Other University,41,82,0.333,I4076070
+IIT Bhubaneswar,National Geophysical Research Institute,1,249,Other,IIT <-> Other,29,85,0.364,I22716965
+IIT Bhubaneswar,Ministry of Home Affairs,1,144,Other,IIT <-> Other,4,6,0.176,I4405266773
+IIT Bhubaneswar,Government of Sikkim,1,144,Other,IIT <-> Other,4,5,0.154,I2801028658
+IIT Bhubaneswar,University of Mumbai,1,130,Other University,IIT <-> Other University,58,44,0.395,I169877490
+IIT Bhubaneswar,Amity University Mumbai,1,130,Other University,IIT <-> Other University,18,14,0.304,I4405262953
+IIT Bhubaneswar,Indian Institute of Toxicology Research,1,99,Other,IIT <-> Other,14,26,0.2,I85145500
+IIT Bhubaneswar,Punjab Engineering College,1,77,Other,IIT <-> Other,66,44,0.463,I860003557
+IIT Bhubaneswar,U. R. Rao Satellite Centre,1,76,Other,IIT <-> Other,3,13,0.5,I4405258076
+IIT Bhubaneswar,Indian Institute of Foreign Trade,1,72,Other,IIT <-> Other,6,3,0.091,I38919395
+IIT Bhubaneswar,Bharat Forge (India),1,64,Other,IIT <-> Other,7,8,0.186,I4210089955
+IIT Bhubaneswar,Agharkar Research Institute,1,61,Other,IIT <-> Other,4,5,0.111,I151205615
+IIT Bhubaneswar,Ispat General Hospital,1,50,Other,IIT <-> Other,0,2,0.017,I4210106902
+IIT Bhubaneswar,Midnapore Medical College and Hospital,1,50,Medical,IIT <-> Medical,0,2,0.034,I251397004
+IIT Bhubaneswar,Hi-Tech Medical College & Hospital,1,50,Medical,IIT <-> Medical,0,1,0.017,I4210141550
+IIT Bhubaneswar,Netaji Subhas University,1,39,Other University,IIT <-> Other University,0,0,0.176,I4405283299
+IIT Bhubaneswar,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology,1,35,Other,IIT <-> Other,99,25,0.333,I1330855593
+IIT Bhubaneswar,Prananath College (Autonomous),1,14,Other,IIT <-> Other,2,2,0.089,I4405274855
+IIT Bhubaneswar,Gayatri Vidya Parishad College of Engineering for Women,1,58,Other,IIT <-> Other,11,3,0.364,I4405263749
+IIT Bhubaneswar,Deenbandhu Chhotu Ram University of Science and Technology,1,55,Other University,IIT <-> Other University,56,44,0.429,I253188195
+IIT Bhubaneswar,Institute of Economic Growth,1,55,Other,IIT <-> Other,5,11,0.091,I4210098828
+IIT Bhubaneswar,Centre for Development Economics,1,55,Other,IIT <-> Other,4,8,0.04,I4210152395
+IIT Bhubaneswar,Indian Institute of Management Jammu,1,55,IIM,IIT <-> IIM,6,2,0.071,I4405255249
+IIT Bhubaneswar,National Institute for Interdisciplinary Science and Technology,1,53,Other,IIT <-> Other,15,65,0.277,I146682468
+IIT Bhubaneswar,Vikramajit Singh Sanatan Dharma College,1,42,Other,IIT <-> Other,3,6,0.2,I4405262937
+IIT Bhubaneswar,Raja Ramanna Centre for Advanced Technology,1,34,DAE,IIT <-> DAE,29,49,0.364,I1289303365
+IIT Bhubaneswar,Defence Institute of Advanced Technology,1,33,Other,IIT <-> Other,28,43,0.429,I156406944
+IIT Bhubaneswar,National Institute of Technology Goa,1,32,NIT,IIT <-> NIT,28,8,0.395,I4210109276
+IIT Bhubaneswar,VIT Bhopal University,1,31,Other University,IIT <-> Other University,11,19,0.333,I4405263090
+IIT Bhubaneswar,Kalasalingam Academy of Research and Education,1,26,Other,IIT <-> Other,62,35,0.333,I98499257
+IIT Bhubaneswar,"American College, Madurai",1,26,Other,IIT <-> Other,2,0,0.304,I2800849556
+IIT Bhubaneswar,The Madura College,1,26,Other,IIT <-> Other,6,1,0.277,I4405255910
+IIT Bhubaneswar,Ministry of Agriculture & Farmers Welfare,1,24,Other,IIT <-> Other,7,9,0.2,I4210105197
+IIT Bhubaneswar,Department of Agriculture & Co-operation,1,24,Other,IIT <-> Other,5,9,0.054,I4210152907
+IIT Bhubaneswar,Aeronautical Development Establishment,1,21,Other,IIT <-> Other,3,5,0.364,I4210093458
+IIT Bhubaneswar,Berhampur University,1,20,Other University,IIT <-> Other University,59,60,0.364,I90752740
+IIT Bhubaneswar,Guru Gobind Singh Indraprastha University,1,19,Other University,IIT <-> Other University,38,29,0.364,I105454292
+IIT Bhubaneswar,Sri Sathya Sai Institute of Higher Learning,1,19,Other,IIT <-> Other,4,4,0.364,I4819740
+IIT Bhubaneswar,Mandsaur University,1,17,Other University,IIT <-> Other University,11,0,0.224,I4405266177
+IIT Bhubaneswar,North Eastern Hill University,1,17,Other University,IIT <-> Other University,29,13,0.364,I197465736
+IIT Bhubaneswar,Christ University,1,16,Other University,IIT <-> Other University,98,35,0.277,I48018076
+IIT Bhubaneswar,Glocal University,1,13,Other University,IIT <-> Other University,9,5,0.277,I3130698519
+IIT Bhubaneswar,Engineering Staff College of India,1,12,Other,IIT <-> Other,0,1,0.167,I4405261761
+IIT Bhubaneswar,Centre for Materials for Electronics Technology,1,12,Other,IIT <-> Other,5,10,0.304,I4210118327
+IIT Bhubaneswar,Central Rice Research Institute,1,10,Other,IIT <-> Other,7,9,0.224,I77541275
+IIT Bhubaneswar,Indian Council for Research on International Economic Relations,1,8,Other,IIT <-> Other,7,3,0.132,I4210105909
+IIT Bhubaneswar,Siddaganga Institute of Technology,1,8,Other,IIT <-> Other,17,17,0.463,I4387153738
+IIT Bhubaneswar,Gokhale Institute of Politics and Economics,1,8,Other,IIT <-> Other,4,0,0.071,I195377678
+IIT Bhubaneswar,Central Scientific Instruments Organisation,1,5,Other,IIT <-> Other,31,22,0.333,I42095658
+IIT Bhubaneswar,Karpagam Academy of Higher Education,1,4,Other,IIT <-> Other,100,26,0.364,I65220239
+IIT Bhubaneswar,Kakatiya University,1,32,Other University,IIT <-> Other University,61,6,0.429,I28210344
+IIT Bhubaneswar,Central Agricultural University,1,29,Other University,IIT <-> Other University,12,12,0.154,I76253773
+IIT Bhubaneswar,"University of Agricultural Sciences, Dharwad",1,29,Other University,IIT <-> Other University,2,5,0.154,I139046659
+IIT Bhubaneswar,Anand Agricultural University,1,29,Other University,IIT <-> Other University,2,7,0.154,I34750443
+IIT Bhubaneswar,Central Arid Zone Research Institute,1,29,Other,IIT <-> Other,3,12,0.224,I138570494
+IIT Bhubaneswar,Madurai Kamaraj University,1,25,Other University,IIT <-> Other University,36,55,0.304,I13268429
+IIT Bhubaneswar,Institute of Microbial Technology,1,21,Other,IIT <-> Other,1,16,0.132,I4210147764
+IIT Bhubaneswar,Arya Vaidya Sala,1,20,Other,IIT <-> Other,0,2,0.111,I4210160885
+IIT Bhubaneswar,Indian Institute of Chemical Technology,1,20,Other,IIT <-> Other,15,121,0.25,I55664587
+IIT Bhubaneswar,Techno India University,1,20,Other University,IIT <-> Other University,19,3,0.364,I1288043984
+IIT Bhubaneswar,Government of Andhra Pradesh,1,19,Other,IIT <-> Other,6,8,0.2,I2800401362
+IIT Bhubaneswar,National Institute of Technology Kurukshetra,1,17,NIT,IIT <-> NIT,97,87,0.429,I105094715
+IIT Bhubaneswar,Central University of Punjab,1,15,Central University,IIT <-> Central University,29,30,0.304,I114724429
+IIT Bhubaneswar,University of Madras,1,15,Other University,IIT <-> Other University,30,95,0.333,I215927
+IIT Bhubaneswar,Tehatta Sadananda Mahavidyalaya,1,15,Other,IIT <-> Other,0,0,0.054,I4405253084
+IIT Bhubaneswar,Visvesvaraya Technological University,1,14,Other University,IIT <-> Other University,111,52,0.429,I65674248
+IIT Bhubaneswar,Sanjay Gandhi Post Graduate Institute of Medical Sciences,1,14,Other,IIT <-> Other,3,5,0.034,I161370692
+IIT Bhubaneswar,Centre of Biomedical Research,1,14,Other,IIT <-> Other,3,0,0.111,I4210161010
+IIT Bhubaneswar,Cochin University of Science and Technology,1,13,Other University,IIT <-> Other University,84,182,0.463,I20497027
+IIT Bhubaneswar,International Centre for Theoretical Sciences,1,12,Other,IIT <-> Other,1,21,0.364,I4210090503
+IIT Bhubaneswar,Invertis University,1,3,Other University,IIT <-> Other University,8,0,0.333,I19688894
+IIT Bhubaneswar,Malla Reddy University,1,3,Other University,IIT <-> Other University,16,3,0.277,I4405254961
+IIT Bhubaneswar,Vidyasagar University,1,3,Other University,IIT <-> Other University,40,37,0.333,I41549804
+IIT Bhubaneswar,Hindustan Aeronautics Limited (India),1,20,Other,IIT <-> Other,3,7,0.304,I4210088939
+IIT Bhubaneswar,Central Pollution Control Board,1,11,Other,IIT <-> Other,10,6,0.304,I14467051
+IIT Bhubaneswar,Government of Karnataka,1,11,Other,IIT <-> Other,12,7,0.364,I2802584695
+IIT Bhubaneswar,Women's Christian College,1,9,Other,IIT <-> Other,3,0,0.333,I4405265746
+IIT Bhubaneswar,Sambalpur University Institute of Information Technology,1,9,Other University,IIT <-> Other University,3,6,0.364,I4210146312
+IIT Bhubaneswar,Nagaland University,1,8,Other University,IIT <-> Other University,19,3,0.224,I61198380
+IIT Bhubaneswar,Central Institute of Plastics Engineering and Technology,1,7,Other,IIT <-> Other,7,14,0.429,I10640828
+IIT Bhubaneswar,Indian Institute of Geomagnetism,1,6,Other,IIT <-> Other,60,21,0.364,I4405266797
+IIT Bhubaneswar,Zoological Survey of India,1,4,Other,IIT <-> Other,9,8,0.154,I1338006420
+IIT Bhubaneswar,Defence Metallurgical Research Laboratory,1,4,Other,IIT <-> Other,15,62,0.277,I202429437
+IIT Bhubaneswar,Geological Survey of India,1,3,Other,IIT <-> Other,22,41,0.224,I64389444
+IIT Bhubaneswar,National Institute of Technology Andhra Pradesh,1,3,NIT,IIT <-> NIT,57,9,0.538,I4210153924
+IIT Bhubaneswar,Gati Shakti Vishwavidyalaya,1,2,Other University,IIT <-> Other University,2,2,0.333,I4405258170
+IIT Bhubaneswar,Ministry of Railways,1,2,Other,IIT <-> Other,1,1,0.333,I4405266390
+IIT Bhubaneswar,Advanced Materials and Processes Research Institute,1,2,Other,IIT <-> Other,18,47,0.395,I115635661
+IIT Bhubaneswar,Indian Institute of Petroleum,1,2,Other,IIT <-> Other,7,11,0.333,I84279003
+IIT Bhubaneswar,Central University of Jharkhand,1,2,Central University,IIT <-> Central University,49,32,0.429,I175970653
+IIT Bhubaneswar,Hindustan Institute of Technology and Science,1,2,Other,IIT <-> Other,39,23,0.364,I43663321
+IIT Bhubaneswar,International Management Institute,1,7,Other,IIT <-> Other,2,0,0.053,I158867519
+IIT Bhubaneswar,Bose Institute,1,6,Premier Science,IIT <-> Premier Science,19,69,0.2,I152754861
+IIT Bhubaneswar,Sri Venkateswara University,1,6,Other University,IIT <-> Other University,33,57,0.463,I170558118
+IIT Bhubaneswar,Advanced Systems Laboratory,1,5,Other,IIT <-> Other,0,4,0.333,I4210101698
+IIT Bhubaneswar,Government of Haryana,1,4,Other,IIT <-> Other,7,12,0.25,I2799795791
+IIT Bhubaneswar,Nalanda University,1,3,Other University,IIT <-> Other University,22,2,0.224,I4210140720
+IIT Bhubaneswar,Bennett University,1,3,Other University,IIT <-> Other University,53,64,0.277,I3129773123
+IIT Bhubaneswar,National Institute of Technology Meghalaya,1,3,NIT,IIT <-> NIT,39,28,0.5,I9523339
+IIT Bhubaneswar,The NorthCap University,1,2,Other University,IIT <-> Other University,16,17,0.364,I129798099
+IIT Bhubaneswar,"Dr. D.Y. Patil Vidyapeeth, Pune",1,2,Other,IIT <-> Other,8,4,0.034,I4210103194
+IIT Bhubaneswar,National Atmospheric Research Laboratory,1,2,Other,IIT <-> Other,68,176,0.304,I152870717
+IIT Bhubaneswar,Ramakrishna Mission Vivekananda Centenary College,1,2,Other,IIT <-> Other,4,0,0.224,I4405270341
+IIT Bhubaneswar,International Institute of Information Technology Bangalore,1,2,Other,IIT <-> Other,13,3,0.304,I181514455
+IIT Bhubaneswar,"UGC-DAE Consortium for Scientific Research, Mumbai Centre",1,2,Other,IIT <-> Other,9,12,0.31,I4405260855
+IIT Bhubaneswar,Shri Ramswaroop Memorial University,1,2,Other University,IIT <-> Other University,13,7,0.395,I4210106473
+IIT Bhubaneswar,Central Food Technological Research Institute,1,2,Other,IIT <-> Other,2,7,0.111,I150037166
+IIT Bhubaneswar,Structural Engineering Research Centre,1,1,Other,IIT <-> Other,5,120,0.425,I1341020899
+IIT Bhubaneswar,Central Building Research Institute,1,1,Other,IIT <-> Other,24,93,0.333,I2801347850
+IIT Bhubaneswar,Mepco Schlenk Engineering College,1,1,Other,IIT <-> Other,38,27,0.395,I4405268244
+IIT Bhubaneswar,Central Mechanical Engineering Research Institute,1,1,Other,IIT <-> Other,23,32,0.429,I70735523
+IIT Bhubaneswar,Central University of Odisha,1,2,Central University,IIT <-> Central University,1,5,0.111,I4210129043
+IIT Bhubaneswar,"Birla Institute of Technology and Science, Pilani - Goa Campus",1,1,Other,IIT <-> Other,29,24,0.5,I4210148827
+IIT Bhubaneswar,Central University of Rajasthan,1,0,Central University,IIT <-> Central University,51,44,0.463,I76777374
+IIT Bhubaneswar,Odisha University of Agriculture and Technology,1,0,Other University,IIT <-> Other University,32,19,0.2,I13567498
+IIT Bhubaneswar,Anil Neerukonda Institute of Technology & Sciences,1,0,Other,IIT <-> Other,3,5,0.333,I4405284298
+IIT Bhubaneswar,Heritage Institute of Technology,1,0,Other,IIT <-> Other,19,6,0.429,I4405272644
+IIT Bhubaneswar,Kalinga Institute of Social Sciences,1,0,Other,IIT <-> Other,2,0,0.111,I4405262510
+IIT Bhubaneswar,Indian Institute of Remote Sensing,1,0,Other,IIT <-> Other,56,67,0.176,I51281103
+IIT Bhubaneswar,Cotton University,1,0,Other University,IIT <-> Other University,6,14,0.304,I4210102512
+IIT Bhubaneswar,North East Institute of Science and Technology,1,0,Other,IIT <-> Other,13,21,0.277,I2800857658
+IIT Bhubaneswar,National Council Of Educational Research And Training,1,0,Other,IIT <-> Other,2,3,0.277,I15949855
+IIT Bhubaneswar,Chaudhary Charan Singh University,1,0,Other University,IIT <-> Other University,10,7,0.304,I303593345
+IIT Bhubaneswar,Ministry of Science and Technology,1,0,Other,IIT <-> Other,8,4,0.277,I4210134808
+IIT Bhubaneswar,Netaji Subhas University of Technology,1,0,Other University,IIT <-> Other University,69,46,0.395,I36090812
+IIT Bhubaneswar,Government of Himachal Pradesh,1,0,Other,IIT <-> Other,8,2,0.132,I4210098857
+IIT Bhubaneswar,Dr. Hari Singh Gour University,1,0,Other University,IIT <-> Other University,17,17,0.2,I8977528
+IIT Bhubaneswar,LG (India),1,19,Other,IIT <-> Other,1,2,0.176,I4210092541
+IIT Bhubaneswar,Microsoft (India),1,19,Other,IIT <-> Other,3,2,0.2,I4210162141
+IIT Bhubaneswar,Defence Laboratory Jodhpur,1,3,Other,IIT <-> Other,0,1,0.364,I4210099439
+IIT Bhubaneswar,Indian Institute of Information Technology Guwahati,1,1,IIIT,IIT <-> IIIT,14,4,0.25,I4210089896
+IIT Bhubaneswar,"International Institute of Information Technology, Hyderabad",1,0,Other,IIT <-> Other,26,49,0.395,I64189192
+IIT Bhubaneswar,New Alipore College,1,0,Other,IIT <-> Other,2,0,0.224,I4405272584
+IIT Bhubaneswar,Proof & Experimental Establishment,1,0,Other,IIT <-> Other,0,0,0.405,I4210140099
+IIT Bhubaneswar,Instruments Research & Development Establishment,1,0,Other,IIT <-> Other,1,2,0.35,I21449664
+IIT Bhubaneswar,Samsung (India),1,0,Other,IIT <-> Other,1,2,0.224,I4210139030
+IIT Bhubaneswar,Bharat Petroleum (India),1,0,Other,IIT <-> Other,0,1,0.333,I125565006
+IIT Indore,Indian Institute of Technology Bombay,318,5413,IIT,,1371,3813,0.622,I162827531
+IIT Indore,Homi Bhabha National Institute,303,6160,DAE,IIT <-> DAE,1423,2002,0.364,I200207707
+IIT Indore,Aligarh Muslim University,205,3789,Central University,IIT <-> Central University,828,2321,0.364,I171210897
+IIT Indore,University of Jammu,162,3250,Other University,IIT <-> Other University,463,2202,0.25,I145846420
+IIT Indore,Variable Energy Cyclotron Centre,159,3340,DAE,IIT <-> DAE,476,2721,0.463,I1279672703
+IIT Indore,Gauhati University,158,2961,Other University,IIT <-> Other University,382,1122,0.364,I138537684
+IIT Indore,Raja Ramanna Centre for Advanced Technology,157,3480,DAE,IIT <-> DAE,750,1296,0.429,I1289303365
+IIT Indore,Devi Ahilya Vishwavidyalaya,142,2387,Other University,IIT <-> Other University,479,542,0.304,I138272832
+IIT Indore,Bhabha Atomic Research Centre,123,2743,DAE,IIT <-> DAE,631,1425,0.395,I1329621470
+IIT Indore,Bose Institute,120,2022,Premier Science,IIT <-> Premier Science,232,608,0.2,I152754861
+IIT Indore,Indian Institute of Science Bangalore,98,1996,IISc,IIT <-> IISc,994,2689,0.714,I59270414
+IIT Indore,Malaviya National Institute of Technology Jaipur,98,3420,NIT,IIT <-> NIT,628,756,0.5,I83205935
+IIT Indore,Indian Institute of Technology Kanpur,96,1843,IIT,,823,1502,0.667,I94234084
+IIT Indore,Indian Institute of Technology Madras,93,1380,IIT,,891,1553,0.538,I24676775
+IIT Indore,Indian Institute of Technology Delhi,82,1158,IIT,,1017,1903,0.622,I68891433
+IIT Indore,Indian Institute of Technology Kharagpur,80,1437,IIT,,909,2662,0.622,I145894827
+IIT Indore,UGC DAE Consortium for Scientific Research,72,1304,Other,IIT <-> Other,312,577,0.395,I4210132317
+IIT Indore,Indian Institute of Technology BHU,70,839,IIT,,674,669,0.579,I56404289
+IIT Indore,Tata Institute of Fundamental Research,70,587,DAE,IIT <-> DAE,284,1211,0.364,I11947397
+IIT Indore,Indian Institute of Technology Jodhpur,68,1239,IIT,,352,451,0.622,I154549908
+IIT Indore,Indian Institute of Technology Guwahati,64,1605,IIT,,733,1187,0.667,I1317621060
+IIT Indore,"Birla Institute of Technology and Science, Pilani",63,1457,Other,IIT <-> Other,694,671,0.579,I74796645
+IIT Indore,Indian Institute of Technology Mandi,61,971,IIT,,396,564,0.667,I9579091
+IIT Indore,Banaras Hindu University,52,2699,Central University,IIT <-> Central University,696,968,0.364,I91357014
+IIT Indore,Academy of Scientific and Innovative Research,52,1522,Other,IIT <-> Other,1019,1048,0.364,I99364266
+IIT Indore,Indian Institute of Technology Patna,52,329,IIT,,434,334,0.538,I132153292
+IIT Indore,Indian Institute of Technology Roorkee,50,925,IIT,,968,1509,0.667,I154851008
+IIT Indore,Indian Institute of Technology Palakkad,46,976,IIT,,258,150,0.667,I4210113248
+IIT Indore,"Indian Institute of Science Education and Research, Bhopal",45,849,IISER,IIT <-> IISER,298,375,0.429,I288749910
+IIT Indore,Savitribai Phule Pune University,45,889,Other University,IIT <-> Other University,380,607,0.579,I878213199
+IIT Indore,National Institute of Technology Rourkela,44,605,NIT,IIT <-> NIT,494,536,0.622,I16292982
+IIT Indore,Indian Institute of Science Education and Research Thiruvananthapuram,40,781,IISER,IIT <-> IISER,247,246,0.463,I50557253
+IIT Indore,Vellore Institute of Technology University,39,785,Other University,IIT <-> Other University,1167,663,0.538,I876193797
+IIT Indore,Indian Institute of Technology Hyderabad,38,524,IIT,,341,561,0.667,I65181880
+IIT Indore,Indian Institute of Soybean Research,37,300,Other,IIT <-> Other,112,89,0.154,I4210166498
+IIT Indore,KIIT University,36,1063,Other University,IIT <-> Other University,272,210,0.395,I67357951
+IIT Indore,Sardar Vallabhbhai National Institute of Technology Surat,36,668,NIT,IIT <-> NIT,319,315,0.5,I42014448
+IIT Indore,SRM Institute of Science and Technology,35,328,Other,IIT <-> Other,941,463,0.463,I145286018
+IIT Indore,LNM Institute of Information Technology,34,1277,Other,IIT <-> Other,227,366,0.463,I33552525
+IIT Indore,National Institute Of Technology Silchar,34,950,Other,IIT <-> Other,535,269,0.463,I151903974
+IIT Indore,"Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram",34,390,IIIT,IIT <-> IIIT,281,106,0.429,I39244652
+IIT Indore,Birla Institute of Technology and Science - Hyderabad Campus,33,1278,Other,IIT <-> Other,402,377,0.579,I4210101034
+IIT Indore,Panjab University,32,1303,Other University,IIT <-> Other University,442,2547,0.333,I51452335
+IIT Indore,Visvesvaraya National Institute of Technology,32,531,NIT,IIT <-> NIT,235,194,0.5,I167153416
+IIT Indore,Indian Institute of Technology Bhilai,31,398,IIT,,237,206,0.538,I4210121466
+IIT Indore,Indian Institute of Information Technology Design and Manufacturing Jabalpur,29,648,IIIT,IIT <-> IIIT,290,283,0.429,I207223250
+IIT Indore,National Centre for Radio Astrophysics,29,251,Other,IIT <-> Other,157,879,0.22,I147602599
+IIT Indore,Indian Space Research Organisation,29,193,ISRO/DRDO,IIT <-> ISRO/DRDO,165,374,0.429,I1289461252
+IIT Indore,Council of Scientific and Industrial Research,28,972,CSIR,IIT <-> CSIR,427,1280,0.395,I66760702
+IIT Indore,Indian Institute of Technology Dhanbad,27,487,IIT,,571,560,0.5,I189109744
+IIT Indore,Indian Institute of Technology Ropar,27,487,IIT,,395,286,0.622,I119241673
+IIT Indore,Jadavpur University,27,253,Central University,IIT <-> Central University,585,800,0.538,I170979836
+IIT Indore,Jawaharlal Nehru University,26,3141,Central University,IIT <-> Central University,445,722,0.333,I152429107
+IIT Indore,Central Electronics Engineering Research Institute,26,373,Other,IIT <-> Other,69,69,0.429,I41763900
+IIT Indore,Indian Institute of Technology Jammu,25,548,IIT,,283,110,0.667,I4210127441
+IIT Indore,National Institute of Technology Raipur,25,634,NIT,IIT <-> NIT,357,171,0.579,I38335241
+IIT Indore,Mahindra University,25,159,Other University,IIT <-> Other University,98,63,0.5,I4210164565
+IIT Indore,Indian Institute of Technology Tirupati,24,712,IIT,,188,60,0.5,I4210109292
+IIT Indore,Shivaji University,24,462,Other University,IIT <-> Other University,201,397,0.538,I141641110
+IIT Indore,National Institute of Technology Srinagar,24,376,NIT,IIT <-> NIT,256,135,0.622,I8778637
+IIT Indore,Central University of Punjab,24,307,Central University,IIT <-> Central University,190,177,0.224,I114724429
+IIT Indore,University of Delhi,23,1347,Central University,IIT <-> Central University,602,783,0.304,I110166357
+IIT Indore,Amity University,22,908,Other University,IIT <-> Other University,383,225,0.304,I191972202
+IIT Indore,Translational Health Science and Technology Institute,21,1082,Other,IIT <-> Other,150,202,0.111,I2801880299
+IIT Indore,Defence Research and Development Organisation,21,282,ISRO/DRDO,IIT <-> ISRO/DRDO,119,122,0.463,I1340206300
+IIT Indore,Indian Institute of Science Education and Research Kolkata,21,357,IISER,IIT <-> IISER,213,326,0.304,I127439422
+IIT Indore,Central University of Rajasthan,21,306,Central University,IIT <-> Central University,188,156,0.395,I76777374
+IIT Indore,Indian Institute of Technology Bhubaneswar,20,482,IIT,,218,367,0.622,I99729588
+IIT Indore,National Institute of Science Education and Research,20,1330,DAE,IIT <-> DAE,286,742,0.364,I163389970
+IIT Indore,Shri Govindram Seksaria Institute of Technology and Science,20,437,Other,IIT <-> Other,78,65,0.395,I4405278167
+IIT Indore,Indian Institute of Technology Gandhinagar,20,259,IIT,,274,336,0.622,I27674431
+IIT Indore,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,20,131,IIIT,IIT <-> IIIT,200,77,0.304,I9747756
+IIT Indore,Inter-University Centre for Astronomy and Astrophysics,20,119,Other University,IIT <-> Other University,89,400,0.224,I59781447
+IIT Indore,National Institute of Pharmaceutical Education and Research,19,330,Other,IIT <-> Other,285,276,0.111,I4210152674
+IIT Indore,Pandit Deendayal Energy University,19,536,Other University,IIT <-> Other University,324,145,0.429,I33586908
+IIT Indore,University of Calcutta,19,393,Other University,IIT <-> Other University,264,412,0.429,I106542073
+IIT Indore,GLA University,19,200,Other University,IIT <-> Other University,380,121,0.463,I82571370
+IIT Indore,Medi-Caps University,18,524,Other University,IIT <-> Other University,122,63,0.333,I4210119567
+IIT Indore,Indian Institute of Management Indore,18,217,IIM,IIT <-> IIM,38,17,0.034,I33003672
+IIT Indore,Guru Jambheshwar University of Science and Technology,18,573,Other University,IIT <-> Other University,221,261,0.333,I15896350
+IIT Indore,Thapar Institute of Engineering & Technology,18,381,Other,IIT <-> Other,354,272,0.538,I162030827
+IIT Indore,National Institute of Technology Meghalaya,18,564,NIT,IIT <-> NIT,98,232,0.538,I9523339
+IIT Indore,Maulana Azad National Institute of Technology,18,299,NIT,IIT <-> NIT,500,236,0.538,I91277730
+IIT Indore,Indraprastha Institute of Information Technology Delhi,18,267,Other,IIT <-> Other,105,135,0.304,I119939252
+IIT Indore,Utkal University,18,81,Other University,IIT <-> Other University,52,41,0.395,I70699430
+IIT Indore,National Institute of Technology Jamshedpur,17,435,NIT,IIT <-> NIT,284,162,0.538,I187761245
+IIT Indore,All India Institute of Medical Sciences,17,380,Medical,IIT <-> Medical,120,287,0.034,I63739035
+IIT Indore,Space Applications Centre,16,389,ISRO/DRDO,IIT <-> ISRO/DRDO,93,177,0.395,I4405268392
+IIT Indore,All India Institute of Medical Sciences Bhopal,16,350,Medical,IIT <-> Medical,31,21,0.034,I4210106490
+IIT Indore,Bennett University,16,661,Other University,IIT <-> Other University,276,89,0.277,I3129773123
+IIT Indore,Indian Institute of Science Education and Research Pune,15,1082,IISER,IIT <-> IISER,215,377,0.364,I181996519
+IIT Indore,National Institute of Technology Kurukshetra,15,514,NIT,IIT <-> NIT,235,163,0.463,I105094715
+IIT Indore,National Institute of Technology Warangal,15,227,NIT,IIT <-> NIT,353,270,0.579,I121750182
+IIT Indore,Guru Nanak Dev University,15,354,Other University,IIT <-> Other University,137,160,0.224,I165682329
+IIT Indore,Choithram Hospital and Research Centre,15,246,Other,IIT <-> Other,53,121,0.071,I4210161314
+IIT Indore,Doon University,15,205,Other University,IIT <-> Other University,60,60,0.25,I44565152
+IIT Indore,Raman Research Institute,15,112,Premier Science,IIT <-> Premier Science,125,517,0.395,I119598438
+IIT Indore,Indian Institute of Astrophysics,15,71,Other,IIT <-> Other,76,167,0.277,I140717209
+IIT Indore,Koneru Lakshmaiah Education Foundation,15,34,Other,IIT <-> Other,348,89,0.463,I875944469
+IIT Indore,Institute of Minerals and Materials Technology,14,379,Other,IIT <-> Other,138,186,0.463,I4210107015
+IIT Indore,Maharana Pratap University of Agriculture and Technology,14,847,Other University,IIT <-> Other University,80,157,0.224,I253568910
+IIT Indore,National Institute of Technology Tiruchirappalli,14,222,NIT,IIT <-> NIT,346,340,0.538,I122964287
+IIT Indore,Netaji Subhas University of Technology,14,202,Other University,IIT <-> Other University,283,92,0.5,I36090812
+IIT Indore,Central Electrochemical Research Institute,14,338,Other,IIT <-> Other,184,326,0.395,I106349282
+IIT Indore,Shiv Nadar University,14,196,Other University,IIT <-> Other University,152,100,0.5,I26604189
+IIT Indore,Banasthali University,14,156,Other University,IIT <-> Other University,124,61,0.333,I102117144
+IIT Indore,Jain University,14,185,Other University,IIT <-> Other University,305,176,0.395,I106826634
+IIT Indore,IPS Academy,14,130,Other,IIT <-> Other,60,25,0.304,I4210113021
+IIT Indore,University of Mumbai,14,142,Other University,IIT <-> Other University,131,153,0.429,I169877490
+IIT Indore,Jamia Millia Islamia,13,1061,Central University,IIT <-> Central University,246,287,0.463,I59475050
+IIT Indore,Institute of Infrastructure Technology Research and Management,13,939,Other,IIT <-> Other,356,83,0.429,I3130511786
+IIT Indore,National Institute of Animal Biotechnology,13,602,Other,IIT <-> Other,46,38,0.154,I4210092980
+IIT Indore,CMR University,13,503,Other University,IIT <-> Other University,151,28,0.304,I4210104573
+IIT Indore,Indian Council of Agricultural Research,13,194,Other,IIT <-> Other,133,131,0.132,I179420787
+IIT Indore,Indian Institute of Information Technology Allahabad,13,311,IIIT,IIT <-> IIIT,90,91,0.333,I26072440
+IIT Indore,Presidency University,13,186,Other University,IIT <-> Other University,115,231,0.364,I157674215
+IIT Indore,Defence Metallurgical Research Laboratory,13,109,Other,IIT <-> Other,43,140,0.304,I202429437
+IIT Indore,Guru Ghasidas Vishwavidyalaya,12,1765,Other University,IIT <-> Other University,130,77,0.395,I26285277
+IIT Indore,Defence Institute of Advanced Technology,12,1110,Other,IIT <-> Other,205,94,0.579,I156406944
+IIT Indore,Indian Association for the Cultivation of Science,12,377,Other,IIT <-> Other,208,796,0.395,I165998391
+IIT Indore,Indian Institute of Technology Dharwad,12,220,IIT,,109,32,0.5,I4210152718
+IIT Indore,Armament Research and Development Establishment,12,148,Other,IIT <-> Other,42,35,0.439,I2801496733
+IIT Indore,"International Institute of Information Technology, Hyderabad",12,202,Other,IIT <-> Other,51,236,0.395,I64189192
+IIT Indore,Rajiv Gandhi Technical University,12,121,Other University,IIT <-> Other University,77,22,0.429,I196622127
+IIT Indore,"Birla Institute of Technology and Science, Pilani - Goa Campus",12,104,Other,IIT <-> Other,117,86,0.579,I4210148827
+IIT Indore,Physical Research Laboratory,12,85,Other,IIT <-> Other,92,279,0.277,I121502294
+IIT Indore,Saha Institute of Nuclear Physics,12,79,DAE,IIT <-> DAE,93,270,0.395,I16019930
+IIT Indore,University of Kashmir,11,1005,Other University,IIT <-> Other University,250,206,0.304,I135388327
+IIT Indore,"Institute of Physics, Bhubaneshwar",11,991,Other,IIT <-> Other,55,1138,0.364,I40912709
+IIT Indore,National Chemical Laboratory,11,363,Other,IIT <-> Other,110,588,0.277,I3125981224
+IIT Indore,Indian Statistical Institute,11,109,Premier Science,IIT <-> Premier Science,236,270,0.224,I6498739
+IIT Indore,Harish-Chandra Research Institute,11,421,DAE,IIT <-> DAE,61,93,0.25,I35409948
+IIT Indore,Amrita Vishwa Vidyapeetham,11,151,Other,IIT <-> Other,467,236,0.364,I81556334
+IIT Indore,Indian Institute of Technology Goa,11,167,IIT,,84,82,0.463,I4210112052
+IIT Indore,Vikram Sarabhai Space Centre,11,97,ISRO/DRDO,IIT <-> ISRO/DRDO,48,128,0.667,I71374576
+IIT Indore,National Institute of Technology Durgapur,11,121,NIT,IIT <-> NIT,257,194,0.538,I155837530
+IIT Indore,Jaypee Institute of Information Technology,11,172,Other,IIT <-> Other,170,135,0.364,I154970844
+IIT Indore,COEP Technological University,11,163,Other University,IIT <-> Other University,71,87,0.429,I4405273661
+IIT Indore,Narsee Monjee Institute of Management Studies,11,55,Other,IIT <-> Other,101,25,0.25,I226983648
+IIT Indore,Tezpur University,11,56,Other University,IIT <-> Other University,144,150,0.463,I126601174
+IIT Indore,Indian Institute of Science Education and Research Mohali,11,70,IISER,IIT <-> IISER,156,204,0.333,I165916956
+IIT Indore,Institute of Astronomy Space and Earth Science,11,46,Other,IIT <-> Other,11,15,0.325,I4405261168
+IIT Indore,Manipal Academy of Higher Education,11,26,Other,IIT <-> Other,557,268,0.224,I164861460
+IIT Indore,University of Hyderabad,10,292,Central University,IIT <-> Central University,174,312,0.395,I36893310
+IIT Indore,National Institute of Technology Patna,10,221,NIT,IIT <-> NIT,296,142,0.538,I11793825
+IIT Indore,Delhi Technological University,10,276,Other University,IIT <-> Other University,382,219,0.429,I863896202
+IIT Indore,Indian Institute of Geomagnetism,10,290,Other,IIT <-> Other,63,223,0.304,I4405266797
+IIT Indore,Central University of Tamil Nadu,10,120,Central University,IIT <-> Central University,100,85,0.277,I112471378
+IIT Indore,Babasaheb Bhimrao Ambedkar University,10,44,Other University,IIT <-> Other University,68,56,0.304,I143247161
+IIT Indore,M.J.P. Rohilkhand University,10,108,Other University,IIT <-> Other University,154,20,0.277,I139858224
+IIT Indore,Dibrugarh University,10,53,Other University,IIT <-> Other University,86,43,0.25,I64128412
+IIT Indore,Indian Institute of Information Technology Bhopal,10,13,IIIT,IIT <-> IIIT,78,9,0.304,I4405259253
+IIT Indore,Central University of Haryana,9,233,Central University,IIT <-> Central University,106,68,0.333,I4210133503
+IIT Indore,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,9,95,NIT,IIT <-> NIT,247,106,0.538,I70971781
+IIT Indore,Saveetha University,9,132,Other University,IIT <-> Other University,748,198,0.364,I85461943
+IIT Indore,Siksha O Anusandhan University,9,75,Other University,IIT <-> Other University,335,163,0.333,I193073490
+IIT Indore,Department of Atomic Energy,9,180,DAE,IIT <-> DAE,64,168,0.395,I3149292468
+IIT Indore,Inter-University Accelerator Centre,9,141,Other University,IIT <-> Other University,58,144,0.364,I4210089002
+IIT Indore,Indian Institute of Information Technology Surat,9,73,IIIT,IIT <-> IIIT,38,33,0.304,I4405261310
+IIT Indore,Bharathidasan University,9,127,Other University,IIT <-> Other University,221,209,0.25,I4076070
+IIT Indore,Ministry of Earth Sciences,9,104,Other,IIT <-> Other,203,268,0.25,I4210100914
+IIT Indore,National Institute of Hydrology,8,977,Other,IIT <-> Other,190,379,0.176,I4210147361
+IIT Indore,Central Salt and Marine Chemicals Research Institute,8,521,Other,IIT <-> Other,164,211,0.25,I128420443
+IIT Indore,University of Petroleum and Energy Studies,8,236,Other University,IIT <-> Other University,313,146,0.463,I5847235
+IIT Indore,Central Drug Research Institute,8,180,Other,IIT <-> Other,29,97,0.111,I185249246
+IIT Indore,Sri Sivasubramaniya Nadar College of Engineering,8,66,Other,IIT <-> Other,174,82,0.538,I916357946
+IIT Indore,"SRM University, Andhra Pradesh",8,102,Other University,IIT <-> Other University,145,56,0.395,I4210100463
+IIT Indore,SRM University,8,84,Other University,IIT <-> Other University,106,108,0.429,I4210131147
+IIT Indore,North Eastern Regional Institute of Science and Technology,8,199,Other,IIT <-> Other,66,44,0.538,I160302567
+IIT Indore,VIT Bhopal University,8,52,Other University,IIT <-> Other University,143,25,0.395,I4405263090
+IIT Indore,University Grants Commission,8,171,Other University,IIT <-> Other University,90,146,0.224,I21131202
+IIT Indore,Maharaja Sayajirao University of Baroda,8,151,Other University,IIT <-> Other University,84,110,0.395,I110116418
+IIT Indore,G.B. Pant Institute of Himalayan Environment and Development,8,85,Other,IIT <-> Other,98,97,0.132,I4210163968
+IIT Indore,Chaitanya Bharathi Institute of Technology,8,41,Other,IIT <-> Other,81,18,0.463,I134892692
+IIT Indore,Odisha University of Agriculture and Technology,8,68,Other University,IIT <-> Other University,36,21,0.2,I13567498
+IIT Indore,Sikkim Manipal University,8,37,Other University,IIT <-> Other University,46,25,0.304,I81433678
+IIT Indore,Lovely Professional University,7,162,Other University,IIT <-> Other University,415,144,0.429,I110360157
+IIT Indore,Mandsaur University,7,145,Other University,IIT <-> Other University,82,36,0.224,I4405266177
+IIT Indore,Wadia Institute of Himalayan Geology,7,923,Other,IIT <-> Other,136,242,0.224,I1337471766
+IIT Indore,"Birla Institute of Technology, Mesra",7,213,Other,IIT <-> Other,234,148,0.579,I115715567
+IIT Indore,National Institute of Technology Karnataka,7,161,NIT,IIT <-> NIT,292,251,0.579,I11880225
+IIT Indore,Indira Gandhi Centre for Atomic Research,7,144,DAE,IIT <-> DAE,64,156,0.395,I2802630050
+IIT Indore,Sardar Patel University,7,166,Other University,IIT <-> Other University,66,57,0.333,I57085157
+IIT Indore,Chandigarh University,7,165,Other University,IIT <-> Other University,588,122,0.395,I101407740
+IIT Indore,Veer Surendra Sai University of Technology,7,202,Other University,IIT <-> Other University,87,73,0.5,I185065464
+IIT Indore,Advanced Materials and Processes Research Institute,7,120,Other,IIT <-> Other,47,52,0.429,I115635661
+IIT Indore,Indira Gandhi National Tribal University,7,84,Other University,IIT <-> Other University,49,27,0.333,I296362101
+IIT Indore,"Centre for Fire, Explosive and Environment Safety",7,65,Other,IIT <-> Other,19,16,0.429,I4210153539
+IIT Indore,Jabalpur Engineering College,7,19,Other,IIT <-> Other,22,17,0.429,I4405253601
+IIT Indore,Motilal Nehru National Institute of Technology,7,74,NIT,IIT <-> NIT,262,158,0.579,I152869788
+IIT Indore,Central Council for Research in Ayurvedic Science,7,24,Other,IIT <-> Other,23,15,0.091,I4210089662
+IIT Indore,"Indian Institute of Information Technology, Nagpur",7,18,IIIT,IIT <-> IIIT,74,7,0.364,I4210138251
+IIT Indore,National Environmental Engineering Research Institute,6,210,Other,IIT <-> Other,38,93,0.277,I170347488
+IIT Indore,International Institute for Population Sciences,6,170,Other,IIT <-> Other,42,143,0.0,I197882922
+IIT Indore,North East Institute of Science and Technology,6,77,Other,IIT <-> Other,57,101,0.333,I2800857658
+IIT Indore,"Anna University, Chennai",6,79,Other University,IIT <-> Other University,292,404,0.5,I33585257
+IIT Indore,Graphic Era University,6,67,Other University,IIT <-> Other University,341,45,0.395,I60054993
+IIT Indore,Department of Science and Technology,6,93,Other,IIT <-> Other,79,84,0.304,I4210098748
+IIT Indore,Entrepreneurship Development Institute of India,6,144,Other,IIT <-> Other,4,0,0.034,I2801155476
+IIT Indore,Siddaganga Institute of Technology,6,76,Other,IIT <-> Other,46,50,0.538,I4387153738
+IIT Indore,Goa University,6,58,Other University,IIT <-> Other University,51,73,0.304,I140887281
+IIT Indore,Hindustan Institute of Technology and Science,6,57,Other,IIT <-> Other,62,42,0.463,I43663321
+IIT Indore,Institute of Medical Sciences and Sum Hospital,6,49,Other,IIT <-> Other,40,20,0.091,I4210133319
+IIT Indore,Swami Rama Himalayan University,6,45,Other University,IIT <-> Other University,54,26,0.091,I2802000655
+IIT Indore,North Eastern Hill University,6,33,Other University,IIT <-> Other University,94,65,0.333,I197465736
+IIT Indore,Indian Agricultural Statistics Research Institute,6,57,Other,IIT <-> Other,48,24,0.154,I1141210
+IIT Indore,Institute of Mathematical Sciences,6,19,DAE,IIT <-> DAE,29,106,0.25,I59611059
+IIT Indore,"National Institute of Technical Teachers Training and Research, Chandigarh",6,42,Other,IIT <-> Other,62,24,0.429,I4210094717
+IIT Indore,Aryabhatta Research Institute of Observational Sciences,6,31,Other,IIT <-> Other,35,76,0.333,I2803025293
+IIT Indore,Center for Excellence in Basic Sciences,6,5,Other,IIT <-> Other,27,51,0.277,I4210156819
+IIT Indore,National Centre for Polar and Ocean Research,6,6,Other,IIT <-> Other,82,100,0.2,I106814784
+IIT Indore,University of Gour Banga,5,816,Other University,IIT <-> Other University,68,80,0.224,I33932797
+IIT Indore,Centurion University of Technology and Management,5,161,Other University,IIT <-> Other University,138,35,0.364,I47639616
+IIT Indore,Himachal Pradesh University,5,162,Other University,IIT <-> Other University,56,39,0.333,I904467727
+IIT Indore,Amity University Gurugram,5,176,Other University,IIT <-> Other University,56,37,0.395,I4405262955
+IIT Indore,Bundelkhand University,5,185,Other University,IIT <-> Other University,35,20,0.333,I190570697
+IIT Indore,TCG Crest,5,183,Other,IIT <-> Other,37,27,0.333,I4210159890
+IIT Indore,National Institute of Construction Management and Research,5,74,Other,IIT <-> Other,23,5,0.132,I4210092165
+IIT Indore,Parala Maharaja Engineering College,5,135,Other,IIT <-> Other,41,14,0.395,I4405275678
+IIT Indore,"Indian Institute of Science Education and Research, Tirupati",5,73,IISER,IIT <-> IISER,107,123,0.364,I4210140410
+IIT Indore,"MIT Art, Design and Technology University",5,29,Other University,IIT <-> Other University,37,6,0.333,I4210162439
+IIT Indore,Central Mechanical Engineering Research Institute,5,99,Other,IIT <-> Other,104,100,0.5,I70735523
+IIT Indore,Dehradun Institute of Technology University,5,104,Other University,IIT <-> Other University,143,66,0.463,I933318745
+IIT Indore,Tata Institute of Social Sciences,5,26,Other,IIT <-> Other,7,32,0.017,I79741504
+IIT Indore,U. R. Rao Satellite Centre,5,27,Other,IIT <-> Other,18,56,0.538,I4405258076
+IIT Indore,Indian Institute of Remote Sensing,5,36,Other,IIT <-> Other,66,111,0.176,I51281103
+IIT Indore,Banwarilal Bhalotia College,5,63,Other,IIT <-> Other,45,110,0.304,I4405277887
+IIT Indore,Ashoka University,5,35,Other University,IIT <-> Other University,21,22,0.111,I347237974
+IIT Indore,Punjab Engineering College,5,25,Other,IIT <-> Other,89,119,0.579,I860003557
+IIT Indore,Christ University,5,17,Other University,IIT <-> Other University,184,74,0.277,I48018076
+IIT Indore,University of Kalyani,5,45,Other University,IIT <-> Other University,116,105,0.395,I77501641
+IIT Indore,"Indian Institute of Engineering Science and Technology, Shibpur",5,32,Other,IIT <-> Other,140,245,0.579,I98365261
+IIT Indore,Pandit Ravishankar Shukla University,5,28,Other University,IIT <-> Other University,25,37,0.277,I38192578
+IIT Indore,GITAM University,4,208,Other University,IIT <-> Other University,174,57,0.429,I885392262
+IIT Indore,"Kasturba Medical College, Manipal",4,266,Medical,IIT <-> Medical,68,92,0.034,I76414455
+IIT Indore,National Institute of Disaster Management,4,259,Other,IIT <-> Other,77,27,0.111,I242113363
+IIT Indore,International Centre for Genetic Engineering and Biotechnology,4,156,Other,IIT <-> Other,23,91,0.132,I4210142124
+IIT Indore,National Institute of Technology Andhra Pradesh,4,273,NIT,IIT <-> NIT,70,41,0.538,I4210153924
+IIT Indore,Guru Gobind Singh Indraprastha University,4,139,Other University,IIT <-> Other University,81,71,0.333,I105454292
+IIT Indore,Aliah University,4,122,Other University,IIT <-> Other University,53,28,0.429,I180765649
+IIT Indore,Jawaharlal Nehru Centre for Advanced Scientific Research,4,112,Premier Science,IIT <-> Premier Science,74,478,0.25,I147481903
+IIT Indore,National Institute for Interdisciplinary Science and Technology,4,135,Other,IIT <-> Other,48,238,0.304,I146682468
+IIT Indore,Centre for Materials for Electronics Technology,4,140,Other,IIT <-> Other,30,66,0.333,I4210118327
+IIT Indore,Glocal University,4,119,Other University,IIT <-> Other University,28,18,0.304,I3130698519
+IIT Indore,JSPM University,4,107,Other University,IIT <-> Other University,32,16,0.304,I4405285342
+IIT Indore,National Metallurgical Laboratory,4,45,Other,IIT <-> Other,27,109,0.429,I4210111921
+IIT Indore,Uttarakhand Technical University,4,157,Other University,IIT <-> Other University,43,72,0.395,I201750527
+IIT Indore,Poornima University,4,83,Other University,IIT <-> Other University,59,25,0.277,I4210126659
+IIT Indore,International Advanced Research Centre for Powder Metallurgy and New Materials,4,84,Other,IIT <-> Other,28,142,0.333,I4210103291
+IIT Indore,Rashtrasant Tukadoji Maharaj Nagpur University,4,48,Other University,IIT <-> Other University,70,69,0.463,I133978751
+IIT Indore,Gautam Buddha University,4,40,Other University,IIT <-> Other University,92,26,0.463,I72769676
+IIT Indore,Defence Research and Development Establishment,4,29,ISRO/DRDO,IIT <-> ISRO/DRDO,29,16,0.2,I2800900741
+IIT Indore,Amity University Mumbai,4,36,Other University,IIT <-> Other University,31,21,0.304,I4405262953
+IIT Indore,National Institute of Technology Calicut,4,18,NIT,IIT <-> NIT,265,148,0.667,I114845381
+IIT Indore,Central University of Jharkhand,4,16,Central University,IIT <-> Central University,89,66,0.395,I175970653
+IIT Indore,National Centre for Cell Science,4,16,Other,IIT <-> Other,9,16,0.111,I4210104670
+IIT Indore,Teerthanker Mahaveer University,4,7,Other University,IIT <-> Other University,42,1,0.2,I134705546
+IIT Indore,Bharat Electronics (India),4,11,Other,IIT <-> Other,5,46,0.304,I114602248
+IIT Indore,Integral University,4,4,Other University,IIT <-> Other University,63,20,0.304,I189949046
+IIT Indore,Deenbandhu Chhotu Ram University of Science and Technology,4,32,Other University,IIT <-> Other University,123,45,0.429,I253188195
+IIT Indore,Research Centre Imarat,4,37,Other,IIT <-> Other,3,2,0.395,I4210138561
+IIT Indore,Intel (India),4,32,Other,IIT <-> Other,17,17,0.395,I4210146682
+IIT Indore,SR University,4,1,Other University,IIT <-> Other University,154,21,0.333,I4405263155
+IIT Indore,Central University of Jammu,3,173,Central University,IIT <-> Central University,76,25,0.463,I4210142231
+IIT Indore,Ministry of Home Affairs,3,295,Other,IIT <-> Other,69,15,0.176,I4405266773
+IIT Indore,Sikkim University,3,237,Other University,IIT <-> Other University,74,41,0.277,I43475992
+IIT Indore,CUTS International,3,208,Other,IIT <-> Other,0,0,0.043,I4210130568
+IIT Indore,National Institute of Technology Goa,3,162,NIT,IIT <-> NIT,56,41,0.429,I4210109276
+IIT Indore,Sam Higginbottom Institute of Agriculture,3,164,Other,IIT <-> Other,32,32,0.304,I223959643
+IIT Indore,REVA University,3,96,Other University,IIT <-> Other University,103,45,0.5,I83737708
+IIT Indore,Tata Consultancy Services (India),3,70,Other,IIT <-> Other,33,33,0.333,I55215948
+IIT Indore,University of Burdwan,3,118,Other University,IIT <-> Other University,106,137,0.304,I132359460
+IIT Indore,Chhatrapati Shahu Ji Maharaj University,3,93,Other University,IIT <-> Other University,26,14,0.25,I229991691
+IIT Indore,University of Allahabad,3,98,Other University,IIT <-> Other University,161,118,0.429,I168893459
+IIT Indore,Dr. Hari Singh Gour University,3,114,Other University,IIT <-> Other University,70,72,0.2,I8977528
+IIT Indore,Shoolini University,3,118,Other University,IIT <-> Other University,118,76,0.304,I4210133311
+IIT Indore,Nitte Meenakshi Institute of Technology,3,96,Other,IIT <-> Other,73,17,0.463,I4405268608
+IIT Indore,PSG College of Technology,3,60,Other,IIT <-> Other,43,62,0.5,I4405254442
+IIT Indore,Chitkara University,3,54,Other University,IIT <-> Other University,422,72,0.364,I74319210
+IIT Indore,Indian Institute of Information Technology Ranchi,3,61,IIIT,IIT <-> IIIT,28,23,0.304,I4405284359
+IIT Indore,"Indian Institute of Information Technology, Sonepat",3,49,IIIT,IIT <-> IIIT,17,6,0.277,I4405255737
+IIT Indore,Galgotias University,3,45,Other University,IIT <-> Other University,156,18,0.304,I155125381
+IIT Indore,Indian Institute of Chemical Technology,3,43,Other,IIT <-> Other,158,386,0.333,I55664587
+IIT Indore,Ananda Mohan College,3,90,Other,IIT <-> Other,9,13,0.25,I4405271948
+IIT Indore,Bharat Forge (India),3,87,Other,IIT <-> Other,0,45,0.186,I4210089955
+IIT Indore,Atal Bihari Vajpayee Institute of Medical Sciences and Dr. Ram Manohar Lohia Hospital,3,110,Other,IIT <-> Other,21,33,0.017,I2800585909
+IIT Indore,Institute for Plasma Research,3,60,Other,IIT <-> Other,27,49,0.429,I4210106276
+IIT Indore,Indian Institute of Space Science and Technology,3,40,Other,IIT <-> Other,41,104,0.579,I882761360
+IIT Indore,West Bengal State University,3,50,Other University,IIT <-> Other University,13,26,0.176,I55862774
+IIT Indore,Dr. Daulatrao Aher College of Engineering,3,50,Other,IIT <-> Other,1,1,0.277,I4405260234
+IIT Indore,SASTRA University,3,28,Other University,IIT <-> Other University,209,169,0.463,I932239252
+IIT Indore,University of Madras,3,33,Other University,IIT <-> Other University,135,229,0.333,I215927
+IIT Indore,Electronics and Radar Development Establishment,3,22,Other,IIT <-> Other,7,2,0.302,I4210086621
+IIT Indore,Indian Institute of Vegetable Research,3,21,Other,IIT <-> Other,19,10,0.091,I4210126648
+IIT Indore,Symbiosis International University,3,29,Other University,IIT <-> Other University,177,60,0.2,I244572783
+IIT Indore,Nirma University,3,26,Other University,IIT <-> Other University,58,41,0.333,I165831266
+IIT Indore,Indian Council of Medical Research,3,15,Medical,IIT <-> Medical,56,71,0.034,I37048141
+IIT Indore,"Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore",3,12,Other University,IIT <-> Other University,15,4,0.304,I4405260892
+IIT Indore,Indian Institute of Information Technology Guwahati,3,9,IIIT,IIT <-> IIIT,40,26,0.277,I4210089896
+IIT Indore,"All India Institute of Medical Sciences, Patna",3,20,Medical,IIT <-> Medical,15,9,0.034,I4405266460
+IIT Indore,Cochin University of Science and Technology,3,19,Other University,IIT <-> Other University,123,140,0.579,I20497027
+IIT Indore,Mahaveer University,3,6,Other University,IIT <-> Other University,37,2,0.304,I4405260859
+IIT Indore,Indian Institute of Tropical Meteorology,3,26,Other,IIT <-> Other,69,318,0.224,I1333651918
+IIT Indore,Tilka Manjhi Bhagalpur University,3,22,Other University,IIT <-> Other University,10,7,0.176,I96307353
+IIT Indore,Sant Longowal Institute of Engineering and Technology,3,30,Other,IIT <-> Other,54,65,0.395,I63568130
+IIT Indore,National Institute of Technical Teachers’ Training and Research,3,32,Other,IIT <-> Other,20,8,0.463,I4210094264
+IIT Indore,General Electric (India),3,16,Other,IIT <-> Other,1,11,0.277,I4210142581
+IIT Indore,Bharati Vidyapeeth (Deemed to be University),3,30,Other University,IIT <-> Other University,59,32,0.224,I887998513
+IIT Indore,University of Rajasthan,3,19,Other University,IIT <-> Other University,74,346,0.25,I99552915
+IIT Indore,Regional Centre for Biotechnology,3,16,Other,IIT <-> Other,35,20,0.132,I4210094671
+IIT Indore,Manipal Centre for Natural Sciences,3,10,Other,IIT <-> Other,21,7,0.25,I4405256109
+IIT Indore,Indian Institute of Management Raipur,3,8,IIM,IIT <-> IIM,21,4,0.091,I111245572
+IIT Indore,Indian Institute of Petroleum,3,3,Other,IIT <-> Other,26,46,0.333,I84279003
+IIT Indore,Deen Dayal Upadhyaya Gorakhpur University,3,13,Other University,IIT <-> Other University,39,25,0.25,I886702836
+IIT Indore,Murshidabad University,3,2,Other University,IIT <-> Other University,12,1,0.25,I4405268342
+IIT Indore,Central Institute of Agricultural Engineering,3,3,Other,IIT <-> Other,16,7,0.25,I138367206
+IIT Indore,PSG College of Arts & Science,3,23,Other,IIT <-> Other,25,10,0.333,I4405260672
+IIT Indore,National Institute of Science and Technology,2,344,Other,IIT <-> Other,14,54,0.463,I4210098947
+IIT Indore,South Asian University,2,315,Other University,IIT <-> Other University,79,116,0.2,I90425906
+IIT Indore,International Institute of Information Technology,2,259,Other,IIT <-> Other,34,13,0.304,I4210097016
+IIT Indore,Rungta College of Engineering and Technology,2,189,Other,IIT <-> Other,45,2,0.395,I4405258633
+IIT Indore,Kasturba Medical College Hospital,2,177,Medical,IIT <-> Medical,12,28,0.017,I4210094269
+IIT Indore,Indian Institute of Management Mumbai,2,117,IIM,IIT <-> IIM,12,12,0.132,I864998749
+IIT Indore,National Atmospheric Research Laboratory,2,146,Other,IIT <-> Other,8,91,0.333,I152870717
+IIT Indore,University of Kerala,2,77,Other University,IIT <-> Other University,99,103,0.364,I158338959
+IIT Indore,National Institute of Pharmaceutical Education and Research - Ahmedabad,2,79,Other,IIT <-> Other,21,18,0.154,I4210102411
+IIT Indore,RK University,2,58,Other University,IIT <-> Other University,14,5,0.364,I137674396
+IIT Indore,National Institute of Public Finance and Policy,2,75,Other,IIT <-> Other,0,4,0.034,I4899593
+IIT Indore,Aditya University,2,58,Other University,IIT <-> Other University,113,12,0.463,I4405262389
+IIT Indore,National Aerospace Laboratories,2,57,Other,IIT <-> Other,13,86,0.5,I1286499117
+IIT Indore,Techno India University,2,63,Other University,IIT <-> Other University,40,23,0.395,I1288043984
+IIT Indore,MIT World Peace University,2,32,Other University,IIT <-> Other University,96,17,0.364,I4210088227
+IIT Indore,"Jawaharlal Nehru Technological University, Kakinada",2,27,Other University,IIT <-> Other University,97,25,0.463,I142809039
+IIT Indore,Karpagam Academy of Higher Education,2,38,Other,IIT <-> Other,185,45,0.463,I65220239
+IIT Indore,University of Kota,2,22,Other University,IIT <-> Other University,41,7,0.277,I200561399
+IIT Indore,Centre for Development of Advanced Computing,2,26,Other,IIT <-> Other,41,32,0.364,I1331500379
+IIT Indore,Indian Institute of Science Education and Research Berhampur,2,20,IISER,IIT <-> IISER,86,55,0.364,I4210115612
+IIT Indore,Government of Maharashtra,2,119,Other,IIT <-> Other,24,14,0.25,I1315184752
+IIT Indore,Haldia Institute of Technology,2,124,Other,IIT <-> Other,47,36,0.429,I175399479
+IIT Indore,Mohanlal Sukhadia University,2,64,Other University,IIT <-> Other University,59,38,0.304,I43218427
+IIT Indore,Alagappa University,2,72,Other University,IIT <-> Other University,82,144,0.304,I131155284
+IIT Indore,Post Graduate Institute of Medical Education and Research,2,64,Other,IIT <-> Other,38,69,0.017,I45294948
+IIT Indore,Sathyabama Institute of Science and Technology,2,64,Other,IIT <-> Other,182,102,0.538,I43814544
+IIT Indore,Microsoft (India),2,38,Other,IIT <-> Other,5,13,0.25,I4210162141
+IIT Indore,Christian Medical College,2,35,Medical,IIT <-> Medical,1,5,0.0,I4210108783
+IIT Indore,National Institute of Technology Delhi,2,26,NIT,IIT <-> NIT,77,26,0.429,I44635919
+IIT Indore,PES University,2,22,Other University,IIT <-> Other University,39,18,0.463,I196608512
+IIT Indore,"Karmaveer Bhaurao Patil University, Satara",2,22,Other University,IIT <-> Other University,33,4,0.304,I4405284596
+IIT Indore,Indian Institute of Information Technology Una,2,24,IIIT,IIT <-> IIIT,24,7,0.364,I4210127244
+IIT Indore,Ashoka Trust for Research in Ecology and the Environment,2,34,Other,IIT <-> Other,6,22,0.071,I4210116320
+IIT Indore,Central Glass and Ceramic Research Institute,2,27,Other,IIT <-> Other,57,113,0.364,I1309307044
+IIT Indore,Central University of Karnataka,2,31,Central University,IIT <-> Central University,35,13,0.364,I106053113
+IIT Indore,Kumaun University,2,19,Other University,IIT <-> Other University,47,52,0.304,I119311299
+IIT Indore,Central Agricultural University,2,27,Other University,IIT <-> Other University,36,22,0.154,I76253773
+IIT Indore,Tata Memorial Hospital,2,23,Other,IIT <-> Other,4,37,0.034,I2800098698
+IIT Indore,"Advanced Centre for Treatment, Research and Education in Cancer",2,23,Other,IIT <-> Other,4,28,0.091,I4210157422
+IIT Indore,National Institution for Transforming India Aayog,2,20,Other,IIT <-> Other,6,4,0.071,I4210137148
+IIT Indore,Sharda University,2,18,Other University,IIT <-> Other University,143,91,0.364,I74885063
+IIT Indore,Berhampur University,2,20,Other University,IIT <-> Other University,22,18,0.277,I90752740
+IIT Indore,Dr. Ram Manohar Lohia Avadh University,2,13,Other University,IIT <-> Other University,20,9,0.364,I1337315214
+IIT Indore,"St. Xavier's College (Autonomous), Kolkata",2,13,Other,IIT <-> Other,18,12,0.2,I4405256019
+IIT Indore,"ICFAI University, Tripura",2,10,Other University,IIT <-> Other University,18,8,0.224,I173462786
+IIT Indore,Department of Space,2,9,Other,IIT <-> Other,8,22,0.364,I3148377317
+IIT Indore,North Eastern Space Applications Centre,2,11,ISRO/DRDO,IIT <-> ISRO/DRDO,24,21,0.277,I4210130634
+IIT Indore,Kannur University,2,11,Other University,IIT <-> Other University,10,19,0.333,I52703040
+IIT Indore,Vivekananda Global University,2,11,Other University,IIT <-> Other University,32,10,0.277,I4210125057
+IIT Indore,Amity University Chhatisgarh,2,5,Other University,IIT <-> Other University,14,4,0.2,I4405266109
+IIT Indore,Indian Institute of Forest Management,2,8,Other,IIT <-> Other,13,31,0.071,I176010741
+IIT Indore,Tropical Forest Research Institute,2,4,Other,IIT <-> Other,6,0,0.176,I1284847757
+IIT Indore,Indian Council of Forestry Research and Education,2,4,Other,IIT <-> Other,20,31,0.154,I1286922834
+IIT Indore,"St Joseph's University, Bengaluru, India",2,8,Other University,IIT <-> Other University,13,9,0.304,I4403928339
+IIT Indore,Fergusson College,2,31,Other,IIT <-> Other,8,10,0.333,I126227178
+IIT Indore,Institute of Medical Sciences,2,26,Other,IIT <-> Other,34,24,0.053,I51317819
+IIT Indore,Institute of Chemical Technology,2,39,Other,IIT <-> Other,144,150,0.304,I167751958
+IIT Indore,Centre for Cellular and Molecular Biology,2,34,Other,IIT <-> Other,17,31,0.132,I185638415
+IIT Indore,Central University of Himachal Pradesh,2,20,Central University,IIT <-> Central University,56,39,0.277,I180952551
+IIT Indore,Dr. A.P.J. Abdul Kalam Technical University,2,33,Other University,IIT <-> Other University,81,28,0.395,I116943215
+IIT Indore,Kamla Nehru Institute of Technology,2,24,Other,IIT <-> Other,36,5,0.364,I4405277966
+IIT Indore,Dayalbagh Educational Institute,2,24,Other,IIT <-> Other,21,25,0.333,I178254495
+IIT Indore,Mahatma Gandhi Memorial Medical College,2,16,Medical,IIT <-> Medical,3,1,0.0,I2801183603
+IIT Indore,Institute of Life Sciences,2,19,Other,IIT <-> Other,9,19,0.111,I4210118921
+IIT Indore,S.N. Bose National Centre for Basic Sciences,2,15,Premier Science,IIT <-> Premier Science,55,233,0.364,I77430839
+IIT Indore,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology,2,15,Other,IIT <-> Other,231,58,0.395,I1330855593
+IIT Indore,Institute of Microbial Technology,2,23,Other,IIT <-> Other,17,60,0.132,I4210147764
+IIT Indore,Govind Ballabh Pant University of Agriculture and Technology,2,40,Other University,IIT <-> Other University,43,89,0.277,I252758333
+IIT Indore,Jaypee University of Information Technology,2,16,Other University,IIT <-> Other University,48,61,0.395,I153954893
+IIT Indore,Marathwada Mitra Mandal's College of Engineering,2,8,Other,IIT <-> Other,23,5,0.395,I4405261723
+IIT Indore,Mohan Babu University,2,10,Other University,IIT <-> Other University,57,3,0.364,I4405270480
+IIT Indore,Indian Institute of Management Jammu,2,6,IIM,IIT <-> IIM,2,3,0.034,I4405255249
+IIT Indore,Ramaiah Institute of Technology,2,19,Other,IIT <-> Other,101,43,0.538,I4405255153
+IIT Indore,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,2,3,Other University,IIT <-> Other University,43,28,0.132,I1306687154
+IIT Indore,North Bengal University,2,7,Other University,IIT <-> Other University,91,59,0.333,I56090587
+IIT Indore,Maulana Azad National Urdu University,2,3,Other University,IIT <-> Other University,9,6,0.277,I3133391162
+IIT Indore,Government of India,2,5,Other,IIT <-> Other,112,132,0.224,I2799351866
+IIT Indore,"Indian Institute of Information Technology, Pune",2,6,IIIT,IIT <-> IIIT,30,9,0.304,I4210113821
+IIT Indore,Bankura University,2,1,Other University,IIT <-> Other University,10,3,0.277,I2801141804
+IIT Indore,Ministry of AYUSH,2,1,Other,IIT <-> Other,12,8,0.091,I4210124368
+IIT Indore,Madan Mohan Malaviya University of Technology,2,1,Other University,IIT <-> Other University,82,51,0.5,I2799532815
+IIT Indore,Tamil Nadu Agricultural University,2,1,Other University,IIT <-> Other University,33,29,0.176,I134900695
+IIT Indore,Jai Prakash University,2,5,Other University,IIT <-> Other University,7,3,0.2,I2914622271
+IIT Indore,Rathinam College of Arts & Science,2,1,Other,IIT <-> Other,9,0,0.224,I4405261075
+IIT Indore,Pondicherry University,2,5,Other University,IIT <-> Other University,107,164,0.364,I175691731
+IIT Indore,Dr. B.C. Roy Engineering College,2,1,Other,IIT <-> Other,9,8,0.364,I4405278150
+IIT Indore,Indian Institute of Management Ahmedabad,2,1,IIM,IIT <-> IIM,6,19,0.071,I150870154
+IIT Indore,B.S. Abdur Rahman Crescent Institute of Science & Technology,2,0,Other,IIT <-> Other,53,39,0.429,I94948490
+IIT Indore,National Institute of Mental Health and Neurosciences,2,0,Other,IIT <-> Other,14,24,0.034,I699696
+IIT Indore,Defence Research and Development Laboratory,2,0,ISRO/DRDO,IIT <-> ISRO/DRDO,2,9,0.364,I2800689258
+IIT Indore,Centre for Development of Telematics,2,7,Other,IIT <-> Other,5,6,0.262,I43909382
+IIT Indore,Research & Development Establishment (Engrs.),2,3,Other,IIT <-> Other,16,19,0.341,I4210099971
+IIT Indore,Electronics Corporation of India,2,0,Other,IIT <-> Other,0,2,0.277,I1336731492
+IIT Indore,Bhabha Atomic Research Center Hospital,2,0,DAE,IIT <-> DAE,2,7,0.25,I4210091849
+IIT Indore,Government of Sikkim,1,144,Other,IIT <-> Other,8,6,0.154,I2801028658
+IIT Indore,Akal University,1,29,Other University,IIT <-> Other University,10,5,0.25,I3132890203
+IIT Indore,Government of Himachal Pradesh,1,0,Other,IIT <-> Other,28,12,0.111,I4210098857
+IIT Indore,ICAR-Indian Institute of Farming Systems Research,1,103,Other,IIT <-> Other,3,5,0.176,I4405271402
+IIT Indore,Birla Global University,1,95,Other University,IIT <-> Other University,2,1,0.091,I4405266038
+IIT Indore,All India Institute of Medical Sciences Raipur,1,84,Medical,IIT <-> Medical,15,5,0.017,I129734738
+IIT Indore,B. V. Patel Pharmaceutical Education and Research Development Centre,1,76,Other,IIT <-> Other,0,3,0.132,I4210147659
+IIT Indore,"Centre for Incubation, Innovation, Research and Consultancy",1,73,Other,IIT <-> Other,19,20,0.538,I4405272881
+IIT Indore,WWF-India,1,68,Other,IIT <-> Other,2,14,0.111,I1329578906
+IIT Indore,IITB-Monash Research Academy,1,61,Other,IIT <-> Other,15,30,0.538,I2802772015
+IIT Indore,Geological Survey of India,1,59,Other,IIT <-> Other,45,56,0.224,I64389444
+IIT Indore,"Shri Yashwantrao Patil Science College, Solankur",1,59,Other,IIT <-> Other,12,0,0.256,I4405261849
+IIT Indore,Gujarat Technological University,1,56,Other University,IIT <-> Other University,45,29,0.364,I29563240
+IIT Indore,Krantiguru Shyamji Krishna Verma Kachchh University,1,47,Other University,IIT <-> Other University,0,4,0.176,I3129616761
+IIT Indore,"J.C. Bose University of Science & Technology, YMCA",1,44,Other University,IIT <-> Other University,40,19,0.364,I55124831
+IIT Indore,All India Institute of Medical Sciences Bibinagar,1,43,Medical,IIT <-> Medical,6,2,0.017,I4405252828
+IIT Indore,Osmania University,1,35,Other University,IIT <-> Other University,62,83,0.395,I8975392
+IIT Indore,Siddhartha Academy of Higher Education,1,33,Other,IIT <-> Other,70,13,0.395,I4405262028
+IIT Indore,Bengaluru City University,1,32,Other University,IIT <-> Other University,3,5,0.304,I4405260856
+IIT Indore,New Horizon College of Engineering,1,27,Other,IIT <-> Other,54,9,0.395,I4405256925
+IIT Indore,Shri Neelkantheshwar Government Post-Graduate College,1,26,Other,IIT <-> Other,12,7,0.22,I4405258359
+IIT Indore,Nanaji Deshmukh Veterinary Science University,1,14,Other University,IIT <-> Other University,1,0,0.053,I4210156499
+IIT Indore,Netaji Subhas University,1,14,Other University,IIT <-> Other University,1,0,0.154,I4405283299
+IIT Indore,National Remote Sensing Centre,1,14,Other,IIT <-> Other,31,102,0.25,I1311524620
+IIT Indore,Foundation for Innovation and Technology Transfer,1,54,Other,IIT <-> Other,3,14,0.186,I4210119685
+IIT Indore,Defence Laboratory Jodhpur,1,50,Other,IIT <-> Other,7,11,0.395,I4210099439
+IIT Indore,TIFR Centre for Interdisciplinary Sciences,1,49,Other,IIT <-> Other,1,15,0.364,I4210112849
+IIT Indore,BML Munjal University,1,43,Other University,IIT <-> Other University,40,14,0.277,I1323093577
+IIT Indore,Dr. Homi Bhabha State University,1,36,DAE,IIT <-> DAE,35,20,0.304,I4405271898
+IIT Indore,Jaipur National University,1,35,Other University,IIT <-> Other University,23,9,0.2,I9223067
+IIT Indore,Bishop Heber College,1,33,Other,IIT <-> Other,26,14,0.25,I4405261969
+IIT Indore,Ahmedabad University,1,28,Other University,IIT <-> Other University,20,18,0.395,I52527943
+IIT Indore,XIM University,1,27,Other University,IIT <-> Other University,9,9,0.053,I4210137468
+IIT Indore,Institute of Genomics and Integrative Biology,1,26,Other,IIT <-> Other,21,64,0.111,I177828482
+IIT Indore,Punjab Technical University,1,26,Other University,IIT <-> Other University,43,31,0.429,I94616015
+IIT Indore,Jiwaji University,1,25,Other University,IIT <-> Other University,23,28,0.224,I102471911
+IIT Indore,National JALMA Institute for Leprosy & Other Mycobacterial Diseases,1,25,Other,IIT <-> Other,7,15,0.091,I4210132386
+IIT Indore,Rani Durgavati University,1,24,Other University,IIT <-> Other University,3,15,0.277,I234615573
+IIT Indore,National Institute of Immunology,1,22,Other,IIT <-> Other,21,28,0.132,I4210156726
+IIT Indore,Nalanda Open University,1,22,Other University,IIT <-> Other University,3,10,0.178,I4210129035
+IIT Indore,Chhattisgarh Swami Vivekanand Technical University,1,21,Other University,IIT <-> Other University,12,6,0.463,I2800818028
+IIT Indore,Larsen & Toubro (India),1,21,Other,IIT <-> Other,16,2,0.364,I4210116539
+IIT Indore,Rajah Serfoji Government College (Autonomous),1,20,Other,IIT <-> Other,20,1,0.277,I4405255148
+IIT Indore,Shri Vishwakarma Skill University,1,18,Other University,IIT <-> Other University,5,2,0.25,I4210137508
+IIT Indore,KLE Technological University,1,18,Other University,IIT <-> Other University,63,51,0.463,I3132975163
+IIT Indore,Goalpara College,1,16,Other,IIT <-> Other,5,4,0.2,I4405260027
+IIT Indore,Mizoram University,1,16,Other University,IIT <-> Other University,58,22,0.304,I195459967
+IIT Indore,Ramakrishna Mission Vivekananda Centenary College,1,16,Other,IIT <-> Other,43,11,0.25,I4405270341
+IIT Indore,Shri Shikshayatan College,1,16,Other,IIT <-> Other,1,1,0.075,I4405280461
+IIT Indore,Tata Steel (India),1,12,Other,IIT <-> Other,33,102,0.429,I87816474
+IIT Indore,"Annasaheb Magar Mahavidyalaya, Hadapsar, Pune",1,12,Other,IIT <-> Other,3,1,0.25,I4405258223
+IIT Indore,Central Forensic Science Laboratory,1,11,Other,IIT <-> Other,11,4,0.2,I2800034660
+IIT Indore,Safdarjang Hospital,1,10,Other,IIT <-> Other,12,17,0.017,I1312996466
+IIT Indore,National Institute of Pathology,1,10,Other,IIT <-> Other,16,15,0.071,I4210096777
+IIT Indore,Kalpavriksh,1,9,Other,IIT <-> Other,3,2,0.25,I4210148176
+IIT Indore,Institute for Social and Economic Change,1,9,Other,IIT <-> Other,16,25,0.034,I4210092443
+IIT Indore,Kerala Agricultural University,1,9,Other University,IIT <-> Other University,9,14,0.154,I54021868
+IIT Indore,Islamic University of Science and Technology,1,9,Other University,IIT <-> Other University,47,22,0.429,I4264650
+IIT Indore,National Institute of Technology Agartala,1,8,NIT,IIT <-> NIT,78,50,0.463,I196486160
+IIT Indore,Silchar Medical College and Hospital,1,7,Medical,IIT <-> Medical,10,7,0.017,I2802488231
+IIT Indore,Institute of Advanced Study in Science and Technology,1,6,Other,IIT <-> Other,33,35,0.304,I4210148816
+IIT Indore,Cotton University,1,6,Other University,IIT <-> Other University,32,32,0.304,I4210102512
+IIT Indore,"Army Institute of Technology, Pune",1,6,Other,IIT <-> Other,8,1,0.364,I4405285474
+IIT Indore,Reliance Industries (India),1,5,Other,IIT <-> Other,9,21,0.364,I4210136064
+IIT Indore,Cluster University Srinagar,1,5,Other University,IIT <-> Other University,4,2,0.25,I4210099876
+IIT Indore,Sri Pratap College,1,5,Other,IIT <-> Other,5,6,0.304,I4405274834
+IIT Indore,Abasaheb Garware College,1,25,Other,IIT <-> Other,11,14,0.25,I183970581
+IIT Indore,Maharaja Ranjit Singh Punjab Technical University,1,23,Other University,IIT <-> Other University,15,12,0.364,I4210136518
+IIT Indore,Premium Serums & Vaccines Pvt. Ltd. (India),1,23,Other,IIT <-> Other,9,1,0.065,I4405259454
+IIT Indore,India Meteorological Department,1,22,Other,IIT <-> Other,53,216,0.25,I2802599571
+IIT Indore,Vels University,1,19,Other University,IIT <-> Other University,75,15,0.277,I138876546
+IIT Indore,"Indian Statistical Institute, Delhi Centre",1,17,Premier Science,IIT <-> Premier Science,4,10,0.071,I4405279484
+IIT Indore,Swami Vivekanand College of Pharmacy,1,16,Other,IIT <-> Other,2,2,0.111,I4210115326
+IIT Indore,Maharaja Yeshwantrao Hospital,1,16,Other,IIT <-> Other,0,2,0.017,I2899701089
+IIT Indore,Dr. Babasaheb Ambedkar Marathwada University,1,16,Other University,IIT <-> Other University,55,68,0.364,I165259314
+IIT Indore,"Christian Medical College, Vellore",1,15,Medical,IIT <-> Medical,5,29,0.017,I172917736
+IIT Indore,Rama University,1,15,Other University,IIT <-> Other University,2,2,0.25,I2799634920
+IIT Indore,Assam Down Town University,1,11,Other University,IIT <-> Other University,71,9,0.25,I49068896
+IIT Indore,National Brain Research Centre,1,11,Other,IIT <-> Other,23,38,0.091,I85332549
+IIT Indore,Charotar University of Science and Technology,1,11,Other University,IIT <-> Other University,38,37,0.463,I33459947
+IIT Indore,Visva-Bharati University,1,11,Other University,IIT <-> Other University,135,166,0.304,I130291710
+IIT Indore,"Index Medical College, Hospital & Research Centre",1,9,Medical,IIT <-> Medical,9,4,0.0,I4210115159
+IIT Indore,University of Engineering & Management,1,8,Other University,IIT <-> Other University,59,23,0.429,I1296725772
+IIT Indore,Soban Singh Jeena University,1,6,Other University,IIT <-> Other University,39,4,0.224,I4405260884
+IIT Indore,Indian Institute of Soil Science,1,6,Other,IIT <-> Other,10,10,0.154,I173432400
+IIT Indore,D. Y. Patil Agriculture and Technical University,1,6,Other University,IIT <-> Other University,5,0,0.25,I4405273925
+IIT Indore,National Institute of Technology Nagaland,1,5,NIT,IIT <-> NIT,21,13,0.463,I3131484930
+IIT Indore,National Institute of Urban Affairs,1,4,Other,IIT <-> Other,1,2,0.093,I4210129587
+IIT Indore,Sree Sankaracharya University of Sanskrit,1,4,Other University,IIT <-> Other University,0,2,0.111,I3131318560
+IIT Indore,King George's Medical University,1,3,Other University,IIT <-> Other University,18,22,0.017,I280994
+IIT Indore,Sarojini Naidu Medical College,1,3,Medical,IIT <-> Medical,0,0,0.017,I2799711398
+IIT Indore,Government of West Bengal,1,3,Other,IIT <-> Other,33,44,0.25,I2801424531
+IIT Indore,IBM (India),1,16,Other,IIT <-> Other,0,41,0.304,I4210129961
+IIT Indore,JECRC University,1,16,Other University,IIT <-> Other University,51,8,0.333,I3131927718
+IIT Indore,Institute of Rural Management Anand,1,11,Other,IIT <-> Other,4,13,0.053,I180801515
+IIT Indore,Institute of Molecular Medicine,1,10,Other,IIT <-> Other,5,5,0.111,I4210146488
+IIT Indore,Centre For Development Studies,1,9,Other,IIT <-> Other,2,22,0.017,I157886920
+IIT Indore,Bhartiya Skill Development University,1,9,Other University,IIT <-> Other University,1,0,0.176,I3133421068
+IIT Indore,Sri Venkateswara Institute of Medical Sciences,1,7,Other,IIT <-> Other,3,10,0.034,I107740395
+IIT Indore,National Institute of Technology Arunachal Pradesh,1,7,NIT,IIT <-> NIT,111,66,0.395,I57496824
+IIT Indore,National Institute for Implementation Research on Non-Communicable Diseases,1,7,Other,IIT <-> Other,2,4,0.053,I4210158034
+IIT Indore,International Management Institute,1,7,Other,IIT <-> Other,9,0,0.034,I158867519
+IIT Indore,D.Y. Patil University,1,6,Other University,IIT <-> Other University,32,9,0.176,I4210153931
+IIT Indore,M S Ramaiah University of Applied Sciences,1,5,Other University,IIT <-> Other University,39,6,0.333,I302410947
+IIT Indore,Dr. Babasaheb Ambedkar Technological University,1,5,Other University,IIT <-> Other University,15,10,0.463,I132157868
+IIT Indore,Qure.ai Technologies Private Limited (India),1,4,Other,IIT <-> Other,4,3,0.132,I4405267437
+IIT Indore,Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry,1,4,Other University,IIT <-> Other University,32,5,0.154,I4210095517
+IIT Indore,Central Leather Research Institute,1,3,Other,IIT <-> Other,27,72,0.364,I112576028
+IIT Indore,Adamas University,1,3,Other University,IIT <-> Other University,26,23,0.304,I3130244785
+IIT Indore,Adichunchanagiri University,1,3,Other University,IIT <-> Other University,16,2,0.395,I4405285236
+IIT Indore,Gujarat Biotechnology Research Centre,1,3,Other,IIT <-> Other,5,2,0.111,I4405268643
+IIT Indore,"Marwari College, Darbhanga",1,2,Other,IIT <-> Other,4,4,0.227,I4405262933
+IIT Indore,Chaudhary Ranbir Singh University,1,2,Other University,IIT <-> Other University,2,3,0.132,I3129388638
+IIT Indore,Rayat Bahra University,1,2,Other University,IIT <-> Other University,27,5,0.395,I2801240201
+IIT Indore,Amity University Jaipur,1,11,Other University,IIT <-> Other University,17,12,0.395,I4405263076
+IIT Indore,National Institute of Malaria Research,1,8,Other,IIT <-> Other,5,14,0.111,I76782289
+IIT Indore,National Geophysical Research Institute,1,6,Other,IIT <-> Other,29,58,0.304,I22716965
+IIT Indore,KLE Academy of Higher Education and Research,1,5,Other,IIT <-> Other,17,16,0.111,I4210125823
+IIT Indore,Barkatullah University,1,3,Other University,IIT <-> Other University,18,28,0.176,I464993
+IIT Indore,All India Institute of Medical Sciences Bhubaneswar,1,3,Medical,IIT <-> Medical,5,6,0.017,I4210117092
+IIT Indore,Regional Medical Research Center,1,3,Other,IIT <-> Other,9,9,0.071,I2802952153
+IIT Indore,Centre for Economic and Social Studies,1,2,Other,IIT <-> Other,6,2,0.034,I75274968
+IIT Indore,Prananath College (Autonomous),1,2,Other,IIT <-> Other,1,0,0.065,I4405274855
+IIT Indore,Guru Nanak Institutions,1,2,Other,IIT <-> Other,19,2,0.333,I4210130653
+IIT Indore,Kashi Naresh Government Post Graduate College,1,2,Other,IIT <-> Other,21,3,0.304,I4405282218
+IIT Indore,Bidhan Chandra Krishi Viswavidyalaya,1,2,Other,IIT <-> Other,9,21,0.2,I109963156
+IIT Indore,National Institute of Food Technology Entrepreneurship and Management,1,2,Other,IIT <-> Other,16,9,0.2,I342702707
+IIT Indore,Chittaranjan National Cancer Institute,1,2,Other,IIT <-> Other,12,3,0.091,I2802271162
+IIT Indore,"Sri Balaji University, Pune",1,2,Other University,IIT <-> Other University,5,2,0.111,I4405260961
+IIT Indore,Udaipur Solar Observatory,1,1,Other,IIT <-> Other,6,42,0.22,I2799756756
+IIT Indore,Patna University,1,1,Other University,IIT <-> Other University,7,26,0.25,I2534966
+IIT Indore,JIS University,1,1,Other University,IIT <-> Other University,45,24,0.395,I4405256552
+IIT Indore,Dayananda Sagar University,1,1,Other University,IIT <-> Other University,48,19,0.333,I4400573291
+IIT Indore,Magadh University,1,1,Other University,IIT <-> Other University,25,5,0.2,I127727965
+IIT Indore,Dhirubhai Ambani University,1,1,Other University,IIT <-> Other University,15,21,0.395,I98389781
+IIT Indore,Guru Jambheshwar University Moradabad,1,1,Other University,IIT <-> Other University,0,0,0.188,I4405276444
+IIT Indore,Ramakrishna Mission Vidyamandira,1,1,Other,IIT <-> Other,11,13,0.304,I2799306724
+IIT Indore,Scientific Analysis Group,1,2,Other,IIT <-> Other,11,2,0.224,I4210120887
+IIT Indore,Ravenshaw University,1,2,Other University,IIT <-> Other University,20,8,0.25,I6013171
+IIT Indore,Indian Institute of Information Technology Kota,1,3,IIIT,IIT <-> IIIT,19,5,0.25,I4405265662
+IIT Indore,Mahatma Gandhi University,1,1,Other University,IIT <-> Other University,89,70,0.364,I177436651
+IIT Indore,"Kerala University of Digital Sciences, Innovation and Technology",1,1,Other University,IIT <-> Other University,24,4,0.364,I4405263365
+IIT Indore,"Indian Institute of Information Technology and Management, Kerala",1,1,IIIT,IIT <-> IIIT,4,9,0.304,I68695296
+IIT Indore,National AIDS Research Institute,1,1,Other,IIT <-> Other,3,0,0.053,I4210159305
+IIT Indore,Central Avian Research Institute,1,2,Other,IIT <-> Other,1,2,0.034,I48139335
+IIT Indore,"Jawaharlal Nehru Technological University, Hyderabad",1,1,Other University,IIT <-> Other University,84,64,0.538,I10874241
+IIT Indore,National Research Centre for Grapes,1,1,Other,IIT <-> Other,0,4,0.154,I4210091646
+IIT Indore,Indian Institute of Information Technology Lucknow,1,0,IIIT,IIT <-> IIIT,8,3,0.2,I4405256517
+IIT Indore,Datta Meghe Institute of Higher Education and Research,1,0,Other,IIT <-> Other,22,11,0.034,I4210130476
+IIT Indore,Indian Institute of Management Amritsar,1,0,IIM,IIT <-> IIM,4,0,0.091,I4210123047
+IIT Indore,Kameshwar Singh Darbhanga Sanskrit University,1,0,Other University,IIT <-> Other University,6,0,0.073,I4210129172
+IIT Indore,University of Calicut,1,0,Other University,IIT <-> Other University,52,49,0.277,I114176345
+IIT Indore,Kalasalingam Academy of Research and Education,1,0,Other,IIT <-> Other,124,55,0.429,I98499257
+IIT Indore,KPR Institute of Engineering and Technology,1,0,Other,IIT <-> Other,66,23,0.463,I4210133257
+IIT Indore,National Power Training Institute,1,0,Other,IIT <-> Other,11,0,0.189,I4210167178
+IIT Indore,Jaypee University Anoopshahr,1,0,Other University,IIT <-> Other University,12,1,0.429,I4405262404
+IIT Indore,Government of Tamil Nadu,1,0,Other,IIT <-> Other,86,26,0.364,I148776243
+IIT Indore,National Institute Of Veterinary Epidemiology And Disease Informatics,1,0,Other,IIT <-> Other,5,13,0.091,I4210160780
+IIT Indore,Assam Agricultural University,1,0,Other University,IIT <-> Other University,8,9,0.091,I35839044
+IIT Indore,Lalit Narayan Mithila University,1,0,Other University,IIT <-> Other University,26,3,0.2,I3130357712
+IIT Indore,Bharat Petroleum (India),1,0,Other,IIT <-> Other,7,2,0.333,I125565006
+IIT Indore,IILM Institute for Higher Education,1,0,Other,IIT <-> Other,8,1,0.2,I2801787918
+IIT Indore,"UGC-DAE Consortium for Scientific Research, Mumbai Centre",1,0,Other,IIT <-> Other,14,26,0.375,I4405260855
+IIT Indore,Central Scientific Instruments Organisation,1,0,Other,IIT <-> Other,68,86,0.395,I42095658
+IIT Indore,International Institute of Information Technology Bangalore,1,0,Other,IIT <-> Other,11,8,0.333,I181514455
+IIT Indore,Assam Science and Technology University,1,0,Other University,IIT <-> Other University,8,0,0.333,I4405257221
+IIT Indore,Centre for Artificial Intelligence and Robotics,1,0,Other,IIT <-> Other,0,0,0.333,I4210121405
+IIT Indore,Jamalpur Mahavidyalaya,1,0,Other,IIT <-> Other,0,0,0.059,I4405266054
+IIT Indore,Nizam's Institute of Medical Sciences,1,0,Other,IIT <-> Other,0,2,0.017,I139669409
+IIT Indore,GD Goenka University,1,0,Other University,IIT <-> Other University,11,8,0.224,I2802922787
+IIT Indore,ICFAI Foundation for Higher Education,1,0,Other,IIT <-> Other,20,18,0.2,I4210138731
+IIT Indore,Rajiv Gandhi Centre for Biotechnology,1,0,Other,IIT <-> Other,9,18,0.091,I89324447
+IIT Indore,Institute of Post Graduate Medical Education and Research,1,0,Other,IIT <-> Other,2,10,0.017,I4210100047
+IIT Indore,Central Building Research Institute,1,0,Other,IIT <-> Other,48,53,0.395,I2801347850
+IIT Indore,Ambedkar University Delhi,1,0,Other University,IIT <-> Other University,8,18,0.111,I190765188
+IIT Indore,Mahindra Group (India),1,0,Other,IIT <-> Other,5,1,0.224,I1336379959
+IIT Indore,Jawaharlal Nehru Technological University Anantapur,1,0,Other University,IIT <-> Other University,16,13,0.429,I52035452
+IIT Indore,D Y Patil International University,1,0,Other University,IIT <-> Other University,7,0,0.395,I4210096567
+IIT Indore,RV University,1,15,Other University,IIT <-> Other University,2,1,0.25,I4405257909
+IIT Indore,Indian Agricultural Research Institute,1,16,Other,IIT <-> Other,64,112,0.154,I45509622
+IIT Indore,Punjab Agricultural University,1,16,Other University,IIT <-> Other University,54,45,0.224,I899646
+IIT Indore,Solapur University,1,8,Other University,IIT <-> Other University,26,25,0.333,I155907036
+IIT Indore,"Jaypee University of Engineering and Technology, Guna",1,6,Other University,IIT <-> Other University,7,47,0.463,I25205351
+IIT Indore,"Indira Gandhi University, Meerpur",1,9,Other University,IIT <-> Other University,13,5,0.224,I4210142013
+IIT Indore,Artemis Hospitals,1,9,Other,IIT <-> Other,4,1,0.017,I4210165151
+IIT Indore,Woxsen School of Business,1,6,Other,IIT <-> Other,6,6,0.091,I3131870445
+IIT Indore,Institute for Development and Research in Banking Technology,1,10,Other,IIT <-> Other,33,47,0.146,I150312865
+IIT Indore,ISRO Propulsion Complex,1,3,ISRO/DRDO,IIT <-> ISRO/DRDO,3,6,0.463,I4210095388
+IIT Indore,Shri Vile Parle Kelavani Mandal,1,2,Other,IIT <-> Other,44,10,0.304,I4210132590
+IIT Indore,Government of Kerala,1,1,Other,IIT <-> Other,38,12,0.224,I2800731441
+IIT Indore,Bharath University,1,0,Other University,IIT <-> Other University,39,32,0.333,I860813019
+IIT Indore,Symbiosis University of Applied Sciences,1,0,Other University,IIT <-> Other University,3,1,0.176,I4405256131
+IIT Indore,Sitamarhi Institute of Technology,1,0,Other,IIT <-> Other,4,1,0.364,I4405260237
+IIT Indore,Indian Institute of Information Technology Vadodara,1,0,IIIT,IIT <-> IIIT,11,1,0.277,I4210100893
+IIT Indore,Rajiv Gandhi National Aviation University,1,0,Other University,IIT <-> Other University,3,0,0.156,I4405268448
+IIT Indore,"Vignan's Foundation for Science, Technology & Research",1,0,Other,IIT <-> Other,95,40,0.463,I149313025
+IIT Indore,Aeronautical Development Establishment,1,0,Other,IIT <-> Other,0,1,0.429,I4210093458
+IIT Indore,Central Institute of Medicinal and Aromatic Plants,1,0,Other,IIT <-> Other,9,8,0.132,I68145777
+IIT Mandi,Indian Institute of Technology Delhi,95,1161,IIT,,706,1067,0.579,I68891433
+IIT Mandi,Indian Institute of Technology Kanpur,89,1316,IIT,,382,1178,0.714,I94234084
+IIT Mandi,Indian Institute of Technology Ropar,84,1948,IIT,,347,462,0.622,I119241673
+IIT Mandi,Indian Institute of Technology Roorkee,74,887,IIT,,583,1509,0.622,I154851008
+IIT Mandi,Indian Institute of Technology Jodhpur,70,993,IIT,,341,298,0.667,I154549908
+IIT Mandi,Indian Institute of Technology Kharagpur,62,1197,IIT,,395,1182,0.579,I145894827
+IIT Mandi,Banaras Hindu University,45,926,Central University,IIT <-> Central University,405,510,0.333,I91357014
+IIT Mandi,Punjab Engineering College,45,353,Other,IIT <-> Other,306,133,0.579,I860003557
+IIT Mandi,Defence Research and Development Organisation,45,400,ISRO/DRDO,IIT <-> ISRO/DRDO,98,232,0.538,I1340206300
+IIT Mandi,Indian Institute of Technology Bombay,44,563,IIT,,337,959,0.667,I162827531
+IIT Mandi,National Institute of Technology Karnataka,42,492,NIT,IIT <-> NIT,182,358,0.538,I11880225
+IIT Mandi,Indian Institute of Technology Indore,41,740,IIT,,441,362,0.667,I64295750
+IIT Mandi,Indian Institute of Science Bangalore,38,958,IISc,IIT <-> IISc,368,1119,0.667,I59270414
+IIT Mandi,Council of Scientific and Industrial Research,38,904,CSIR,IIT <-> CSIR,282,776,0.364,I66760702
+IIT Mandi,Manipal Academy of Higher Education,36,431,Other,IIT <-> Other,284,165,0.277,I164861460
+IIT Mandi,Institute of Medical Sciences,34,710,Other,IIT <-> Other,103,98,0.071,I51317819
+IIT Mandi,Post Graduate Institute of Medical Education and Research,34,202,Other,IIT <-> Other,48,108,0.034,I45294948
+IIT Mandi,Homi Bhabha National Institute,32,543,DAE,IIT <-> DAE,303,213,0.395,I200207707
+IIT Mandi,Academy of Scientific and Innovative Research,31,398,Other,IIT <-> Other,463,569,0.333,I99364266
+IIT Mandi,Bhabha Atomic Research Centre,30,1174,DAE,IIT <-> DAE,296,589,0.395,I1329621470
+IIT Mandi,Indian Institute of Technology Madras,30,320,IIT,,340,982,0.579,I24676775
+IIT Mandi,Thapar Institute of Engineering & Technology,30,555,Other,IIT <-> Other,290,269,0.622,I162030827
+IIT Mandi,Indian Institute of Technology Guwahati,29,640,IIT,,314,540,0.538,I1317621060
+IIT Mandi,Indian Institute of Technology Patna,28,627,IIT,,191,181,0.714,I132153292
+IIT Mandi,Jawaharlal Nehru Centre for Advanced Scientific Research,26,1818,Premier Science,IIT <-> Premier Science,369,478,0.224,I147481903
+IIT Mandi,Central University of Rajasthan,26,646,Central University,IIT <-> Central University,102,133,0.429,I76777374
+IIT Mandi,Indian Institute of Technology Jammu,25,340,IIT,,79,39,0.667,I4210127441
+IIT Mandi,University of Delhi,23,407,Central University,IIT <-> Central University,374,469,0.333,I110166357
+IIT Mandi,Government of Himachal Pradesh,23,229,Other,IIT <-> Other,118,53,0.111,I4210098857
+IIT Mandi,National Institute of Technology Rourkela,22,307,NIT,IIT <-> NIT,354,344,0.5,I16292982
+IIT Mandi,Panjab University,22,342,Other University,IIT <-> Other University,181,239,0.333,I51452335
+IIT Mandi,National Institute of Technology Goa,22,222,NIT,IIT <-> NIT,67,44,0.538,I4210109276
+IIT Mandi,"Birla Institute of Technology and Science, Pilani",21,231,Other,IIT <-> Other,167,187,0.579,I74796645
+IIT Mandi,Chandigarh University,20,258,Other University,IIT <-> Other University,433,119,0.395,I101407740
+IIT Mandi,National Institute of Science Education and Research,19,314,DAE,IIT <-> DAE,82,115,0.304,I163389970
+IIT Mandi,SASTRA University,19,238,Other University,IIT <-> Other University,107,82,0.5,I932239252
+IIT Mandi,Institute of Nuclear Medicine & Allied Sciences,19,244,Other,IIT <-> Other,41,74,0.111,I4210114989
+IIT Mandi,Vellore Institute of Technology University,18,208,Other University,IIT <-> Other University,694,361,0.579,I876193797
+IIT Mandi,CSIR National Physical Laboratory of India,18,273,CSIR,IIT <-> CSIR,115,291,0.429,I88910343
+IIT Mandi,"International Institute of Information Technology, Hyderabad",18,147,Other,IIT <-> Other,13,125,0.429,I64189192
+IIT Mandi,Tata Institute of Fundamental Research,16,192,DAE,IIT <-> DAE,70,316,0.333,I11947397
+IIT Mandi,Malaviya National Institute of Technology Jaipur,16,776,NIT,IIT <-> NIT,215,125,0.579,I83205935
+IIT Mandi,Indian Institute of Technology BHU,15,340,IIT,,262,247,0.579,I56404289
+IIT Mandi,Siksha O Anusandhan University,15,77,Other University,IIT <-> Other University,214,143,0.364,I193073490
+IIT Mandi,Defence Terrain Research Laboratory,15,137,Other,IIT <-> Other,17,83,0.333,I4210112953
+IIT Mandi,Amity University,14,712,Other University,IIT <-> Other University,157,184,0.304,I191972202
+IIT Mandi,Indian Institute of Technology Bhilai,14,192,IIT,,43,31,0.463,I4210121466
+IIT Mandi,"Indian Institute of Science Education and Research, Bhopal",14,626,IISER,IIT <-> IISER,176,151,0.364,I288749910
+IIT Mandi,Central Power Research Institute,14,357,Other,IIT <-> Other,20,45,0.364,I109493002
+IIT Mandi,Institute of Himalayan Bioresource Technology,14,152,Other,IIT <-> Other,61,55,0.091,I4210128326
+IIT Mandi,University of Jammu,14,179,Other University,IIT <-> Other University,86,112,0.277,I145846420
+IIT Mandi,Central University of Himachal Pradesh,13,84,Central University,IIT <-> Central University,41,55,0.304,I180952551
+IIT Mandi,Indian Institute of Technology Dharwad,13,168,IIT,,41,13,0.538,I4210152718
+IIT Mandi,Robert Bosch (India),13,180,Other,IIT <-> Other,13,18,0.429,I4210151956
+IIT Mandi,National Institute Of Technology Silchar,12,191,Other,IIT <-> Other,172,139,0.579,I151903974
+IIT Mandi,Sant Longowal Institute of Engineering and Technology,12,263,Other,IIT <-> Other,24,63,0.395,I63568130
+IIT Mandi,Amrita Vishwa Vidyapeetham,12,146,Other,IIT <-> Other,175,103,0.429,I81556334
+IIT Mandi,STMicroelectronics (India),12,149,Other,IIT <-> Other,28,86,0.263,I4210094169
+IIT Mandi,Maharaja Surajmal Institute of Technology,11,357,Other,IIT <-> Other,105,34,0.333,I4405277354
+IIT Mandi,All India Institute of Medical Sciences,11,224,Medical,IIT <-> Medical,71,112,0.053,I63739035
+IIT Mandi,Indian Institute of Science Education and Research Mohali,11,155,IISER,IIT <-> IISER,100,126,0.304,I165916956
+IIT Mandi,Gautam Buddha University,10,183,Other University,IIT <-> Other University,27,49,0.463,I72769676
+IIT Mandi,Indian Institute of Technology Gandhinagar,10,461,IIT,,136,134,0.538,I27674431
+IIT Mandi,Yogi Vemana University,10,1037,Other University,IIT <-> Other University,145,152,0.333,I83073037
+IIT Mandi,Graphic Era University,10,104,Other University,IIT <-> Other University,118,43,0.395,I60054993
+IIT Mandi,Indian Institute of Technology Hyderabad,10,121,IIT,,179,160,0.622,I65181880
+IIT Mandi,Indian Association for the Cultivation of Science,10,211,Other,IIT <-> Other,143,277,0.333,I165998391
+IIT Mandi,Aligarh Muslim University,10,183,Central University,IIT <-> Central University,176,182,0.364,I171210897
+IIT Mandi,University of Hyderabad,9,84,Central University,IIT <-> Central University,98,173,0.429,I36893310
+IIT Mandi,Central University of Haryana,9,243,Central University,IIT <-> Central University,59,22,0.277,I4210133503
+IIT Mandi,Jadavpur University,9,219,Central University,IIT <-> Central University,218,259,0.538,I170979836
+IIT Mandi,Dr. B. R. Ambedkar National Institute of Technology Jalandhar,9,107,NIT,IIT <-> NIT,112,91,0.538,I70971781
+IIT Mandi,Indian Institute of Management Lucknow,9,199,IIM,IIT <-> IIM,25,27,0.071,I91699865
+IIT Mandi,Indian Institute of Technology Tirupati,9,117,IIT,,29,49,0.579,I4210109292
+IIT Mandi,Indian Institute of Science Education and Research Kolkata,9,176,IISER,IIT <-> IISER,54,146,0.277,I127439422
+IIT Mandi,National Centre for Biological Sciences,9,128,Premier Science,IIT <-> Premier Science,17,43,0.176,I194223965
+IIT Mandi,KIIT University,8,120,Other University,IIT <-> Other University,145,72,0.463,I67357951
+IIT Mandi,Central Electrochemical Research Institute,8,304,Other,IIT <-> Other,56,126,0.364,I106349282
+IIT Mandi,Indian Space Research Organisation,8,232,ISRO/DRDO,IIT <-> ISRO/DRDO,52,150,0.429,I1289461252
+IIT Mandi,Sardar Patel University Mandi,8,239,Other University,IIT <-> Other University,182,41,0.304,I4405284406
+IIT Mandi,Indian Institute of Science Education and Research Thiruvananthapuram,8,71,IISER,IIT <-> IISER,63,91,0.395,I50557253
+IIT Mandi,"All India Institute of Medical Sciences, Bilaspur",8,78,Medical,IIT <-> Medical,30,12,0.071,I4405280387
+IIT Mandi,SRM Institute of Science and Technology,8,77,Other,IIT <-> Other,437,241,0.538,I145286018
+IIT Mandi,Indian Institute of Science Education and Research Pune,7,156,IISER,IIT <-> IISER,52,132,0.333,I181996519
+IIT Mandi,Alagappa University,7,348,Other University,IIT <-> Other University,126,141,0.304,I131155284
+IIT Mandi,Rajiv Gandhi Institute of Petroleum Technology,7,63,Other,IIT <-> Other,69,44,0.463,I98210582
+IIT Mandi,Birla Institute of Technology and Science - Hyderabad Campus,7,49,Other,IIT <-> Other,70,65,0.579,I4210101034
+IIT Mandi,Jawaharlal Nehru University,7,127,Central University,IIT <-> Central University,141,283,0.395,I152429107
+IIT Mandi,"National Institute of Technical Teachers Training and Research, Chandigarh",7,49,Other,IIT <-> Other,34,36,0.429,I4210094717
+IIT Mandi,Research & Development Establishment (Engrs.),7,21,Other,IIT <-> Other,10,6,0.375,I4210099971
+IIT Mandi,Indian Institute of Science Education and Research Berhampur,7,26,IISER,IIT <-> IISER,75,19,0.333,I4210115612
+IIT Mandi,National Institute of Technology Srinagar,7,28,NIT,IIT <-> NIT,109,58,0.622,I8778637
+IIT Mandi,HCL Technologies (India),7,22,Other,IIT <-> Other,8,10,0.304,I96211989
+IIT Mandi,National Institute of Technology Agartala,6,152,NIT,IIT <-> NIT,58,34,0.463,I196486160
+IIT Mandi,National Institute of Technology Raipur,6,49,NIT,IIT <-> NIT,119,54,0.579,I38335241
+IIT Mandi,Vikram Sarabhai Space Centre,6,231,ISRO/DRDO,IIT <-> ISRO/DRDO,22,54,0.5,I71374576
+IIT Mandi,Shiv Nadar University,6,143,Other University,IIT <-> Other University,92,93,0.5,I26604189
+IIT Mandi,Indian Institute of Technology Dhanbad,6,133,IIT,,146,253,0.622,I189109744
+IIT Mandi,Indian Institute of Chemical Technology,6,216,Other,IIT <-> Other,93,215,0.277,I55664587
+IIT Mandi,Institute for Stem Cell Biology and Regenerative Medicine,6,147,Other,IIT <-> Other,6,21,0.132,I4210087873
+IIT Mandi,Tata Institute for Genetics and Society,6,109,Other,IIT <-> Other,6,6,0.091,I4210156799
+IIT Mandi,Guru Gobind Singh Indraprastha University,6,135,Other University,IIT <-> Other University,61,82,0.333,I105454292
+IIT Mandi,Sardar Vallabhbhai National Institute of Technology Surat,6,111,NIT,IIT <-> NIT,63,166,0.5,I42014448
+IIT Mandi,Guru Jambheshwar University of Science and Technology,6,88,Other University,IIT <-> Other University,77,69,0.333,I15896350
+IIT Mandi,Maulana Azad National Institute of Technology,6,19,NIT,IIT <-> NIT,94,71,0.538,I91277730
+IIT Mandi,Motilal Nehru National Institute of Technology,6,111,NIT,IIT <-> NIT,69,103,0.579,I152869788
+IIT Mandi,Sharda University,6,72,Other University,IIT <-> Other University,144,63,0.395,I74885063
+IIT Mandi,Central University of Punjab,6,71,Central University,IIT <-> Central University,65,64,0.25,I114724429
+IIT Mandi,DAV University,6,74,Other University,IIT <-> Other University,16,35,0.395,I1341847395
+IIT Mandi,Indian Institute of Petroleum,6,43,Other,IIT <-> Other,22,28,0.304,I84279003
+IIT Mandi,"UGC-DAE Consortium for Scientific Research, Mumbai Centre",6,45,Other,IIT <-> Other,29,48,0.341,I4405260855
+IIT Mandi,"Birla Institute of Technology, Mesra",6,42,Other,IIT <-> Other,151,172,0.538,I115715567
+IIT Mandi,Dayalbagh Educational Institute,6,24,Other,IIT <-> Other,42,114,0.395,I178254495
+IIT Mandi,National Institute of Technology Meghalaya,6,9,NIT,IIT <-> NIT,55,23,0.538,I9523339
+IIT Mandi,National Aerospace Laboratories,6,41,Other,IIT <-> Other,26,102,0.463,I1286499117
+IIT Mandi,Solid State Physics Laboratory,5,61,Other,IIT <-> Other,18,38,0.429,I140777494
+IIT Mandi,Indian Institute of Technology Bhubaneswar,5,63,IIT,,48,103,0.622,I99729588
+IIT Mandi,National Institute of Pharmaceutical Education and Research,5,454,Other,IIT <-> Other,113,97,0.154,I4210154014
+IIT Mandi,"Birla Institute of Technology and Science, Pilani - Goa Campus",5,25,Other,IIT <-> Other,32,47,0.579,I4210148827
+IIT Mandi,Saha Institute of Nuclear Physics,5,157,DAE,IIT <-> DAE,60,137,0.333,I16019930
+IIT Mandi,Central Drug Research Institute,5,66,Other,IIT <-> Other,14,80,0.111,I185249246
+IIT Mandi,Shoolini University,5,979,Other University,IIT <-> Other University,246,123,0.304,I4210133311
+IIT Mandi,Indian Agricultural Statistics Research Institute,5,215,Other,IIT <-> Other,45,12,0.132,I1141210
+IIT Mandi,Indian Council of Agricultural Research,5,174,Other,IIT <-> Other,75,41,0.132,I179420787
+IIT Mandi,Institute of Genomics and Integrative Biology,5,159,Other,IIT <-> Other,26,40,0.111,I177828482
+IIT Mandi,Chitkara University,5,112,Other University,IIT <-> Other University,218,38,0.364,I74319210
+IIT Mandi,Indian Institute of Toxicology Research,5,165,Other,IIT <-> Other,13,77,0.154,I85145500
+IIT Mandi,The NorthCap University,5,112,Other University,IIT <-> Other University,24,61,0.395,I129798099
+IIT Mandi,Lalit Narayan Mithila University,5,96,Other University,IIT <-> Other University,17,3,0.2,I3130357712
+IIT Mandi,UGC DAE Consortium for Scientific Research,5,85,Other,IIT <-> Other,102,159,0.333,I4210132317
+IIT Mandi,Bharathiar University,5,127,Other University,IIT <-> Other University,80,159,0.364,I111575329
+IIT Mandi,North Eastern Hill University,5,101,Other University,IIT <-> Other University,51,68,0.304,I197465736
+IIT Mandi,Gnanamani College of Technology,5,122,Other,IIT <-> Other,8,2,0.395,I4387154320
+IIT Mandi,Jamia Hamdard,5,113,Other,IIT <-> Other,60,45,0.2,I19716509
+IIT Mandi,Career Point University,5,33,Other University,IIT <-> Other University,28,46,0.277,I4210091899
+IIT Mandi,Dayanand Medical College & Hospital,5,60,Medical,IIT <-> Medical,23,27,0.053,I4210088867
+IIT Mandi,Dehradun Institute of Technology University,5,45,Other University,IIT <-> Other University,56,15,0.5,I933318745
+IIT Mandi,Gurukul Kangri Vishwavidyalaya,5,22,Other University,IIT <-> Other University,20,22,0.304,I114796046
+IIT Mandi,"Institute of Physics, Bhubaneshwar",5,49,Other,IIT <-> Other,45,66,0.333,I40912709
+IIT Mandi,SRM University,5,54,Other University,IIT <-> Other University,73,52,0.579,I4210131147
+IIT Mandi,Lovely Professional University,5,9,Other University,IIT <-> Other University,298,85,0.429,I110360157
+IIT Mandi,Regional Centre for Biotechnology,4,46,Other,IIT <-> Other,24,29,0.132,I4210094671
+IIT Mandi,Indian Institute of Technology Goa,4,28,IIT,,17,39,0.538,I4210112052
+IIT Mandi,Indian Agricultural Research Institute,4,237,Other,IIT <-> Other,49,33,0.132,I45509622
+IIT Mandi,University of Petroleum and Energy Studies,4,120,Other University,IIT <-> Other University,155,80,0.429,I5847235
+IIT Mandi,Nalanda University,4,149,Other University,IIT <-> Other University,9,18,0.2,I4210140720
+IIT Mandi,International Centre for Genetic Engineering and Biotechnology,4,108,Other,IIT <-> Other,22,23,0.132,I4210142124
+IIT Mandi,Rajkiya Engineering College Kannauj,4,106,Other,IIT <-> Other,44,13,0.333,I4405253485
+IIT Mandi,"Anna University, Chennai",4,91,Other University,IIT <-> Other University,115,247,0.5,I33585257
+IIT Mandi,University of Allahabad,4,79,Other University,IIT <-> Other University,68,62,0.429,I168893459
+IIT Mandi,Tezpur University,4,68,Other University,IIT <-> Other University,66,102,0.395,I126601174
+IIT Mandi,Jaypee University of Information Technology,4,97,Other University,IIT <-> Other University,58,31,0.429,I153954893
+IIT Mandi,National Institute of Technology Delhi,4,72,NIT,IIT <-> NIT,35,13,0.5,I44635919
+IIT Mandi,"Indian Institute of Engineering Science and Technology, Shibpur",4,49,Other,IIT <-> Other,63,130,0.622,I98365261
+IIT Mandi,National Brain Research Centre,4,46,Other,IIT <-> Other,18,34,0.111,I85332549
+IIT Mandi,Punjab Remote Sensing Centre,4,61,Other,IIT <-> Other,11,23,0.176,I4210131364
+IIT Mandi,Chittaranjan National Cancer Institute,4,50,Other,IIT <-> Other,8,13,0.091,I2802271162
+IIT Mandi,Indian Institute of Information Technology Allahabad,4,35,IIIT,IIT <-> IIIT,64,38,0.364,I26072440
+IIT Mandi,Koneru Lakshmaiah Education Foundation,4,36,Other,IIT <-> Other,108,30,0.463,I875944469
+IIT Mandi,Advanced Systems Laboratory,4,43,Other,IIT <-> Other,7,17,0.364,I4210101698
+IIT Mandi,Indian Institute of Information Technology Una,4,13,IIIT,IIT <-> IIIT,8,4,0.364,I4210127244
+IIT Mandi,Sambalpur University,4,20,Other University,IIT <-> Other University,31,13,0.333,I112754052
+IIT Mandi,Ministry of Defence,4,9,Other,IIT <-> Other,8,19,0.395,I4210150591
+IIT Mandi,Guru Kashi University,4,9,Other University,IIT <-> Other University,4,13,0.25,I3129634530
+IIT Mandi,"SRM University, Andhra Pradesh",4,30,Other University,IIT <-> Other University,58,29,0.5,I4210100463
+IIT Mandi,LNM Institute of Information Technology,4,37,Other,IIT <-> Other,6,22,0.538,I33552525
+IIT Mandi,University of Calcutta,4,28,Other University,IIT <-> Other University,107,173,0.429,I106542073
+IIT Mandi,Indian Institute of Information Technology Design and Manufacturing Jabalpur,4,36,IIIT,IIT <-> IIIT,38,39,0.579,I207223250
+IIT Mandi,Tilka Manjhi Bhagalpur University,4,47,Other University,IIT <-> Other University,57,9,0.2,I96307353
+IIT Mandi,Indian Statistical Institute,4,38,Premier Science,IIT <-> Premier Science,17,110,0.25,I6498739
+IIT Mandi,National Institute of Technology Warangal,4,8,NIT,IIT <-> NIT,147,70,0.622,I121750182
+IIT Mandi,IILM Institute for Higher Education,4,11,Other,IIT <-> Other,22,0,0.2,I2801787918
+IIT Mandi,JK Lakshmipat University,4,1,Other University,IIT <-> Other University,1,0,0.25,I912344705
+IIT Mandi,Syneos Health (India),4,9,Other,IIT <-> Other,1,0,0.091,I4210139218
+IIT Mandi,"Indian Institute of Science Education and Research, Tirupati",3,35,IISER,IIT <-> IISER,50,35,0.333,I4210140410
+IIT Mandi,Institute of Mathematical Sciences,3,35,DAE,IIT <-> DAE,3,21,0.277,I59611059
+IIT Mandi,National Institute of Mental Health and Neurosciences,3,12,Other,IIT <-> Other,11,18,0.053,I699696
+IIT Mandi,National Institute of Technology Tiruchirappalli,3,90,NIT,IIT <-> NIT,98,111,0.538,I122964287
+IIT Mandi,Central Potato Research Institute,3,93,Other,IIT <-> Other,11,12,0.132,I4210100544
+IIT Mandi,National Institute of Hydrology,3,78,Other,IIT <-> Other,31,80,0.154,I4210147361
+IIT Mandi,Harish-Chandra Research Institute,3,61,DAE,IIT <-> DAE,16,9,0.304,I35409948
+IIT Mandi,Bose Institute,3,68,Premier Science,IIT <-> Premier Science,25,124,0.2,I152754861
+IIT Mandi,Babasaheb Bhimrao Ambedkar University,3,31,Other University,IIT <-> Other University,50,38,0.333,I143247161
+IIT Mandi,Noida Institute of Engineering and Technology,3,36,Other,IIT <-> Other,25,4,0.333,I4405260775
+IIT Mandi,Narsee Monjee Institute of Management Studies,3,68,Other,IIT <-> Other,60,16,0.25,I226983648
+IIT Mandi,Central University of South Bihar,3,25,Central University,IIT <-> Central University,27,11,0.333,I343503978
+IIT Mandi,Uttaranchal University,3,96,Other University,IIT <-> Other University,65,22,0.395,I3132702812
+IIT Mandi,Terminal Ballistics Research Laboratory,3,65,Other,IIT <-> Other,9,35,0.333,I56365517
+IIT Mandi,Institute of Chemical Technology,3,54,Other,IIT <-> Other,60,139,0.224,I167751958
+IIT Mandi,Guru Nanak Dev University,3,75,Other University,IIT <-> Other University,60,142,0.333,I165682329
+IIT Mandi,KLE Technological University,3,48,Other University,IIT <-> Other University,60,49,0.463,I3132975163
+IIT Mandi,Indian Institute of Management Rohtak,3,47,IIM,IIT <-> IIM,0,4,0.071,I56308077
+IIT Mandi,Christ University,3,36,Other University,IIT <-> Other University,79,34,0.277,I48018076
+IIT Mandi,Sanjay Gandhi Post Graduate Institute of Medical Sciences,3,57,Other,IIT <-> Other,21,115,0.053,I161370692
+IIT Mandi,KR Mangalam University,3,47,Other University,IIT <-> Other University,38,9,0.364,I4210114149
+IIT Mandi,Jiwaji University,3,53,Other University,IIT <-> Other University,14,29,0.25,I102471911
+IIT Mandi,National Chemical Laboratory,3,51,Other,IIT <-> Other,69,250,0.25,I3125981224
+IIT Mandi,Sri Sri University,3,41,Other University,IIT <-> Other University,17,9,0.154,I3129903175
+IIT Mandi,Gurugram University,3,23,Other University,IIT <-> Other University,17,3,0.277,I4390039362
+IIT Mandi,"University of Agricultural Sciences, Bangalore",3,9,Other University,IIT <-> Other University,4,12,0.154,I199921877
+IIT Mandi,Hemwati Nandan Bahuguna Garhwal University,3,28,Other University,IIT <-> Other University,62,51,0.224,I185052938
+IIT Mandi,Pondicherry University,3,38,Other University,IIT <-> Other University,53,66,0.333,I175691731
+IIT Mandi,Indraprastha Institute of Information Technology Delhi,3,26,Other,IIT <-> Other,33,87,0.304,I119939252
+IIT Mandi,"All India Institute of Ayurveda, New Delhi",3,9,Other,IIT <-> Other,9,2,0.053,I4405252805
+IIT Mandi,Savitribai Phule Pune University,3,6,Other University,IIT <-> Other University,124,172,0.538,I878213199
+IIT Mandi,NIMS University,3,4,Other University,IIT <-> Other University,20,1,0.25,I2800157045
+IIT Mandi,Ashoka University,3,4,Other University,IIT <-> Other University,6,3,0.154,I347237974
+IIT Mandi,Jaypee Institute of Information Technology,3,4,Other,IIT <-> Other,42,28,0.395,I154970844
+IIT Mandi,South Asian University,3,1,Other University,IIT <-> Other University,9,35,0.25,I90425906
+IIT Mandi,Institute of Life Sciences,2,19,Other,IIT <-> Other,10,24,0.111,I4210118921
+IIT Mandi,Devi Ahilya Vishwavidyalaya,2,65,Other University,IIT <-> Other University,13,33,0.333,I138272832
+IIT Mandi,National Remote Sensing Centre,2,23,Other,IIT <-> Other,16,52,0.224,I1311524620
+IIT Mandi,Raja Ramanna Centre for Advanced Technology,2,58,DAE,IIT <-> DAE,56,68,0.395,I1289303365
+IIT Mandi,Central University of Jharkhand,2,385,Central University,IIT <-> Central University,31,22,0.429,I175970653
+IIT Mandi,Variable Energy Cyclotron Centre,2,15,DAE,IIT <-> DAE,16,57,0.395,I1279672703
+IIT Mandi,University of Kashmir,2,151,Other University,IIT <-> Other University,41,78,0.277,I135388327
+IIT Mandi,Visvesvaraya Technological University,2,103,Other University,IIT <-> Other University,61,94,0.579,I65674248
+IIT Mandi,Saveetha University,2,99,Other University,IIT <-> Other University,485,103,0.364,I85461943
+IIT Mandi,Indian Institute of Tropical Meteorology,2,154,Other,IIT <-> Other,46,201,0.224,I1333651918
+IIT Mandi,National Institute of Technology Kurukshetra,2,114,NIT,IIT <-> NIT,100,90,0.538,I105094715
+IIT Mandi,Nirma University,2,129,Other University,IIT <-> Other University,33,37,0.364,I165831266
+IIT Mandi,Maharaja Sayajirao University of Baroda,2,129,Other University,IIT <-> Other University,45,47,0.333,I110116418
+IIT Mandi,Intas Pharmaceuticals (India),2,129,Other,IIT <-> Other,2,1,0.091,I910881529
+IIT Mandi,National Environmental Engineering Research Institute,2,59,Other,IIT <-> Other,34,75,0.25,I170347488
+IIT Mandi,Indian Oil Corporation (India),2,69,Other,IIT <-> Other,5,14,0.25,I173709673
+IIT Mandi,Dayananda Sagar University,2,47,Other University,IIT <-> Other University,27,11,0.364,I4400573291
+IIT Mandi,Amrita Institute of Medical Sciences and Research Centre,2,45,Other,IIT <-> Other,9,16,0.053,I1282879092
+IIT Mandi,G.B. Pant Institute of Himalayan Environment and Development,2,41,Other,IIT <-> Other,17,29,0.132,I4210163968
+IIT Mandi,National Metallurgical Laboratory,2,57,Other,IIT <-> Other,17,20,0.364,I4210111921
+IIT Mandi,Netaji Subhas University of Technology,2,63,Other University,IIT <-> Other University,59,37,0.538,I36090812
+IIT Mandi,"Maharishi Markandeshwar University, Mullana",2,61,Other University,IIT <-> Other University,58,31,0.224,I155284866
+IIT Mandi,Galgotias University,2,55,Other University,IIT <-> Other University,108,32,0.333,I155125381
+IIT Mandi,Kurukshetra University,2,50,Other University,IIT <-> Other University,43,26,0.429,I178000100
+IIT Mandi,Central Glass and Ceramic Research Institute,2,57,Other,IIT <-> Other,36,70,0.333,I1309307044
+IIT Mandi,Presidency University,2,41,Other University,IIT <-> Other University,30,33,0.429,I157674215
+IIT Mandi,Kamla Nehru Institute of Technology,2,54,Other,IIT <-> Other,6,5,0.395,I4405277966
+IIT Mandi,"Rani Lakshmi Bai Central Agricultural University, Jhansi",2,51,Other University,IIT <-> Other University,24,2,0.132,I4405253351
+IIT Mandi,International Advanced Research Centre for Powder Metallurgy and New Materials,2,37,Other,IIT <-> Other,28,39,0.364,I4210103291
+IIT Mandi,National Bureau of Agriculturally Important Microorganisms,2,36,Other,IIT <-> Other,7,6,0.132,I4210123061
+IIT Mandi,Amicable Knowledge Solution University,2,55,Other University,IIT <-> Other University,5,13,0.277,I4210147242
+IIT Mandi,Mangalayatan University,2,28,Other University,IIT <-> Other University,3,9,0.176,I244923355
+IIT Mandi,National Institute of Technical Teachers’ Training and Research,2,29,Other,IIT <-> Other,42,11,0.429,I4210094264
+IIT Mandi,Central Institute of Mining and Fuel Research,2,26,Other,IIT <-> Other,20,18,0.333,I4210127669
+IIT Mandi,Cochin University of Science and Technology,2,21,Other University,IIT <-> Other University,60,72,0.429,I20497027
+IIT Mandi,University of Mysore,2,21,Other University,IIT <-> Other University,16,21,0.304,I204743663
+IIT Mandi,Siddaganga Institute of Technology,2,21,Other,IIT <-> Other,27,27,0.579,I4387153738
+IIT Mandi,Centre of Biomedical Research,2,29,Other,IIT <-> Other,16,14,0.111,I4210161010
+IIT Mandi,National Institute of Solar Energy,2,30,Other,IIT <-> Other,5,15,0.304,I4210155121
+IIT Mandi,Indira Gandhi Medical College,2,14,Medical,IIT <-> Medical,5,2,0.017,I2799277952
+IIT Mandi,Central Scientific Instruments Organisation,2,14,Other,IIT <-> Other,22,38,0.364,I42095658
+IIT Mandi,Madan Mohan Malaviya University of Technology,2,10,Other University,IIT <-> Other University,49,13,0.538,I2799532815
+IIT Mandi,University of Engineering & Management,2,22,Other University,IIT <-> Other University,16,14,0.538,I1296725772
+IIT Mandi,Gauhati University,2,16,Other University,IIT <-> Other University,86,54,0.395,I138537684
+IIT Mandi,Regional Medical Research Center,2,25,Other,IIT <-> Other,25,15,0.091,I2802952153
+IIT Mandi,Central Council for Research in Ayurvedic Science,2,16,Other,IIT <-> Other,3,2,0.111,I4210089662
+IIT Mandi,Central University of Jammu,2,25,Central University,IIT <-> Central University,28,19,0.463,I4210142231
+IIT Mandi,National Institute of Technology Durgapur,2,18,NIT,IIT <-> NIT,68,81,0.5,I155837530
+IIT Mandi,Indian Institute of Information Technology Kalyani,2,17,IIIT,IIT <-> IIIT,5,18,0.364,I4405259730
+IIT Mandi,Jamia Millia Islamia,2,9,Central University,IIT <-> Central University,159,132,0.463,I59475050
+IIT Mandi,TIFR Centre for Interdisciplinary Sciences,2,8,Other,IIT <-> Other,13,18,0.395,I4210112849
+IIT Mandi,Ministry of Electronics and Information Technology,2,4,Other,IIT <-> Other,4,8,0.364,I4210121746
+IIT Mandi,Munger University,2,3,Other University,IIT <-> Other University,16,4,0.304,I4210103923
+IIT Mandi,Mody University of Science and Technology,2,10,Other University,IIT <-> Other University,10,1,0.364,I72563045
+IIT Mandi,Healthcare Technology Innovation Centre,2,3,Other,IIT <-> Other,2,2,0.224,I4210102197
+IIT Mandi,Sardar Patel University,2,4,Other University,IIT <-> Other University,45,29,0.333,I57085157
+IIT Mandi,Chhatrapati Shahu Ji Maharaj University,2,4,Other University,IIT <-> Other University,10,10,0.277,I229991691
+IIT Mandi,Harcourt Butler Technical University,2,4,Other University,IIT <-> Other University,17,19,0.5,I4210090456
+IIT Mandi,Inter-University Accelerator Centre,2,3,Other University,IIT <-> Other University,28,51,0.333,I4210089002
+IIT Mandi,Jhargram Raj College,2,6,Other,IIT <-> Other,3,3,0.154,I4405256066
+IIT Mandi,Indian Institute of Technology Palakkad,2,2,IIT,,29,16,0.579,I4210113248
+IIT Mandi,Delhi Technological University,2,4,Other University,IIT <-> Other University,129,101,0.5,I863896202
+IIT Mandi,Banasthali University,2,4,Other University,IIT <-> Other University,50,40,0.364,I102117144
+IIT Mandi,Central Building Research Institute,2,0,Other,IIT <-> Other,11,46,0.364,I2801347850
+IIT Mandi,Tagore Centre for Natural Sciences and Philosophy,2,0,Other,IIT <-> Other,0,0,0.111,I4405277073
+IIT Mandi,Goa University,2,0,Other University,IIT <-> Other University,19,34,0.25,I140887281
+IIT Mandi,National Institute of Technology Sikkim,1,41,NIT,IIT <-> NIT,4,13,0.5,I101326570
+IIT Mandi,National Centre for Cell Science,1,7,Other,IIT <-> Other,8,16,0.111,I4210104670
+IIT Mandi,Shri BM Patil Medical College,1,439,Medical,IIT <-> Medical,1,0,0.017,I123665430
+IIT Mandi,BLDE (Deemed to be University),1,439,Other University,IIT <-> Other University,3,5,0.154,I4210116054
+IIT Mandi,National Institute of Technology Nagaland,1,377,NIT,IIT <-> NIT,26,15,0.463,I3131484930
+IIT Mandi,Jain University,1,156,Other University,IIT <-> Other University,162,81,0.395,I106826634
+IIT Mandi,Maharshi Dayanand University,1,105,Other University,IIT <-> Other University,58,46,0.333,I905734797
+IIT Mandi,King Edward Memorial Hospital Research Centre,1,105,Other,IIT <-> Other,4,10,0.053,I4210148958
+IIT Mandi,Rayat Bahra University,1,94,Other University,IIT <-> Other University,29,2,0.395,I2801240201
+IIT Mandi,Punjab Technical University,1,94,Other University,IIT <-> Other University,38,34,0.463,I94616015
+IIT Mandi,National Institute of Technology Jamshedpur,1,83,NIT,IIT <-> NIT,74,56,0.579,I187761245
+IIT Mandi,Dr. Babasaheb Ambedkar Technological University,1,80,Other University,IIT <-> Other University,3,2,0.463,I132157868
+IIT Mandi,Odisha University of Agriculture and Technology,1,76,Other University,IIT <-> Other University,10,4,0.176,I13567498
+IIT Mandi,National Institute of Plant Genome Research,1,71,Other,IIT <-> Other,9,14,0.111,I4210153536
+IIT Mandi,Energy and Resources Institute,1,55,Other,IIT <-> Other,15,55,0.2,I1286858202
+IIT Mandi,Patliputra University,1,49,Other University,IIT <-> Other University,2,1,0.277,I3131743352
+IIT Mandi,University of Lucknow,1,49,Other University,IIT <-> Other University,58,45,0.304,I186246823
+IIT Mandi,Institute of Microbial Technology,1,48,Other,IIT <-> Other,6,36,0.132,I4210147764
+IIT Mandi,Indo Korea Science and Technology,1,46,Other,IIT <-> Other,5,9,0.27,I4210152052
+IIT Mandi,Aryabhatta Research Institute of Observational Sciences,1,40,Other,IIT <-> Other,17,39,0.304,I2803025293
+IIT Mandi,"Maharana Pratap Horticultural University, Karnal",1,26,Other University,IIT <-> Other University,1,2,0.111,I4405261572
+IIT Mandi,Indian Council of Forestry Research and Education,1,26,Other,IIT <-> Other,6,5,0.154,I1286922834
+IIT Mandi,National Research Centre on Seed Spices,1,16,Other,IIT <-> Other,0,1,0.18,I4210113425
+IIT Mandi,ICAR Research Complex for NEH Region,1,16,Other,IIT <-> Other,12,4,0.091,I4210111975
+IIT Mandi,Institute of Minerals and Materials Technology,1,68,Other,IIT <-> Other,38,87,0.333,I4210107015
+IIT Mandi,All India Council for Technical Education,1,63,Other,IIT <-> Other,0,1,0.333,I162289562
+IIT Mandi,Doon University,1,59,Other University,IIT <-> Other University,20,22,0.25,I44565152
+IIT Mandi,Indian Institute of Integrative Medicine,1,58,Other,IIT <-> Other,9,20,0.111,I4210108071
+IIT Mandi,"J.C. Bose University of Science & Technology, YMCA",1,48,Other University,IIT <-> Other University,49,19,0.364,I55124831
+IIT Mandi,Ramakrishna Mission Vidyamandira,1,47,Other,IIT <-> Other,9,9,0.333,I2799306724
+IIT Mandi,Sacred Heart College (Autonomous),1,46,Other,IIT <-> Other,20,6,0.304,I4405259747
+IIT Mandi,Institute of Bioinformatics and Applied Biotechnology,1,40,Other,IIT <-> Other,1,13,0.132,I4210153885
+IIT Mandi,Center for Study of Science Technology and Policy,1,40,Other,IIT <-> Other,2,4,0.304,I2802876690
+IIT Mandi,Central Marine Fisheries Research Institute,1,38,Other,IIT <-> Other,2,1,0.111,I899802
+IIT Mandi,Patna University,1,37,Other University,IIT <-> Other University,15,5,0.277,I2534966
+IIT Mandi,Hindustan Institute of Technology and Science,1,37,Other,IIT <-> Other,29,41,0.463,I43663321
+IIT Mandi,Krishna University,1,37,Other University,IIT <-> Other University,10,5,0.25,I221092938
+IIT Mandi,Karnatak University,1,37,Other University,IIT <-> Other University,11,18,0.224,I110083240
+IIT Mandi,Indian Institute of Management Ranchi,1,33,IIM,IIT <-> IIM,0,2,0.111,I4210162014
+IIT Mandi,University of Mumbai,1,32,Other University,IIT <-> Other University,48,44,0.429,I169877490
+IIT Mandi,Maharana Pratap University of Agriculture and Technology,1,31,Other University,IIT <-> Other University,16,16,0.224,I253568910
+IIT Mandi,Gandhigram Rural Institute,1,29,Other,IIT <-> Other,74,97,0.395,I880551032
+IIT Mandi,Defence Research and Development Establishment,1,26,ISRO/DRDO,IIT <-> ISRO/DRDO,1,10,0.2,I2800900741
+IIT Mandi,Kavayitri Bahinabai Chaudhari North Maharashtra University,1,26,Other University,IIT <-> Other University,9,29,0.364,I157117621
+IIT Mandi,Ahmedabad University,1,26,Other University,IIT <-> Other University,15,2,0.333,I52527943
+IIT Mandi,Meghnad Saha Institute of Technology,1,26,DAE,IIT <-> DAE,0,1,0.463,I4405273617
+IIT Mandi,Defence Institute of High Altitude Research,1,24,Other,IIT <-> Other,0,1,0.091,I4210090935
+IIT Mandi,Shivaji University,1,23,Other University,IIT <-> Other University,45,86,0.463,I141641110
+IIT Mandi,Indian Institute of Chemical Biology,1,23,Other,IIT <-> Other,8,40,0.132,I160344538
+IIT Mandi,Institute of Post Graduate Medical Education and Research,1,23,Other,IIT <-> Other,4,11,0.034,I4210100047
+IIT Mandi,Sam Higginbottom Institute of Agriculture,1,22,Other,IIT <-> Other,5,21,0.25,I223959643
+IIT Mandi,Government of Haryana,1,21,Other,IIT <-> Other,9,3,0.25,I2799795791
+IIT Mandi,Jaypee University Anoopshahr,1,21,Other University,IIT <-> Other University,2,4,0.364,I4405262404
+IIT Mandi,Physical Research Laboratory,1,20,Other,IIT <-> Other,17,154,0.277,I121502294
+IIT Mandi,Institute of Liver and Biliary Sciences,1,19,Other,IIT <-> Other,6,5,0.034,I4210123001
+IIT Mandi,Indian Council of Medical Research,1,19,Medical,IIT <-> Medical,37,41,0.053,I37048141
+IIT Mandi,National Institute of Malaria Research,1,19,Other,IIT <-> Other,2,5,0.111,I76782289
+IIT Mandi,Uttarakhand Technical University,1,17,Other University,IIT <-> Other University,4,7,0.429,I201750527
+IIT Mandi,Guru Angad Dev Veterinary and Animal Sciences University,1,16,Other University,IIT <-> Other University,2,10,0.053,I223471776
+IIT Mandi,Advanced Materials and Processes Research Institute,1,15,Other,IIT <-> Other,25,34,0.395,I115635661
+IIT Mandi,Shree Guru Gobind Singh Tricentenary University,1,12,Other University,IIT <-> Other University,21,12,0.2,I3130021832
+IIT Mandi,Manav Rachna International Institute of Research and Studies,1,12,Other,IIT <-> Other,27,12,0.333,I55016150
+IIT Mandi,O. P. Jindal Global University,1,12,Other University,IIT <-> Other University,7,3,0.091,I4210129200
+IIT Mandi,Indian Institute of Remote Sensing,1,11,Other,IIT <-> Other,21,80,0.176,I51281103
+IIT Mandi,Shri Vishwakarma Skill University,1,9,Other University,IIT <-> Other University,7,0,0.277,I4210137508
+IIT Mandi,Teerthanker Mahaveer University,1,8,Other University,IIT <-> Other University,17,3,0.25,I134705546
+IIT Mandi,Mahaveer University,1,8,Other University,IIT <-> Other University,15,3,0.364,I4405260859
+IIT Mandi,Bihar Engineering University,1,8,Other University,IIT <-> Other University,6,0,0.364,I4405262542
+IIT Mandi,National Institute of Technology Andhra Pradesh,1,7,NIT,IIT <-> NIT,43,17,0.622,I4210153924
+IIT Mandi,Bennett University,1,7,Other University,IIT <-> Other University,40,14,0.304,I3129773123
+IIT Mandi,Noida International University,1,7,Other University,IIT <-> Other University,3,4,0.25,I4210086299
+IIT Mandi,Institute of Engineering & Technology,1,5,Other,IIT <-> Other,5,1,0.304,I4405277920
+IIT Mandi,M.J.P. Rohilkhand University,1,4,Other University,IIT <-> Other University,6,7,0.304,I139858224
+IIT Mandi,Mahatma Gandhi University,1,4,Other University,IIT <-> Other University,45,64,0.304,I177436651
+IIT Mandi,Indian Institute of Management Calcutta,1,21,IIM,IIT <-> IIM,1,2,0.091,I71495548
+IIT Mandi,Somaiya Vidyavihar University,1,21,Other University,IIT <-> Other University,4,3,0.304,I4405262393
+IIT Mandi,Indian Institute of Space Science and Technology,1,18,Other,IIT <-> Other,22,56,0.463,I882761360
+IIT Mandi,Meerut College,1,17,Other,IIT <-> Other,1,1,0.176,I4405266925
+IIT Mandi,B.S. Abdur Rahman Crescent Institute of Science & Technology,1,16,Other,IIT <-> Other,20,23,0.429,I94948490
+IIT Mandi,Rajah Serfoji Government College (Autonomous),1,16,Other,IIT <-> Other,11,2,0.277,I4405255148
+IIT Mandi,Government of Uttar Pradesh,1,15,Other,IIT <-> Other,21,5,0.176,I2801491316
+IIT Mandi,Central Salt and Marine Chemicals Research Institute,1,14,Other,IIT <-> Other,49,75,0.176,I128420443
+IIT Mandi,Department of Space,1,13,Other,IIT <-> Other,4,20,0.429,I3148377317
+IIT Mandi,Ramakrishna Mission Vivekananda Centenary College,1,12,Other,IIT <-> Other,2,3,0.2,I4405270341
+IIT Mandi,Swami Rama Himalayan University,1,12,Other University,IIT <-> Other University,9,2,0.132,I2802000655
+IIT Mandi,"ICFAI University, Tripura",1,10,Other University,IIT <-> Other University,3,4,0.224,I173462786
+IIT Mandi,Sidho-Kanho-Birsha University,1,10,Other University,IIT <-> Other University,13,18,0.277,I261330113
+IIT Mandi,S.N. Bose National Centre for Basic Sciences,1,9,Premier Science,IIT <-> Premier Science,46,69,0.333,I77430839
+IIT Mandi,Mahindra University,1,8,Other University,IIT <-> Other University,16,9,0.622,I4210164565
+IIT Mandi,Acharya Institute of Technology,1,7,Other,IIT <-> Other,6,6,0.429,I4405261980
+IIT Mandi,Yenepoya University,1,7,Other University,IIT <-> Other University,19,7,0.111,I158688498
+IIT Mandi,Yenepoya Research Centre,1,7,Other,IIT <-> Other,17,4,0.154,I4405268903
+IIT Mandi,International Centre for Theoretical Sciences,1,6,Other,IIT <-> Other,0,12,0.304,I4210090503
+IIT Mandi,G.L. Bajaj Institute of Technology and Management Greater Noida,1,5,Other,IIT <-> Other,23,4,0.304,I4405263758
+IIT Mandi,Shri Mata Vaishno Devi University,1,3,Other University,IIT <-> Other University,31,27,0.364,I59179055
+IIT Mandi,Gyan Vihar University,1,3,Other University,IIT <-> Other University,18,8,0.304,I91894341
+IIT Mandi,Himachal Pradesh University,1,3,Other University,IIT <-> Other University,45,32,0.333,I904467727
+IIT Mandi,Deen Dayal Upadhyaya Gorakhpur University,1,17,Other University,IIT <-> Other University,27,27,0.277,I886702836
+IIT Mandi,Sri Aurobindo Institute of Medical Sciences,1,15,Other,IIT <-> Other,0,0,0.017,I4210140180
+IIT Mandi,Chirayu Medical College & Hospital,1,15,Medical,IIT <-> Medical,0,0,0.017,I4210139797
+IIT Mandi,Sri Guru Granth Sahib World University,1,13,Other University,IIT <-> Other University,9,16,0.277,I199140397
+IIT Mandi,Central Ground Water Board,1,10,Other,IIT <-> Other,8,15,0.2,I4210113437
+IIT Mandi,National Institute of Technology Patna,1,10,NIT,IIT <-> NIT,53,45,0.538,I11793825
+IIT Mandi,Shri Vile Parle Kelavani Mandal,1,10,Other,IIT <-> Other,36,4,0.333,I4210132590
+IIT Mandi,Chaudhary Charan Singh Haryana Agricultural University,1,10,Other University,IIT <-> Other University,23,12,0.154,I24927338
+IIT Mandi,Rajkiya Engineering College Mainpuri,1,7,Other,IIT <-> Other,7,1,0.395,I4405256139
+IIT Mandi,Central Agricultural University,1,7,Other University,IIT <-> Other University,18,8,0.111,I76253773
+IIT Mandi,Binod Bihari Mahto Koyalanchal University,1,6,Other University,IIT <-> Other University,4,0,0.132,I4405260549
+IIT Mandi,Sher-i-Kashmir Institute of Medical Sciences,1,5,Other,IIT <-> Other,5,9,0.034,I206040828
+IIT Mandi,COEP Technological University,1,5,Other University,IIT <-> Other University,15,14,0.463,I4405273661
+IIT Mandi,Tata Consultancy Services (India),1,4,Other,IIT <-> Other,2,19,0.364,I55215948
+IIT Mandi,Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences,1,4,Other,IIT <-> Other,0,2,0.034,I13529149
+IIT Mandi,Centre for Cellular and Molecular Biology,1,3,Other,IIT <-> Other,3,35,0.111,I185638415
+IIT Mandi,Indrashil University,1,3,Other University,IIT <-> Other University,3,1,0.333,I4210162019
+IIT Mandi,Ganpat University,1,3,Other University,IIT <-> Other University,13,1,0.333,I45372603
+IIT Mandi,TCG Crest,1,3,Other,IIT <-> Other,17,3,0.395,I4210159890
+IIT Mandi,Ramakrishna Mission Residential College,1,2,Other,IIT <-> Other,3,2,0.277,I4405271030
+IIT Mandi,Central Leather Research Institute,1,2,Other,IIT <-> Other,15,66,0.277,I112576028
+IIT Mandi,Agartala Government Medical College,1,2,Medical,IIT <-> Medical,6,3,0.017,I4210167321
+IIT Mandi,Tata Steel (India),1,2,Other,IIT <-> Other,20,15,0.333,I87816474
+IIT Mandi,Rashtriya Raksha University,1,2,Other University,IIT <-> Other University,2,0,0.25,I3132447494
+IIT Mandi,D.A.V. College Chandigarh,1,11,Other,IIT <-> Other,25,5,0.304,I4405276032
+IIT Mandi,Central University of Gujarat,1,10,Central University,IIT <-> Central University,60,22,0.224,I89095802
+IIT Mandi,St. Stephen's College,1,5,Other,IIT <-> Other,2,4,0.25,I4405274875
+IIT Mandi,Zoological Survey of India,1,4,Other,IIT <-> Other,4,6,0.111,I1338006420
+IIT Mandi,Islamic University of Science and Technology,1,4,Other University,IIT <-> Other University,10,5,0.429,I4264650
+IIT Mandi,"Islamic University of Science and Technology, Kashmir",1,4,Other University,IIT <-> Other University,4,6,0.333,I4405256391
+IIT Mandi,"Christian Medical College, Vellore",1,3,Medical,IIT <-> Medical,15,19,0.034,I172917736
+IIT Mandi,Visva-Bharati University,1,3,Other University,IIT <-> Other University,50,89,0.304,I130291710
+IIT Mandi,Mahindra Group (India),1,3,Other,IIT <-> Other,9,1,0.277,I1336379959
+IIT Mandi,Defence Research and Development Laboratory,1,3,ISRO/DRDO,IIT <-> ISRO/DRDO,2,12,0.364,I2800689258
+IIT Mandi,KCG College of Technology,1,2,Other,IIT <-> Other,5,3,0.5,I4405266969
+IIT Mandi,Central University of Karnataka,1,2,Central University,IIT <-> Central University,6,10,0.463,I106053113
+IIT Mandi,"Medical College and Hospital, Kolkata",1,2,Medical,IIT <-> Medical,0,6,0.034,I68428275
+IIT Mandi,Govind Ballabh Pant University of Agriculture and Technology,1,1,Other University,IIT <-> Other University,39,34,0.224,I252758333
+IIT Mandi,Uttarakhand State Council for Science and Technology,1,1,Other,IIT <-> Other,1,2,0.154,I4210140820
+IIT Mandi,Dr. Yashwant Singh Parmar University of Horticulture and Forestry,1,1,Other University,IIT <-> Other University,5,17,0.111,I211055903
+IIT Mandi,Central University of Kerala,1,1,Central University,IIT <-> Central University,10,6,0.277,I35340524
+IIT Mandi,Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry,1,1,Other University,IIT <-> Other University,7,2,0.132,I4210095517
+IIT Mandi,University of Madras,1,5,Other University,IIT <-> Other University,87,114,0.304,I215927
+IIT Mandi,Central Institute for Cotton Research,1,4,Other,IIT <-> Other,0,3,0.132,I185412522
+IIT Mandi,National Institute of Immunology,1,4,Other,IIT <-> Other,7,16,0.132,I4210156726
+IIT Mandi,IITB-Monash Research Academy,1,5,Other,IIT <-> Other,9,18,0.463,I2802772015
+IIT Mandi,Dr. B.R. Ambedkar State Institute of Medical Sciences,1,2,Other,IIT <-> Other,1,0,0.017,I4405268885
+IIT Mandi,Gauhati Medical College and Hospital,1,1,Medical,IIT <-> Medical,8,8,0.034,I134260573
+IIT Mandi,Rashtrasant Tukadoji Maharaj Nagpur University,1,2,Other University,IIT <-> Other University,30,18,0.429,I133978751
+IIT Mandi,"Shiv Nadar University, Chennai",1,0,Other University,IIT <-> Other University,4,1,0.429,I4405255682
+IIT Mandi,Government of India,1,0,Other,IIT <-> Other,26,68,0.224,I2799351866
+IIT Mandi,Karnataka State Open University,1,0,Other University,IIT <-> Other University,10,0,0.25,I342246540
+IIT Mandi,Translational Health Science and Technology Institute,1,0,Other,IIT <-> Other,8,12,0.111,I2801880299
+IIT Mandi,VIT Bhopal University,1,0,Other University,IIT <-> Other University,59,8,0.395,I4405263090
+IIT Mandi,Nagaland University,1,0,Other University,IIT <-> Other University,17,9,0.224,I61198380
+IIT Mandi,D Y Patil International University,1,0,Other University,IIT <-> Other University,4,0,0.429,I4210096567
+IIT Mandi,GITAM University,1,0,Other University,IIT <-> Other University,92,21,0.429,I885392262
+IIT Mandi,Vivekananda Institute of Professional Studies,1,0,Other,IIT <-> Other,0,0,0.154,I4405263740
+IIT Mandi,Asutosh College,1,0,Other,IIT <-> Other,4,5,0.333,I4405271698
+IIT Mandi,National Institute of Food Technology Entrepreneurship and Management,1,0,Other,IIT <-> Other,3,8,0.2,I342702707
+IIT Mandi,Ashoka Trust for Research in Ecology and the Environment,1,0,Other,IIT <-> Other,1,7,0.091,I4210116320
+IIT Mandi,IMS Ghaziabad,1,0,Other,IIT <-> Other,5,2,0.224,I4405274630
+IIT Mandi,Department of Public,1,27,Other,IIT <-> Other,3,1,0.364,I4210139346
+IIT Mandi,Melmaruvathur Adhiparasakthi Institute of Medical Sciences and Research,1,10,Other,IIT <-> Other,0,0,0.071,I4405282240
+IIT Mandi,Punjab Agricultural University,1,5,Other University,IIT <-> Other University,20,20,0.176,I899646
+IIT Mandi,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,1,4,IIIT,IIT <-> IIIT,5,11,0.333,I9747756
+IIT Mandi,Heritage Institute of Technology,1,6,Other,IIT <-> Other,12,8,0.5,I4405272644
+IIT Mandi,"Indira Gandhi University, Meerpur",1,3,Other University,IIT <-> Other University,3,0,0.2,I4210142013
+IIT Mandi,Amity University Gurugram,1,3,Other University,IIT <-> Other University,46,24,0.429,I4405262955
+IIT Mandi,Aditya University,1,2,Other University,IIT <-> Other University,33,4,0.538,I4405262389
+IIT Mandi,"Jawaharlal Nehru Technological University, Kakinada",1,2,Other University,IIT <-> Other University,22,13,0.5,I142809039
+IIT Mandi,Shri Jagdishprasad Jhabarmal Tibrewala University,1,1,Other University,IIT <-> Other University,13,1,0.364,I341451707
+IIT Mandi,Medtronic (India),1,2,Other,IIT <-> Other,1,0,0.224,I4210097734
+IIT Mandi,Safdarjang Hospital,1,0,Other,IIT <-> Other,0,3,0.034,I1312996466
+IIT Mandi,Vardhman Mahavir Medical College & Safdarjung Hospital,1,0,Medical,IIT <-> Medical,1,2,0.034,I17972996
+IIT Mandi,Bengaluru City University,1,0,Other University,IIT <-> Other University,6,2,0.277,I4405260856
+IIT Mandi,Bharathidasan University,1,0,Other University,IIT <-> Other University,72,64,0.277,I4076070
+IIT Mandi,Sandip Institute of Technology & Research Centre,1,0,Other,IIT <-> Other,0,6,0.395,I4405263547
+IIT Mandi,National Institute of Technology Calicut,1,0,NIT,IIT <-> NIT,43,38,0.579,I114845381
+IIT Mandi,Chhattisgarh Swami Vivekanand Technical University,1,0,Other University,IIT <-> Other University,5,3,0.5,I2800818028

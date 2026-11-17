@@ -168,7 +168,7 @@ Each year's network contains the listed faculty who published that year and the 
   - **Author self-citation:** an author citing their own Group 6 paper.
   - **Group 6 references per citing paper.**
   - **Concentration:** the share coming from the 10 most active citing authors.
-- **Interpretation:** the dashboard reports these numbers; interpreting them is left to the group.
+- **Conclusion:** private universities cite Group 6 less per paper they publish; their high totals follow from how fast their own output grew. Former Group 6 authors, self-citation and a few heavy citers do not explain it. See Key_Observations.pdf §5.
 
 **Note B: large collaborations.**
 Every paper with 10 or more authors is flagged (`flagged_10plus_author_papers.csv`). A faculty member is flagged if:
@@ -177,6 +177,17 @@ Every paper with 10 or more authors is flagged (`flagged_10plus_author_papers.cs
 - their lifetime citations are 1 lakh or more.
 
 No one reaches 1 lakh in OpenAlex (the highest is 77,055); Google Scholar counts are usually higher. The faculty table shows citations with and without 10+ author papers side by side.
+
+**Citation index (collaboration and impact).**
+Older papers have had more time to collect citations, so raw citations per paper cannot compare groups of papers with different age mixes. The citation index of a paper is its citations divided by the mean citations of all Group 6 papers published in the same year; 1.0 is the Group 6 average. It is averaged over:
+- collaboration type: single institute, with other Indian institutions, international (any author affiliation outside India). Papers with 10+ authors are left out of this comparison so that consortium papers do not drive it;
+- number of authors (1, 2–3, 4–5, 6–9, 10–99, 100+);
+- venue type, journal quartile and OpenAlex field.
+
+Output: `data/analysis/collaboration_impact.csv`. The index describes association, not cause.
+
+**Concentration of faculty output.**
+The Lorenz curve and Gini coefficient are computed per institute on papers per listed faculty member (2016–26).
 
 **Checks on Phase II numbers.**
 Key numbers were recomputed by separate code from the raw data, and all checks passed:

@@ -1,7 +1,28 @@
 # Group 6: IIT Cluster (IIT Bhubaneswar · IIT Indore · IIT Mandi)
 
+DPCN Research Mapping Project, 2016–2026 · Team: Arjun Dingankar, Soham Acharya, Sumit Kumar
+
+**Dashboard:** https://arjun0471.github.io/dpcn-g6/
+**Report:** [Key_Observations.pdf](Key_Observations.pdf) (4 pages; editable copy: Key_Observations.docx)
+
+## What is in this submission
+| Path | Contents |
+|---|---|
+| `index.html` | The analysis dashboard (the page served at the link above). Open it in a browser with internet access. |
+| `Key_Observations.pdf` | Key observations report: basic statistics and network analysis, with interpretation. |
+| `data/` | Main dataset, exactly as the instruction note specifies: `group6_data.csv`, `citation_network.csv`, `authorship_network.csv`, `indian_connections.csv`. |
+| `data/inputs/` | Inputs: `faculty_list.csv`, SCImago journal ranks (`scimagojr.csv`), CORE conference ranks (`core_ranks.csv`), full author lists of 100+ author papers, and the output counts of the top citing institutions. |
+| `data/analysis/` | Tables behind the dashboard and the report: institution overview, yearly trend, faculty and department comparison, top 30 by IF, each faculty member's top 10 by IF, frequent journals, institutional partners, temporal network, collaboration impact, citing institutions, flagged faculty and papers, and `dashboard_data.json`. |
+| `data/supplementary/` | Extended versions of the four main CSVs (OpenAlex IDs, departments, flags) and per-paper / per-author network metrics. |
+| `code/` | The pipeline: `group6_pipeline.py` → `phase2_extract.py` → `phase2.py` (uses `insights.py` and `phase2_template.html`) → `make_report.py`. |
+| `SOURCES.md`, `DECISIONS.md` | Every source used, and how authors were verified, identical names handled and the data processed. |
+
+The raw OpenAlex API responses (about 4,300 cached files) are not included because of their size; the pipeline downloads them again.
+
+**Two scopes are used.** The main CSVs and the Phase I numbers below cover papers with at least one listed faculty author (17,317 papers). The overview statistics in the dashboard and the report cover every paper with a Group 6 affiliation, students' papers included (21,344 papers), as the Phase II directions ask. Figures such as the Q1 share therefore differ slightly between the two scopes.
+
 ## Run it (roughly 5–10 min the first time with 8 parallel requests; `--workers 4` if you see many 429s)
-1. Put `group6_pipeline.py` and `dashboard_template.html` in one folder.
+1. Put the files from `code/` and `data/inputs/` in one folder.
 2. `pip install requests pandas networkx`
 3. Get a free OpenAlex API key (openalex.org → sign up → API key). Without a key the daily budget is ~1,000 calls; a full run needs ~3,000.
    - macOS/Linux: `export OPENALEX_API_KEY=yourkey`
@@ -35,25 +56,27 @@ To rebuild outputs after editing inputs without using the API: `python group6_pi
 - Q1 share of journal papers: Bhubaneswar 56.4% · Indore 59.3% · Mandi 57.7%.
 - 222,392 citation edges (DOI to DOI, 2016–2026), 42,069 of them between Group 6 papers. 65,469 co-authorship edges. 1,435 institute–partner pairs.
 - Faculty co-authorship network (Phase I, every paper): 1,721 connected faculty, 69 Louvain communities (modularity 0.9).
-- Phase II statistics use all 21,344 institute papers (students' papers included); see the Phase II dashboard.
+- Phase II statistics use all 21,344 institute papers (students' papers included); see the dashboard and Key_Observations.pdf.
 
 ## Phase II and the dashboard
 After the pipeline, run:
 ```
 python phase2_extract.py   # citing papers with their authors, from the cache
 python phase2.py           # Phase II metrics -> out/phase2/*.csv, and the dashboard out/group6_dashboard.html
+python make_report.py      # report/Key_Observations.html with its figures (print to PDF)
 ```
+In this submission `out/group6_dashboard.html` is `index.html`, `out/*.csv` is `data/`, `out/phase2/` is `data/analysis/` and `out/supplementary/` is `data/supplementary/`.
 `out/group6_dashboard.html` is the single dashboard for the whole project. It covers every Phase I panel and the Phase II directions. An institute selector at the top (All three / Bhubaneswar / Indore / Mandi) drives the institution-level panels. Tabs:
-1. **Overview:** institution summary and Q1 with IF > 5 / > 10; author-count classes; yearly trends; collaborating institutions per year. Below that, the per-institute detail: publication trend, quartile distribution, top 5 journals, CORE ranks, research areas, most-cited top 10.
-2. **Faculty & departments:** productivity vs connectedness; most productive and most connected; h-index distribution; faculty list by department; sortable faculty comparison; top 30 papers by IF; most frequent journals; each person's top 10 by IF; department comparison.
+1. **Overview:** institution summary and Q1 with IF > 5 / > 10; author-count classes; yearly trends; collaborating institutions per year. Below that, the per-institute detail: publication trend, quartile distribution, top 5 journals, CORE ranks, research areas, most-cited top 10; then collaboration and citation impact (collaboration type, team size, collaboration mix by year, research fields).
+2. **Faculty & departments:** productivity vs connectedness; most productive and most connected; h-index distribution; faculty list by department; sortable faculty comparison; top 30 papers by IF; most frequent journals; each person's top 10 by IF; concentration of output (Lorenz curve, Gini); department comparison. Clicking any faculty name opens that person's full paper list; the search box at the top finds a faculty member by name.
 3. **Networks:** co-authorship (faculty only), institutional, temporal analysis, and the citation network (graph, PageRank, in-degree distribution).
 4. **Indian connectivity:** citation in-flow and out-flow, impact ratio, year-wise flow, top 10 citing institutes, partner ranking with cross-cluster flags and topic Jaccard.
 5. **Notes:** institutions that cite Group 6 a lot (private vs government), and large-collaboration flags.
 6. **Data & sources.**
 
-Interpretation is left to the group; see DECISIONS.md §4. The pipeline alone also writes a simpler `group6_dashboard.html`; running `phase2.py` replaces it with the full one.
+Our findings are in Key_Observations.pdf and in the "Key findings" boxes on each tab; method decisions are in DECISIONS.md §4. The pipeline alone also writes a simpler `group6_dashboard.html`; running `phase2.py` replaces it with the full one.
 
-## Method notes (useful for the report)
+## Method notes
 - Source: OpenAlex works with an author affiliated to one of the three ROR IDs, 2016–2026. Kept: journal articles/reviews/letters and conference papers (OpenAlex type `conference-paper`, plus book-series proceedings). Excluded: preprints, repositories (Zenodo, arXiv), book chapters in edited books, errata, editorials.
   ROR: Bhubaneswar 04gx72j20 · Indore 01hhf7w52 · Mandi 05r9r2f34.
 - `group6_data.csv` holds faculty publications only (papers with at least one listed faculty author): one row per paper × Group 6 faculty author. A paper with three faculty authors appears three times, once per author. The brief's "Fetch all faculty publications" is read as papers where the faculty member is listed with the assigned institute's affiliation.
